@@ -246,11 +246,11 @@
 }
 
 #carouselId .carousel-indicators li {
-    width: 30px;
-    height: 10px;
+    width: 21px;
+    height: 0px;
     background: var(--bs-primary);
     margin: 10px;
-    border-radius: 30px;
+    border-radius: 4px;
     opacity: 1;
 }
 
@@ -707,4 +707,80 @@ padding: 8px 15px;
 .counter h1{
     color: aquamarine;
 }
+
+.About__bg{
+background-color: #161831;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+
+.all_link_color{
+    color: #02D9BF;
+    font-weight: 800;
+}
+.all_link_color:hover{
+    color: red;
+}
+.header_txt_grd{
+    color: #1be5d3;
+}
+.exploer__bg{
+    background-color: #F0F0F0;
+}
+.comp__bg{
+    background: linear-gradient(317deg, rgba(32, 30, 67, 1) 0%, rgba(52, 50, 122, 1) 50%, rgba(86, 34, 138, 1) 100%);
+    color: white;
+}
+.com_txt{
+    /* background: linear-gradient(to right, #58C6E2 0%, orange 25%, yellow 50%, green 75%, blue 100%); */
+    background: linear-gradient(to right, #58C6E2 0%, white 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.about_plan{
+    /* background: rgba( 255, 255, 255, 0.05 ); */
+    background: transparent;
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+/* border: 1px solid rgba( 255, 255, 255, 0.18 ); */
+border: 1px solid #ffffff;
+padding: 10px;
+width: 82%;
+transition: 0.5s;
+}
+.about_plan:hover{
+    background-color: rgba(128, 128, 128, 0.425);
+}
+.dis_co_btn{
+    padding: 8px;
+    border-radius: 25px;
+    border: none;
+    transition: 0.5s;
+    background: conic-gradient(from 317deg at 100% 66%, #515EDF 0%, #515EDF 50%, #727ADB 100%);
+}
+.dis_co_btn:hover{
+    background: transparent;
+    border: 0.5px solid white;
+}
+.set_key_feature{
+    background: radial-gradient(ellipse at 200% 0%, #1D0042 0%, #1D0042 50%, #1F008A 100%);
+}
+#box{
+    border: 0.5px solid white ;
+}
 /*homepage end */
+
+/* media section start */
+@media (min-width:0px) and (max-width:576px) {
+    .com_txt{
+        text-align: center;
+    }
+    .about_plan{
+        width: 100%;
+    }
+}
