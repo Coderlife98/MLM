@@ -47,16 +47,33 @@
             </button>
             <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                 <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                    <a href="index.html" class="nav-item nav-link active text-secondary">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="contact.html" class="nav-item nav-link">Demo</a>
-                    <a href="service.html" class="nav-item nav-link">Services</a>
+                    <a href="index.php" class="nav-item nav-link active text-secondary">Home</a>
+                    <a href="about.php" class="nav-item nav-link">About</a>
+                    <a href="./demo.php" class="nav-item nav-link">Demo</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Resources</a>
+                        <a href="./mlm_plan.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">MLM Plan</a>
                         <div class="dropdown-menu rounded">
-                            <a href="blog.html" class="dropdown-item">Blog</a>
-                            <a href="team.html" class="dropdown-item">Features</a>
-                            <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                            <a href="./binary_plan.php" class="dropdown-item">Binary Plan</a>
+                            <a href="./matrix_plan.php" class="dropdown-item">Matrix Plan</a>
+                            <a href="./Unilevel_plan.php" class="dropdown-item">Unilevel Plan</a>
+                            <a href="./generation.php" class="dropdown-item">Generation Plan</a>
+                            <!-- <a href="testimonial.php" class="dropdown-item">Unilevel Plan</a> -->
+                            <!-- <a href="404.html" class="dropdown-item"></a> -->
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+                        <div class="dropdown-menu rounded">
+                            <a href="./website_dev.php" class="dropdown-item">Website Development</a>
+                            <a href="digital.php" class="dropdown-item">digital marketing</a>
+                        </div>
+                    </div>
+                    <div class="nav-item dropdown">
+                        <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Resources</a>
+                        <div class="dropdown-menu rounded">
+                            <a href="blog.php" class="dropdown-item">Blog</a>
+                            <a href="features.php" class="dropdown-item">Features</a>
+                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
                             <!-- <a href="404.html" class="dropdown-item"></a> -->
                         </div>
                     </div>
