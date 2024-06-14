@@ -130,14 +130,16 @@
                 <div class="col-lg-7 col-md-6 d-flex align-items-start justify-content-center flex-column col-sm-12 wow fadeInRight"
                     data-wow-delay=".8s">
                     <h5 class="header_txt_grd">MLM Software Provider </h5>
-                    <h1 class="mb-4 text-white">Best <span class="text-warning">MLM Software</span> Provider in Patna </h1>
+                    <h1 class="mb-4 text-white">Best <span class="text-warning">MLM Software</span> Provider in Patna
+                    </h1>
                     <p class="text-white text-justify">Welcome to the leading <a href="" class="all_link_color">MLM
                             software</a> provider in Patna! If you’re looking to elevate your network marketing
                         business, you've come to the right place. Our <a href="" class="all_link_color">MLM gig
                             Software</a> is your key to maximizing your MLM business's potential, offering a
                         comprehensive solution that caters to various structures, including <a href="./Binary_plan.php"
-                            class="all_link_color">Binary</a>, <a href="./matrix_plan.php" class="all_link_color">Matrix</a>, and <a
-                            href="./Unilevel_plan.php" class="all_link_color">Unilevel</a>.</p>
+                            class="all_link_color">Binary</a>, <a href="./matrix_plan.php"
+                            class="all_link_color">Matrix</a>, and <a href="./Unilevel_plan.php"
+                            class="all_link_color">Unilevel</a>.</p>
                 </div>
             </div>
         </div>
@@ -179,8 +181,9 @@
                                     <img src="./img/binary_svg.svg" width="30px" alt="@dued">
                                 </div>
                                 <div class="about_pl">
-                                    <p class="mb-0 "><b class="text-warning">Binary Plan:</b> Optimize your <a href="./Binary_plan.php"
-                                            class="all_link_color">binary plan</a> operations with real-time tracking
+                                    <p class="mb-0 "><b class="text-warning">Binary Plan:</b> Optimize your <a
+                                            href="./Binary_plan.php" class="all_link_color">binary plan</a> operations
+                                        with real-time tracking
                                         and management features</p>
                                 </div>
                             </div>
@@ -192,8 +195,9 @@
                                 </div>
                                 <div class="about_pl">
 
-                                    <p class="mb-0 "><b class="text-warning"> Matrix Plan:</b> Seamlessly manage your <a href="./matrix_plan.php"
-                                            class="all_link_color">matrix plans</a> with intuitive tools and reports.
+                                    <p class="mb-0 "><b class="text-warning"> Matrix Plan:</b> Seamlessly manage your <a
+                                            href="./matrix_plan.php" class="all_link_color">matrix plans</a> with
+                                        intuitive tools and reports.
                                     </p>
                                 </div>
                             </div>
@@ -205,8 +209,9 @@
                                 </div>
                                 <div class="about_pl">
 
-                                    <p class="mb-0 "><b class="text-warning">Unilevel Plan: </b> Enhance your <a href="./Unilevel_plan.php"
-                                            class="all_link_color">unilevel plan </a>performance with advanced analytics
+                                    <p class="mb-0 "><b class="text-warning">Unilevel Plan: </b> Enhance your <a
+                                            href="./Unilevel_plan.php" class="all_link_color">unilevel plan
+                                        </a>performance with advanced analytics
                                         and commission tracking.</p>
                                 </div>
                             </div>
@@ -399,10 +404,11 @@
                             provide?</span></h2>
                 </div>
                 <div class="col-12 ">
-                    <p class="text-dark">To be considered the best <a href="./index.php">multi-level marketing (MLM) software</a>, it must include
+                    <p class="text-dark">To be considered the best <a href="./index.php">multi-level marketing (MLM)
+                            software</a>, it must include
                         the following features:</p>
                 </div>
-                <div class="col-8">
+                <div class="col-lg-8 col-12">
                     <div class="set_gradient_box  my-2">
                         <p class="text-white  mb-0"><b class="text-white">Commission Tracking:</b> Accurately monitor
                             and
@@ -442,8 +448,12 @@
                         <h5 class="fw-bolder text-center">Is MLM gig compatible with every compensation plan?</h5>
                         <p class="text-justify">MLM gig software is distinguished by its capability to tailor all
                             compensation plans to suit the unique needs of MLM software companies. It supports various
-                            plans including <a href="./Binary_plan.php" class="fw-bolder" >Binary MLM</a>,<a href="./matrix_plan.php" class="fw-bolder" >Matrix MLM</a> ,<a href="./Unilevel_plan.php" class="fw-bolder" >Unilevel MLM</a> ,<a href="./board_plan.php" class="fw-bolder" >Board MLM</a> , Party MLM, Monoline MLM,
-                            Stair Step plan, <a href="./generation_plan.php" class="fw-bolder" >Generation MLM</a>, and Hybrid MLM.</p>
+                            plans including <a href="./Binary_plan.php" class="fw-bolder">Binary MLM</a>,<a
+                                href="./matrix_plan.php" class="fw-bolder">Matrix MLM</a> ,<a href="./Unilevel_plan.php"
+                                class="fw-bolder">Unilevel MLM</a> ,<a href="./board_plan.php" class="fw-bolder">Board
+                                MLM</a> , Party MLM, Monoline MLM,
+                            Stair Step plan, <a href="./generation_plan.php" class="fw-bolder">Generation MLM</a>, and
+                            Hybrid MLM.</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 my-2 ">
@@ -458,6 +468,61 @@
         </div>
     </div>
     <!-- Is MLM gig compatible with every compensation plan? end -->
+
+    <!-- faq start -->
+    <div class="container-fluid py-2 py-lg-5">
+        <div class="container">
+            <div class="row">
+            <div class="col-12 col-lg-5 my-2 position-relative  sm_none">
+                    <div class="position-absolute rotate_set">
+                        <h3 class="faq_font">FAQ</h3>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-7 my-2">
+                  
+                    <div class="faqs-container">
+                        <div class="faq active">
+                            <h5 class="faq-title">
+                                What is MLM software?
+                            </h5>
+                            <p class="faq-text">
+                                MLM software is designed to optimize the administration of multi-level marketing
+                                businesses. It automates routine tasks, delivers insightful analytics, and includes
+                                sophisticated tools to manage every facet of network marketing, resulting in a more
+                                efficient and effective sales force.
+                            </p>
+                            <button class="faq-toggle">
+                                <i class="fas fa-chevron-down"></i>
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+
+                        <div class="faq">
+                            <h5 class="faq-title">
+                                How much does MLM Software cost?
+                            </h5>
+                            <p class="faq-text">
+                                Prices for MLM (Multi-Level Marketing) software can vary widely based on the features
+                                and vendors, ranging from a few hundred to several thousand dollars. Among the top
+                                options in this market is MLM gig Software, which stands out for offering comprehensive
+                                advanced features at an affordable price. If you're in the market for MLM software, MLM
+                                gig Software is a highly recommended choice.
+                            </p>
+                            <button class="faq-toggle">
+                                <i class="fas fa-chevron-down"></i>
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+    <!-- faq end -->
+
+
+
     <!-- can i started section start -->
     <section>
         <div class="container-fluid p-2 p-lg-4 set_bg_is">
@@ -465,10 +530,11 @@
                 <div class="row">
                     <div class="col-12 col-lg-7 my-2">
                         <div class="head_strttt">
-                        <h2 class="">Can I Start My Own MLM ?</h2>
+                            <h2 class="">Can I Start My Own MLM ?</h2>
                         </div>
                         <div>
-                            <P class="text-justify text-dark">Yes, you can establish your own MLM business, provided you have a
+                            <P class="text-justify text-dark">Yes, you can establish your own MLM business, provided you
+                                have a
                                 comprehensive business plan, comply with legal requirements and regulations, and possess
                                 the necessary resources for starting an MLM software company.</P>
                         </div>
@@ -476,26 +542,34 @@
                             <div class="col-6">
                                 <span class="fw-bolder text-dark">Legal Requirements and Regulations</span>
                                 <div class="text-dark">
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Consumer Protection Laws</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Data Privacy and Security Laws</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Financial Reporting Requirements</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Network Marketing Registration</p>
+                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                        Consumer Protection Laws</p>
+                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Data
+                                        Privacy and Security Laws</p>
+                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                        Financial Reporting Requirements</p>
+                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                        Network Marketing Registration</p>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <span class="fw-bolder text-dark">Necessary Resources</span>
                                 <div class="text-dark">
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A dedicated team of developers and support staff</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A robust server infrastructure</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> An adequate budget to cover initial costs</p>
+                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
+                                        dedicated team of developers and support staff</p>
+                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
+                                        robust server infrastructure</p>
+                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> An
+                                        adequate budget to cover initial costs</p>
 
                                 </div>
                             </div>
                         </div>
                         <div>
-                        <p class="text-justify text-dark">It is also recommended to conduct thorough research to understand the
-                            MLM industry, analyze the competition, and identify your potential customer base before
-                            launching an MLM software company.</p>
+                            <p class="text-justify text-dark">It is also recommended to conduct thorough research to
+                                understand the
+                                MLM industry, analyze the competition, and identify your potential customer base before
+                                launching an MLM software company.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
@@ -504,7 +578,7 @@
                         </div>
                     </div>
                 </div>
-               
+
             </div>
         </div>
     </section>
@@ -515,7 +589,8 @@
             <div class="row">
                 <div class="col-12">
                     <h2 class="fw-bolder">How do I choose the best MLM Software?</h2>
-                    <h5>Selecting the optimal <a href="./index.php" class="fw-bolder">multi-level marketing software</a> hinges on various factors:</h5>
+                    <h5>Selecting the optimal <a href="./index.php" class="fw-bolder">multi-level marketing software</a>
+                        hinges on various factors:</h5>
 
                 </div>
             </div>
@@ -545,7 +620,8 @@
                 <div class="col-12">
                     <p class="text-justify text-dark">
                         MLM gig software stands out as a premier choice in this realm, providing unparalleled
-                        adaptability and catering to the multifaceted needs of <a href="./index.php" class="fw-bolder">multi-level marketing </a>ventures with its
+                        adaptability and catering to the multifaceted needs of <a href="./index.php"
+                            class="fw-bolder">multi-level marketing </a>ventures with its
                         extensive array of features.
                     </p>
                 </div>
@@ -585,7 +661,10 @@
                     <div class="col-12 col-lg-6 my-3">
                         <div class="head_migration">
                             <h3>What is MLM migration?</h3>
-                            <p class="text-justify">MLM migration involves moving an existing <a href="./index.php" class="fw-bolder">multi-level marketing</a> company to a new software platform. Our MLM gig software demo provides a glimpse into how our platform can streamline and support your MLM migration process.</p>
+                            <p class="text-justify">MLM migration involves moving an existing <a href="./index.php"
+                                    class="fw-bolder">multi-level marketing</a> company to a new software platform. Our
+                                MLM gig software demo provides a glimpse into how our platform can streamline and
+                                support your MLM migration process.</p>
                         </div>
                     </div>
                 </div>
@@ -601,9 +680,14 @@
                     <div class="col-12 col-lg-7 my-2">
                         <div class="head_gig">
                             <h3>Does MLM Software integrate with other tools or systems?</h3>
-                            <p class="text-justify">Network marketing software integrates with other tools and systems, such as e-commerce platforms, CRM software, and payment gateways. MLM gig Software can be integrated with E-commerce, E-wallet, Cryptocurrency software, CRM integration, Bitcoin integration, and many more according to the requirements</p>
+                            <p class="text-justify">Network marketing software integrates with other tools and systems,
+                                such as e-commerce platforms, CRM software, and payment gateways. MLM gig Software can
+                                be integrated with E-commerce, E-wallet, Cryptocurrency software, CRM integration,
+                                Bitcoin integration, and many more according to the requirements</p>
                             <p class="text-justify">
-                            Ready to transform your MLM business? <a href="" class="fw-bolder">Contact us</a> today and discover how our #1 MLM software can help you achieve unparalleled success in your network marketing endeavors.
+                                Ready to transform your MLM business? <a href="" class="fw-bolder">Contact us</a> today
+                                and discover how our #1 MLM software can help you achieve unparalleled success in your
+                                network marketing endeavors.
                             </p>
                         </div>
                     </div>
@@ -618,6 +702,28 @@
     <!-- Footer Start -->
     <?php include ("./includes/footer.php"); ?>
     <!-- Footer End -->
+    <script>
+        const toggles = document.querySelectorAll('.faq-toggle');
+
+        toggles.forEach(toggle => {
+            toggle.addEventListener('click', () => {
+                toggle.parentNode.classList.toggle('active');
+            });
+        });
+
+        // SOCIAL PANEL JS
+        const floating_btn = document.querySelector('.floating-btn');
+        const close_btn = document.querySelector('.close-btn');
+        const social_panel_container = document.querySelector('.social-panel-container');
+
+        floating_btn.addEventListener('click', () => {
+            social_panel_container.classList.toggle('visible')
+        });
+
+        close_btn.addEventListener('click', () => {
+            social_panel_container.classList.remove('visible')
+        });
+    </script>
 
     <?php include ("./includes/script.php"); ?>
 </body>

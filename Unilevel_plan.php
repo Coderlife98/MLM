@@ -37,7 +37,11 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-5 my-3"></div>
+                    <div class="col-12 col-lg-5 my-3">
+                        <div>
+                            <img src="" alt="">
+                        </div>
+                    </div>
                     <div class="col-12 col-lg-7 my-3">
                         <div>
                             <h1 class="set_font-size2">Unilevel Plan Software</h1>
@@ -56,6 +60,9 @@
                                 controlled depth, spanning between 5 to 7 levels, ensuring a fair and sustainable
                                 compensation framework.
                             </p>
+                            <!-- <p class="text-justify">
+                            The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease.While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.
+                            </p> -->
                         </div>
                     </div>
                 </div>
@@ -63,9 +70,23 @@
         </div>
     </section>
     <!-- Unilevel Plan Software end -->
+     <div class="container-fluid py-2 py-lg-2 set_bg_uni">
+        <div class="container">
+            <div class="row ">
+                <div class="col-12 col-lg-6 my-3 d-flex align-items-center">
+                    <p class="text-white text-justify"> The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease.While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.</p>
+                </div>
+                <div class="col-12 col-lg-6 my-3 set-flex">
+                    <div>
+                        <img src="./img/girl.png" height="280px" class="set_img_rad" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+     </div>
     <!-- Advantages of Unilevel plan start -->
     <section>
-        <div class="container-fluid">
+        <div class="container-fluid py-2 py-lg-5 set_bggg_u">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-lg-7 my-2">

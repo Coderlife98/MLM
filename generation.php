@@ -4,10 +4,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Confidential Unilevel Plan Software: Secrets Revealed</title>
+    <title>Best Generation MLM Software Provider in Patna</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
-    <meta content="Uncover the remarkable secrets of the confidential Unilevel Plan Software and take your business to the next level. Hurry, get ahead of the competition now!" name="description">
+    <meta content="Unlock the door to success with the most reliable MLM software provider in Patna. Our remarkable solution ensures guaranteed results for your business - don't miss out on this opportunity!" name="description">
     <?php include ("./includes/link.php"); ?>
 </head>
 
@@ -21,8 +21,7 @@
             <h1 class="display-2 text-white mb-4 animated slideInDown">Unilevel Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                    <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
                     <li class="breadcrumb-item" aria-current="page">Services</li>
                 </ol>
             </nav>
@@ -31,131 +30,65 @@
     <!-- Page Header End -->
 
 
-    <!-- Fact Start -->
-    <div class="container-fluid bg-secondary py-5">
+
+    <!-- Generation plan section 1  Start -->
+ <div class="container-fluid py-2 py-lg-4 set_gen">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-5 my-3"></div>
+            <div class="col-12 col-lg-7 my-3">
+                <div>
+                    <h1>Generation Plan software</h1>
+                    <p class="text-justify">The Generation Plan, a form of compensation plan in the MLM industry, focuses on product sales, making it highly advantageous for manufacturing companies. This plan includes bonuses and incentive programs that motivate agents to sell products directly. MLM agents favor the Generation Plan due to its potential for unlimited depth, allowing for substantial earnings. By relying on agents for direct marketing, companies save significantly on media and marketing expenses. This approach leverages personal connections, making the advertising process more convincing and effective compared to traditional TV commercials. Overall, the Generation Plan is a strategic choice for companies aiming to enhance product sales through motivated and directly incentivized agents.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+    <!-- Generation plan section 1  End -->
+     <!-- Overview of Generation plan start -->
+      <div class="container-fluid py-2 py-lg-5 set_overview_bg">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 wow fadeIn" data-wow-delay=".1s">
-                    <div class="d-flex counter">
-                        <h1 class="me-3 text-primary counter-value">99</h1>
-                        <h5 class="text-white mt-1">Success in getting happy customer</h5>
+                <div class="col-12 col-lg-8 my-2">
+                    <div>
+                        <h3 class="text-white">Overview of Generation plan</h3>
+                        <p class="text-justify">
+                        The Generation MLM Plan stands out for its simplicity, making it an ideal choice for both individual members and MLM companies to explain and convey to new members and business affiliates. In this plan, each affiliate can recruit new members into their level structure or frontline, introducing new recruits at any width. Commissions are then distributed up to a fixed depth or set levels as specified by the MLM compensation plan. 
+                        </p>
+                        <p class="text-justify">
+                        To enhance the attractiveness of the Generation MLM Plan, MLM organizations can introduce rewards, bonuses, or incentives for registered members who achieve specific company-defined targets. This added incentive structure makes the plan even more appealing and motivational.
+                        </p>
+                        <p class="text-justify">
+                        The Generation MLM Plan is renowned for being one of the simplest concepts in the MLM industry. Its straightforward nature ensures that compensation levels can be easily declared or customized according to the company's business requirements. Additionally, rewards and bonuses can be seamlessly integrated at any level structure or frontline, further enhancing its appeal. This plan's ease of explanation and implementation makes it a favored choice for new members, helping them quickly understand and engage with the MLM business model.
+                        </p>
                     </div>
                 </div>
-                <div class="col-lg-3 wow fadeIn" data-wow-delay=".3s">
-                    <div class="d-flex counter">
-                        <h1 class="me-3 text-primary counter-value">25</h1>
-                        <h5 class="text-white mt-1">Thousands of successful business</h5>
-                    </div>
-                </div>
-                <div class="col-lg-3 wow fadeIn" data-wow-delay=".5s">
-                    <div class="d-flex counter">
-                        <h1 class="me-3 text-primary counter-value">120</h1>
-                        <h5 class="text-white mt-1">Total clients who love HighTech</h5>
-                    </div>
-                </div>
-                <div class="col-lg-3 wow fadeIn" data-wow-delay=".7s">
-                    <div class="d-flex counter">
-                        <h1 class="me-3 text-primary counter-value">5</h1>
-                        <h5 class="text-white mt-1">Stars reviews given by satisfied clients</h5>
+                <div class="col-12 col-lg-4 my-2"></div>
+            </div>
+        </div>
+      </div>
+     <!-- Overview of Generation plan  end -->
+      <!-- Advantages of Generation plan start -->
+       <div class="container-fluid py-2 py-lg-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-4 my-2"></div>
+                <div class="col-12 col-lg-8 my-2">
+                    <div>
+                        <h3>Advantages of Generation plan</h3>
+                        <p class="text-justify">
+                        The Generation MLM Plan stands out as one of the most exciting and lucrative MLM pay plans due to its substantial payout potential. This plan offers payouts to an infinite downline, meaning members earn commissions even from downline levels as deep as 15. In a Generation model, upline members place their new recruits into your "power leg," creating spillover and often resulting in rapid growth. This structure fosters teamwork and cooperative energy, essential for the success of both you and your downline. The Generation plan provides the greatest potential for generational earnings depth among the four basic network marketing compensation plans.
+                        </p>
+                        <p class="text-justify">
+                        One of the significant advantages of the Generation MLM Plan is that you only need to focus on building one leg of your business, your "Money Leg." Meanwhile, your "Power Leg" is typically built by more experienced members of your upline, allowing you to benefit from their expertise and efforts. This plan simplifies the initial Board Compensation Plan, making qualifications easier to understand and maintain. By leveraging the Generation plan, even average network marketers can achieve success and realize the potential for financial freedom.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Fact End -->
-
-
-    <!-- Services Start -->
-    <div class="container-fluid services py-5 my-5">
-        <div class="container py-5">
-            <div class="text-center mx-auto pb-5 wow fadeIn" data-wow-delay=".3s" style="max-width: 600px;">
-                <h5 class="text-primary">Our Services</h5>
-                <h1>Services Built Specifically For Your Business</h1>
-            </div>
-            <div class="row g-5 services-inner">
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
-                    <div class="services-item bg-light">
-                        <div class="p-4 text-center services-content">
-                            <div class="services-content-icon">
-                                <i class="fa fa-code fa-7x mb-4 text-primary"></i>
-                                <h4 class="mb-3">Web Design</h4>
-                                <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum.
-                                    Aliquam dolor eget urna ultricies tincidunt.</p>
-                                <a href="#" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
-                    <div class="services-item bg-light">
-                        <div class="p-4 text-center services-content">
-                            <div class="services-content-icon">
-                                <i class="fa fa-file-code fa-7x mb-4 text-primary"></i>
-                                <h4 class="mb-3">Web Development</h4>
-                                <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum.
-                                    Aliquam dolor eget urna ultricies tincidunt.</p>
-                                <a href="#" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
-                    <div class="services-item bg-light">
-                        <div class="p-4 text-center services-content">
-                            <div class="services-content-icon">
-                                <i class="fa fa-external-link-alt fa-7x mb-4 text-primary"></i>
-                                <h4 class="mb-3">UI/UX Design</h4>
-                                <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum.
-                                    Aliquam dolor eget urna ultricies tincidunt.</p>
-                                <a href="#" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
-                    <div class="services-item bg-light">
-                        <div class="p-4 text-center services-content">
-                            <div class="services-content-icon">
-                                <i class="fas fa-user-secret fa-7x mb-4 text-primary"></i>
-                                <h4 class="mb-3">Web Cecurity</h4>
-                                <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum.
-                                    Aliquam dolor eget urna ultricies tincidunt.</p>
-                                <a href="#" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
-                    <div class="services-item bg-light">
-                        <div class="p-4 text-center services-content">
-                            <div class="services-content-icon">
-                                <i class="fa fa-envelope-open fa-7x mb-4 text-primary"></i>
-                                <h4 class="mb-3">Digital Marketing</h4>
-                                <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum.
-                                    Aliquam dolor eget urna ultricies tincidunt.</p>
-                                <a href="#" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
-                    <div class="services-item bg-light">
-                        <div class="p-4 text-center services-content">
-                            <div class="services-content-icon">
-                                <i class="fas fa-laptop fa-7x mb-4 text-primary"></i>
-                                <h4 class="mb-3">Programming</h4>
-                                <p class="mb-4">Lorem ipsum dolor sit amet elit. Sed efficitur quis purus ut interdum.
-                                    Aliquam dolor eget urna ultricies tincidunt.</p>
-                                <a href="#" class="btn btn-secondary text-white px-5 py-3 rounded-pill">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Services End -->
+       </div>
+      <!-- Advantages of Generation plan end -->
 
 
     <!-- Footer Start -->

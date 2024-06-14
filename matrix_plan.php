@@ -23,7 +23,7 @@
             <h1 class="display-2 text-white mb-4 animated slideInDown">Matrix Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="./index.php">Pages</a></li>
+                    <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
                     <li class="breadcrumb-item" aria-current="page">Matrix Plan</li>
                 </ol>
             </nav>
@@ -36,7 +36,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-7 my-2 set_rel">
+                    <div class="col-12 col-lg-8 my-2 set_rel">
                         <div class="set_blur_secion">
 
                         </div>
@@ -48,7 +48,7 @@
                         Enter <a href="./matrix_plan.php" class="fw-bolder text-secondary">Matrix MLM Software</a>, a dynamic web-based application meticulously designed to support and streamline the complexities of the <a href="./matrix_plan.php" class="fw-bolder text-secondary">Matrix MLM Plan</a>. Regardless of the scale of operations, whether modest beginnings or expansive networks, this software serves as a reliable ally for MLM organizations. Its efficiency lies in its ability to meticulously track the income and expenditure of downlines, ensuring seamless management and fostering growth with precision and ease. Experience the power of streamlined operations and optimized performance with <a href="./matrix_plan.php" class="fw-bolder text-secondary">Matrix MLM Software</a>, your indispensable companion in the world of Multilevel Marketing.
                         </p>
                     </div>
-                    <div class="col-12 col-lg-5 my-2">
+                    <div class="col-12 col-lg-4 my-2">
                         <div>
                             <img src="" alt="">
                         </div>
@@ -133,7 +133,20 @@
         </div>
     </section>
     <!-- Advantages and features of Matrix plan end -->
-
+<!-- last section matrix plan start -->
+ <div class="container-fluid py-2 py-lg-5 set_bg_matrix_img">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-5">
+                <p class="text-justify text-white">
+                Join the ranks of those who have unlocked the full potential of their MLM journey with the Matrix Plan, and embark on a path towards unparalleled prosperity and fulfillment.
+                </p>
+                <button class="button_gradient"><a href="./mlm_plan.php" class="text-white">Our Plan</a></button>
+            </div>
+        </div>
+    </div>
+ </div>
+<!-- last section matrix plan end -->
 
 
 
