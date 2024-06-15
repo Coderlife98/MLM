@@ -23,7 +23,7 @@
             <h1 class="display-2 text-white mb-4 animated slideInDown">Website development</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="./index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
                     <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
                     <li class="breadcrumb-item" aria-current="page">Website development</li>
                 </ol>
@@ -38,12 +38,12 @@
     <div class="container-fluid py-5  set_matr_bg2">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay=".5s">
                    <div>
-                    <img src="./img/web.png" class="caller_img" alt="">
+                    <img src="./img/website_1.png" class="caller_img" alt="">
                    </div>
                 </div>
-                <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn d-flex flex-column justify-content-center" data-wow-delay=".5s">
+                <div class="col-lg-7 col-md-6 col-sm-12 wow fadeInRight d-flex flex-column justify-content-center" data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
                     <h1 class="mb-4 set_heading">Top-Rated Web Development in Patna</h1>
                     <h6>Patna’s Top-Rated Web Development: Grow Your Business Online with MLM Gig</h6>
@@ -61,7 +61,7 @@
      <div class="container-fluid">
         <div class="container">
             <div class="row">
-                <div class="col-12" data-wow-delay=".3s">
+                <div class="col-12 py-3 py-md-0 " data-wow-delay=".3s">
                     <h3 class="text-white text-center wow fadeInLeft">Why Choose MLM Gig for Your Web Development Needs?</h3>
                 </div>
                 <div class="col-12 col-lg-4 my-2 set-dotted d-flex justify-content-center" data-wow-delay=".5s">
@@ -77,7 +77,7 @@
             </div>
             <div class="row my-3">
            
-                <div class="col-12 col-lg-8 py-2 my-4 set-dotted_2 " data-wow-delay=".3s">
+                <div class="col-12 col-lg-8 py-2 order-2 order-lg-0 my-4 set-dotted_2 " data-wow-delay=".3s">
                     <div>
                         <h5 class="text-warning">User-Friendly Interfaces</h5>
                         <p class="text-justify wow shake">A great website isn't just about aesthetics; it's also about functionality. Our designs focus on creating user-friendly interfaces that provide a seamless experience for your visitors. Easy navigation, quick load times, and mobile responsiveness are key elements we prioritize to ensure your clients have a positive experience on your site.</p>
@@ -100,10 +100,10 @@
             </div>
             <div class="row my-3">
            
-           <div class="col-12 col-lg-8 py-2 my-4 set-dotted_2 ">
+           <div class="col-12 col-lg-8 order-1 order-lg-0 py-2 my-4 set-dotted_2 ">
                <div>
                    <h5 class="text-warning" >Integration with MLM Systems</h5>
-                   <p class="text-justify wow flash" data-wow-delay=".3s">If you're involved in a multi-level marketing (MLM) business, our expertise extends to integrating sophisticated MLM systems into your website. We design and implement <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM plans</a> that streamline your operations, enhance your recruitment process, and provide robust tracking and reporting tools to manage your network effectively.</p>
+                   <p class="text-justify wow flash" data-wow-delay=".3s">If you're involved in a <a href="./mlm_plan.php" class="text-secondary">multi-level marketing (MLM)</a> business, our expertise extends to integrating sophisticated MLM systems into your website. We design and implement <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM plans</a> that streamline your operations, enhance your recruitment process, and provide robust tracking and reporting tools to manage your network effectively.</p>
                </div>
            </div>
            <div class="col-12 col-lg-4 my-2 set-dotted_img  d-flex justify-content-center" data-wow-delay=".3s">
@@ -193,12 +193,6 @@
     </div>
    </section>
    <!-- Start Your Journey with MLM Gig end -->
-
-
-   
-
-
-
 
     <!-- Footer Start -->
     <?php include ("./includes/footer.php"); ?>

@@ -294,7 +294,7 @@
                 <div class="row">
                     <div class="col-12 col-md-5 col-lg-5 my-3">
                         <div>
-                            <img src="./img/why.png" height="400px" alt="">
+                            <img src="./img/why.png" class="dued_why" height="400px" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-md-7 col-lg-7 my-3 d-flex align-items-center">
@@ -447,7 +447,7 @@
                     <div class="campatible">
                         <h5 class="fw-bolder text-center">Is MLM gig compatible with every compensation plan?</h5>
                         <p class="text-justify">MLM gig software is distinguished by its capability to tailor all
-                            compensation plans to suit the unique needs of MLM software companies. It supports various
+                            compensation plans to suit the unique needs of <a href="./mlm_plan.php" class="text-secondary">MLM software</a> companies. It supports various
                             plans including <a href="./Binary_plan.php" class="fw-bolder">Binary MLM</a>,<a
                                 href="./matrix_plan.php" class="fw-bolder">Matrix MLM</a> ,<a href="./Unilevel_plan.php"
                                 class="fw-bolder">Unilevel MLM</a> ,<a href="./board_plan.php" class="fw-bolder">Board
@@ -505,7 +505,7 @@
                                 Prices for MLM (Multi-Level Marketing) software can vary widely based on the features
                                 and vendors, ranging from a few hundred to several thousand dollars. Among the top
                                 options in this market is MLM gig Software, which stands out for offering comprehensive
-                                advanced features at an affordable price. If you're in the market for MLM software, MLM
+                                advanced features at an affordable price. If you're in the market for <a href="./mlm_plan.php" class="text-secondary">MLM software</a>, MLM
                                 gig Software is a highly recommended choice.
                             </p>
                             <button class="faq-toggle">
@@ -536,13 +536,13 @@
                             <P class="text-justify text-dark">Yes, you can establish your own MLM business, provided you
                                 have a
                                 comprehensive business plan, comply with legal requirements and regulations, and possess
-                                the necessary resources for starting an MLM software company.</P>
+                                the necessary resources for starting an <a href="./mlm_plan.php" class="text-secondary">MLM software</a> company.</P>
                         </div>
                         <div class="col-12 d-flex my-4">
                             <div class="col-6">
                                 <span class="fw-bolder text-dark">Legal Requirements and Regulations</span>
                                 <div class="text-dark">
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                    <p class="my-2 "> <i class=" fa fa-arrow-right me-2 text-danger fw-boldelex"></i>
                                         Consumer Protection Laws</p>
                                     <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Data
                                         Privacy and Security Laws</p>
@@ -569,7 +569,7 @@
                             <p class="text-justify text-dark">It is also recommended to conduct thorough research to
                                 understand the
                                 MLM industry, analyze the competition, and identify your potential customer base before
-                                launching an MLM software company.</p>
+                                launching an <a href="./mlm_plan.php" class="text-secondary">MLM software</a> company.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
@@ -642,7 +642,7 @@
                                 based on the software package you opt for. Before making a purchase, it's crucial to
                                 thoroughly explore and evaluate various software providers to identify the one that
                                 aligns most closely with your MLM company's requirements. Additionally, when
-                                contemplating the cost of MLM software, it's essential to consider other features as
+                                contemplating the cost of <a href="./mlm_plan.php" class="text-secondary">MLM software</a>, it's essential to consider other features as
                                 well.</p>
                         </div>
                     </div>
@@ -686,7 +686,7 @@
                                 Bitcoin integration, and many more according to the requirements</p>
                             <p class="text-justify">
                                 Ready to transform your MLM business? <a href="" class="fw-bolder">Contact us</a> today
-                                and discover how our #1 MLM software can help you achieve unparalleled success in your
+                                and discover how our #1 <a href="./mlm_plan.php" class="text-secondary">MLM software </a>can help you achieve unparalleled success in your
                                 network marketing endeavors.
                             </p>
                         </div>

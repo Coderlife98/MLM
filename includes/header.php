@@ -57,8 +57,9 @@
                             <a href="./matrix_plan.php" class="dropdown-item">Matrix Plan</a>
                             <a href="./Unilevel_plan.php" class="dropdown-item">Unilevel Plan</a>
                             <a href="./generation.php" class="dropdown-item">Generation Plan</a>
-                            <!-- <a href="testimonial.php" class="dropdown-item">Unilevel Plan</a> -->
-                            <!-- <a href="404.html" class="dropdown-item"></a> -->
+                            <a href="./helping.php" class="dropdown-item">Helping Plan</a>
+                            <a href="./Crowd_funding.php" class="dropdown-item">Crowdfunding Plan</a>
+                           
                         </div>
                     </div>
                     <div class="nav-item dropdown">
