@@ -35,8 +35,8 @@
  <div class="container-fluid py-2 py-lg-4 set_gen">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-lg-5 my-3"></div>
-            <div class="col-12 col-lg-7 my-3">
+            <div class="col-12 col-lg-5 my-3 wow fadeInLeft" data-wow-delay="0.5"></div>
+            <div class="col-12 col-lg-7 my-3 wow fadeInRight" data-wow-delay="0.8">
                 <div>
                     <h1>Generation Plan software</h1>
                     <p class="text-justify">The Generation Plan, a form of compensation plan in the MLM industry, focuses on product sales, making it highly advantageous for manufacturing companies. This plan includes bonuses and incentive programs that motivate agents to sell products directly. MLM agents favor the Generation Plan due to its potential for unlimited depth, allowing for substantial earnings. By relying on agents for direct marketing, companies save significantly on media and marketing expenses. This approach leverages personal connections, making the advertising process more convincing and effective compared to traditional TV commercials. Overall, the Generation Plan is a strategic choice for companies aiming to enhance product sales through motivated and directly incentivized agents.</p>
@@ -50,7 +50,7 @@
       <div class="container-fluid py-2 py-lg-5 set_overview_bg">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-8 my-2">
+                <div class="col-12 col-lg-8 my-2 wow fadeInUp" data-wow-delay="0.9s">
                     <div>
                         <h3 class="text-white">Overview of Generation plan</h3>
                         <p class="text-justify">
@@ -64,7 +64,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 my-2"></div>
+                <div class="col-12 col-lg-4 my-2 wow fadeInUp" data-wow-delay="0.9s"></div>
             </div>
         </div>
       </div>

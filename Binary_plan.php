@@ -38,12 +38,12 @@
         <div class="container-fluid p-2 p-lg-4">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-6 my-3">
+                    <div class="col-12 col-lg-6 my-3 wow fadeInLeft" data-wow-delay="0.3">
                         <div>
 
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6 my-3">
+                    <div class="col-12 col-lg-6 my-3 wow fadeInRight" data-wow-delay="0.3">
                         <div>
                             <h1 class="set_font-size">New Binary Plan Techniques for a Thriving Business</h1>
                             <p class="text-justify">
@@ -157,11 +157,11 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 mb-2 mb-lg-4">
+                    <div class="col-12 mb-2 mb-lg-4 wow zoomIn" data-wow-delay="0.3">
                         <h2 class="text-center text-white">Pros of the <span class="text-info">Binary MLM Plan</span>
                         </h2>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 my-2">
+                    <div class="col-12 col-md-6 col-lg-4 my-2 wow fadeInLeft" data-wow-delay="0.9">
                         <div class="props_box p-3">
                             <div class="title">
                                 <div class="d-flex justify-content-center">
@@ -174,7 +174,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 my-2">
+                    <div class="col-12 col-md-6 col-lg-4 my-2 wow zoomIn" data-wow-delay="0.5">
                         <div class="props_box p-3">
                             <div class="title">
                                 <div class="d-flex justify-content-center">
@@ -187,7 +187,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 my-2">
+                    <div class="col-12 col-md-6 col-lg-4 my-2 wow fadeInRight" data-wow-delay="0.9">
                         <div class="props_box p-3">
                             <div class="title">
                                 <div class="d-flex justify-content-center">
@@ -210,21 +210,21 @@
         <div class="container-fluid ">
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 wow flipInX" data-wow-delay="0.5">
                         <h3 class="text-white">Cons of the <span class="text-warning">Binary MLM Plan</span></h3>
                     </div>
-                    <div class="col-12 col-lg-7 my-2">
-                        <div class="hor_card my-2">
+                    <div class="col-12 col-lg-7 my-2 "  >
+                        <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.3">
                             <p class="text-white mb-0"> <b class="text-warning">Binary Compression:</b> In some cases,
                                 binary plans may experience compression, where inactive distributors or unbalanced leg
                                 growth result in lost commissions or reduced earnings potential.</p>
                         </div>
-                        <div class="hor_card my-2">
+                        <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.5">
                             <p class="text-white mb-0"><b class="text-warning">Leg Imbalance:</b> Maintaining balance
                                 between the two legs can be challenging, as one leg may outperform the other, leading to
                                 potential loss of commissions on the stronger leg.</p>
                         </div>
-                        <div class="hor_card my-2">
+                        <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.9">
                             <p class="text-white mb-0"> <b class="text-warning">Limited Frontline:</b> Distributors are
                                 restricted to recruiting only two frontline members, which can hinder rapid expansion
                                 and require strategic placement to maximize earning potential.</p>
@@ -240,7 +240,7 @@
     <div class="container-fluid p-2 p-lg-5 set_remark_bg">
         <div class="container">
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 wow lightSpeedIn" data-wow-delay="0.8">
                     <p class="text-justify text-dark text-white">
                         At <a href="./index.php" class="fw-bolder text-secondary">MLM Gig</a>, we're dedicated to helping you unlock the full potential of the Binary MLM Plan with
                         our innovative software solutions and expert guidance. Whether you're a seasoned MLM

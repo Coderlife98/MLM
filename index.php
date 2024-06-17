@@ -470,7 +470,7 @@
     <!-- Is MLM gig compatible with every compensation plan? end -->
 
     <!-- faq start -->
-    <div class="container-fluid py-2 py-lg-5">
+    <div class="container-fluid py-2 py-lg-5 set_skin_faq">
         <div class="container">
             <div class="row">
             <div class="col-12 col-lg-5 my-2 position-relative  sm_none">

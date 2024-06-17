@@ -36,7 +36,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-8 my-2 set_rel">
+                    <div class="col-12 col-lg-8 my-2 set_rel wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.5s">
                         <div class="set_blur_secion">
 
                         </div>
@@ -66,7 +66,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-lg-5 my-2"></div>
-                    <div class="col-12 col-lg-7 my-2">
+                    <div class="col-12 col-lg-7 my-2 wow fadeInRight" data-wow-delay="1s" data-wow-duration="0.5">
                         <div>
                             <h2>Benefits of <span class="text-info">MLM Matrix Plan</span></h2>
                         </div>
@@ -96,32 +96,32 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="text-white">
+                        <h2 class="text-white wow flipInX" data-wow-delay="0.5" data-wow-duration="0.5">
                         Advantages and features of <span class="text-warning">Matrix plan</span>
                         </h2>
                     </div>
-                    <div class="col-12 col-lg-6 my-2">
+                    <div class="col-12 col-lg-6 my-2 wow zoomIn" data-wow-delay="0.5">
                         <div class="set_glass p-3">
                         <p class="text-justify">
                         Experience the thrill of the <a href="./matrix_plan.php" class="fw-bolder text-secondary">Matrix MLM Plan</a>, unrivaled among all compensation structures in the MLM landscape. Offering abundant payouts and infinite downline commissions, this plan redefines the possibilities of earning in the network marketing realm.
                         </p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6  my-2">
+                    <div class="col-12 col-lg-6  wow zoomIn my-2" data-wow-delay="0.5">
                     <div class="set_glass p-3">
                         <p class="text-justify">
                         With the Matrix Plan, your earning potential knows no bounds as you receive payouts from downlines expanding up to 15 levels deep within your structure. Embrace the power of teamwork as your upline strategically places new members under you, fostering a dynamic environment of collaboration and unity.
                         </p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6  my-2">
+                    <div class="col-12 col-lg-6 wow zoomIn  my-2" data-wow-delay="0.5">
                     <div class="set_glass p-3">
                         <p class="text-justify">
                         The simplicity and accessibility of the Matrix Compensation Plan make it an ideal choice for both novice and seasoned network marketers alike. With its straightforward structure and potential for generational earnings depth, this plan opens doors to success previously thought unreachable.
                         </p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6  my-2">
+                    <div class="col-12 col-lg-6 wow zoomIn  my-2" data-wow-delay="0.5">
                     <div class="set_glass p-3">
                         <p class="text-justify">
                         What sets the Matrix Plan apart is its focus on nurturing team synergy, ensuring mutual success for you and your downline. By concentrating on building your "Money Leg," while your experienced upline cultivates your "Power Leg," achieving financial freedom becomes not just a dream, but a tangible reality.
@@ -138,7 +138,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-5">
-                <p class="text-justify text-white">
+                <p class="text-justify text-white wow zoomIn" data-wow-delay="0.5s">
                 Join the ranks of those who have unlocked the full potential of their MLM journey with the Matrix Plan, and embark on a path towards unparalleled prosperity and fulfillment.
                 </p>
                 <button class="button_gradient"><a href="./mlm_plan.php" class="text-white">Our Plan</a></button>
@@ -153,6 +153,7 @@
 
 
     <!-- Footer Start -->
+    
     <?php include ("./includes/footer.php"); ?>
     <!-- Footer End -->
 

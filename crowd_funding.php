@@ -19,12 +19,12 @@
     <!-- Navbar End -->
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header digital_hero py-5">
+    <div class="container-fluid page-header crowd_hero py-5">
         <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Crowdfunding Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="./index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
                     <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
                     <li class="breadcrumb-item" aria-current="page">Crowdfunding Plan</li>
                 </ol>

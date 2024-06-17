@@ -18,7 +18,7 @@
     <!-- Navbar End -->
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header digital_hero py-5">
+    <div class="container-fluid page-header help_hero py-5">
         <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Helping Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">

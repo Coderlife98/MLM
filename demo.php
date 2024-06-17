@@ -38,12 +38,12 @@
     <div class="container-fluid py-5  set_matr_bg2">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay=".3s">
                    <div>
                     <img src="./img/caller.png" class="caller_img" alt="">
                    </div>
                 </div>
-                <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn d-flex flex-column justify-content-center" data-wow-delay=".5s">
+                <div class="col-lg-7 col-md-6 col-sm-12 wow fadeInRight d-flex flex-column justify-content-center" data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
                     <h1 class="mb-4 set_heading">Try MLM Software Demo for Your MLM Plans</h1>
                     <p class="text-justify">It is the rigorous study put in by MLM gig which has helped the team come up with the robust and flexible MLM software that it has. Its massive reach is just another testimony of how it can help improve and organize the MLM business which would ultimately lead to growth and success.
