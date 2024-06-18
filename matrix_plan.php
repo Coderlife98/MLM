@@ -65,7 +65,11 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-5 my-2"></div>
+                    <div class="col-12 col-lg-5 my-2">
+                        <div>
+                            <img src="./img/matrix.jpg" class="matrix-img"  alt="">
+                        </div>
+                    </div>
                     <div class="col-12 col-lg-7 my-2 wow fadeInRight" data-wow-delay="1s" data-wow-duration="0.5">
                         <div>
                             <h2>Benefits of <span class="text-info">MLM Matrix Plan</span></h2>

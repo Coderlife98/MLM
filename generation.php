@@ -18,7 +18,7 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header generation_hero py-5">
         <div class="container text-center py-5">
-            <h1 class="display-2 text-white mb-4 animated slideInDown">Unilevel Plan</h1>
+            <h1 class="display-2 text-white mb-4 animated slideInDown">Generation Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
@@ -35,8 +35,12 @@
  <div class="container-fluid py-2 py-lg-4 set_gen">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-lg-5 my-3 wow fadeInLeft" data-wow-delay="0.5"></div>
-            <div class="col-12 col-lg-7 my-3 wow fadeInRight" data-wow-delay="0.8">
+            <div class="col-12 col-lg-5 order-0 order-md-2 order-lg-0 my-3 wow fadeInLeft" data-wow-delay="0.5">
+                <div class="smaboutimg2">
+                    <img src="./img/generation.jpg" height="350px" alt="">
+                </div>
+            </div>
+            <div class="col-12 col-lg-7 my-3 wow fadeInRight d-flex align-items-center" data-wow-delay="0.8">
                 <div>
                     <h1>Generation Plan software</h1>
                     <p class="text-justify">The Generation Plan, a form of compensation plan in the MLM industry, focuses on product sales, making it highly advantageous for manufacturing companies. This plan includes bonuses and incentive programs that motivate agents to sell products directly. MLM agents favor the Generation Plan due to its potential for unlimited depth, allowing for substantial earnings. By relying on agents for direct marketing, companies save significantly on media and marketing expenses. This approach leverages personal connections, making the advertising process more convincing and effective compared to traditional TV commercials. Overall, the Generation Plan is a strategic choice for companies aiming to enhance product sales through motivated and directly incentivized agents.</p>

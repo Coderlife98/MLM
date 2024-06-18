@@ -34,7 +34,7 @@
                     <div class="carousel-caption">
                         <div class="container carousel-content">
                             <h6 class="text-secondary h4 animated fadeInUp">Best Mlm Software</h6>
-                            <h1 class="text-white display-1 mb-4 animated fadeInRight">MLM SOFTWARE</h1>
+                            <h2 class="text-white display-1 mb-4 animated fadeInRight">MLM SOFTWARE</h2>
                             <p class="mb-4 text-white fs-5 animated fadeInDown"> Find the best MLM Software for your
                                 business. </br>Compare product reviews and features </br>to build your list.</p>
 
@@ -49,8 +49,8 @@
                     <div class="carousel-caption">
                         <div class="container carousel-content">
                             <!-- <h6 class="text-secondary h4 animated fadeInUp">Best IT Solutions</h6> -->
-                            <h1 class="text-white display-1 mb-4 animated fadeInLeft"> Custom MLM Software Development
-                                Company </h1>
+                            <h2 class="text-white display-1 mb-4 animated fadeInLeft"> Custom MLM Software Development
+                                Company </h2>
                             <p class="mb-4 text-white fs-5 animated fadeInDown"> flexible and highly efficient MLM
                                 software </p>
 
@@ -75,63 +75,20 @@
 
 
 
-    <!-- counter Start -->
-    <div class="container-fluid bg-secondary__gradient py-5">
-        <div class="container bg_counter_box">
-            <div class="row">
-                <div class="col-lg-3 wow fadeIn" data-wow-delay=".1s">
-                    <div class=" counter">
-                        <img src="./img/clock.png" width="60px" alt="">
-                        <h1 class="  counter-value">300</h1>
-                        <h5 class="text-white mt-1">Dedicated time</h5>
-                    </div>
-                </div>
-                <div class="col-lg-3 wow fadeIn" data-wow-delay=".3s">
-                    <div class=" counter">
-                        <img src="./img/smile.png" width="60px" alt="">
-                        <div class="d-flex">
-                            <h1 class="  counter-value">2000 </h1>
-                            <h1>+</h1>
-                        </div>
-                        <h5 class="text-white mt-1">Satisfied clients</h5>
-                    </div>
-                </div>
-                <div class="col-lg-3 wow fadeIn" data-wow-delay=".5s">
-                    <div class=" counter">
-                        <img src="./img/rewards.png" width="60px" alt="">
-                        <h1 class="counter-value">15 </h1>
-                        <h5 class="text-white mt-1">Years of experience</h5>
-                    </div>
-                </div>
-                <div class="col-lg-3 wow fadeIn d-flex justify-content-center" data-wow-delay=".7s">
-                    <div class="d-flex flex-row align-items-center justify-content-center counter">
-                        <img src="./img/customers.png" alt="@dued_bg">
-                        <h1>+</h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- counter End -->
 
 
     <!-- About Start -->
     <div class="container-fluid py-2 py-lg-5 About__bg">
         <div class="container pt-5">
             <div class="row g-5">
-                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay=".5s">
-                    <div class="h-100 position-relative">
-                        <img src="img/about-1.jpg" class="img-fluid w-75 rounded" alt="" style="margin-bottom: 25%;">
-                        <div class="position-absolute w-75" style="top: 25%; left: 25%;">
-                            <img src="img/about-2.jpg" class="img-fluid w-100 rounded" alt="">
-                        </div>
-                    </div>
+                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeInLeft d-flex justify-content-center" data-wow-delay=".5s">
+                    <img src="img/mlm_home2.png" class="img-fluid w-75 rounded" alt="">
                 </div>
                 <div class="col-lg-7 col-md-6 d-flex align-items-start justify-content-center flex-column col-sm-12 wow fadeInRight"
                     data-wow-delay=".8s">
                     <h5 class="header_txt_grd">MLM Software Provider </h5>
-                    <h1 class="mb-4 text-white">Best <span class="text-warning">MLM Software</span> Provider in Patna
-                    </h1>
+                    <h2 class="mb-4 text-white">Best <span class="text-warning">MLM Software</span> Provider in Patna
+                    </h2>
                     <p class="text-white text-justify">Welcome to the leading <a href="" class="all_link_color">MLM
                             software</a> provider in Patna! If you’re looking to elevate your network marketing
                         business, you've come to the right place. Our <a href="" class="all_link_color">MLM gig
@@ -145,19 +102,64 @@
         </div>
     </div>
     <!-- About End -->
+
+    <!-- counter Start -->
+    <div class="container-fluid bg-secondary__gradient py-5">
+        <div class="container bg_counter_box">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay=".1s">
+                    <div class=" counter">
+                        <img src="./img/clock.png" width="60px" alt="">
+                        <h2 class="  counter-value">300</h2>
+                        <h5 class="text-white mt-1">Dedicated time</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay=".3s">
+                    <div class=" counter">
+                        <img src="./img/smile.png" width="60px" alt="">
+                        <div class="d-flex">
+                            <h2 class="  counter-value">2000 </h2>
+                            <h2>+</h2>
+                        </div>
+                        <h5 class="text-white mt-1">Satisfied clients</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay=".5s">
+                    <div class=" counter">
+                        <img src="./img/rewards.png" width="60px" alt="">
+                        <h2 class="counter-value">15 </h2>
+                        <h5 class="text-white mt-1">Years of experience</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 wow fadeIn d-flex justify-content-center" data-wow-delay=".7s">
+                    <div class="d-flex flex-row align-items-center justify-content-center counter">
+                        <img src="./img/customers.png" alt="@dued_bg">
+                        <h2>+</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- counter End -->
     <!-- Explore section start -->
     <section>
         <div class="container-fluid py-2 py-lg-5 explore__bg">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-6 col-lg-7 my-2 wow bounceInUp" data-wow-delay=".5s">
-                        <h2>Explore the MLM gig Software Solution</h2>
+                    <div class="col-12 col-md-6 col-lg-7 my-2 wow bounceInUp d-flex align-items-center" data-wow-delay=".5s">
+                       <div>
+                       <h2>Explore the MLM gig Software Solution</h2>
                         <p class="text-justify">Our cutting-edge MLM software is designed to simplify the complexities
                             of network marketing management, ensuring continuous growth and streamlined operations.
                             Here’s why <a href="" class="all_link_color">MLM gig Software</a> is the best choice for
                             your business:</p>
+                       </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-5 my-2"></div>
+                    <div class="col-12 col-md-6 col-lg-5 my-2 d-flex justify-content-center">
+                        <div>
+                            <img src="./img/exper.png" height="250px" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -169,8 +171,8 @@
     <div class="container-fluid py-2 py-lg-5 comp__bg">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-6 col-lg-6 my-2 my-lg-4 wow zoomInUp ">
-
+                <div class="col-12 col-md-6 col-lg-6 my-2 my-lg-4 wow zoomInUp d-flex align-items-center ">
+                    <div><img src="./img/str.png" class="ho-img1" width="400px" alt=""></div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-6 my-2 my-lg-4">
                     <div class="compre_head">
@@ -299,7 +301,7 @@
                     </div>
                     <div class="col-12 col-md-7 col-lg-7 my-3 d-flex align-items-center">
                         <div>
-                            <h1 class="">WHY WE <span class="text-info">CHOOSE US</span></h1>
+                            <h2 class="">WHY WE <span class="text-info">CHOOSE US</span></h2>
                             <p class="my-2"><b class="text-dark">Expertise:</b> With years of experience in the MLM
                                 software industry, we understand the unique challenges and opportunities within network
                                 marketing.</p>
@@ -324,7 +326,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 px-2 ">
-                    <h1 class="text-center">Drive Your Network Marketing Success</h1>
+                    <h2 class="text-center">Drive Your Network Marketing Success</h2>
                     <p class="text-center">MLM gig Software is more than just a tool; it's a partner in your business’s
                         growth and success. By choosing us, you’re taking the first step towards a more efficient,
                         profitable, and manageable network marketing operation.</p>
@@ -447,7 +449,8 @@
                     <div class="campatible">
                         <h5 class="fw-bolder text-center">Is MLM gig compatible with every compensation plan?</h5>
                         <p class="text-justify">MLM gig software is distinguished by its capability to tailor all
-                            compensation plans to suit the unique needs of <a href="./mlm_plan.php" class="text-secondary">MLM software</a> companies. It supports various
+                            compensation plans to suit the unique needs of <a href="./mlm_plan.php"
+                                class="text-secondary">MLM software</a> companies. It supports various
                             plans including <a href="./Binary_plan.php" class="fw-bolder">Binary MLM</a>,<a
                                 href="./matrix_plan.php" class="fw-bolder">Matrix MLM</a> ,<a href="./Unilevel_plan.php"
                                 class="fw-bolder">Unilevel MLM</a> ,<a href="./board_plan.php" class="fw-bolder">Board
@@ -473,13 +476,13 @@
     <div class="container-fluid py-2 py-lg-5 set_skin_faq">
         <div class="container">
             <div class="row">
-            <div class="col-12 col-lg-5 my-2 position-relative  sm_none">
+                <div class="col-12 col-lg-5 my-2 position-relative  sm_none">
                     <div class="position-absolute rotate_set">
                         <h3 class="faq_font">FAQ</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-7 my-2">
-                  
+
                     <div class="faqs-container">
                         <div class="faq active">
                             <h5 class="faq-title">
@@ -505,7 +508,8 @@
                                 Prices for MLM (Multi-Level Marketing) software can vary widely based on the features
                                 and vendors, ranging from a few hundred to several thousand dollars. Among the top
                                 options in this market is MLM gig Software, which stands out for offering comprehensive
-                                advanced features at an affordable price. If you're in the market for <a href="./mlm_plan.php" class="text-secondary">MLM software</a>, MLM
+                                advanced features at an affordable price. If you're in the market for <a
+                                    href="./mlm_plan.php" class="text-secondary">MLM software</a>, MLM
                                 gig Software is a highly recommended choice.
                             </p>
                             <button class="faq-toggle">
@@ -515,7 +519,7 @@
                         </div>
                     </div>
                 </div>
-               
+
             </div>
         </div>
     </div>
@@ -536,7 +540,8 @@
                             <P class="text-justify text-dark">Yes, you can establish your own MLM business, provided you
                                 have a
                                 comprehensive business plan, comply with legal requirements and regulations, and possess
-                                the necessary resources for starting an <a href="./mlm_plan.php" class="text-secondary">MLM software</a> company.</P>
+                                the necessary resources for starting an <a href="./mlm_plan.php"
+                                    class="text-secondary">MLM software</a> company.</P>
                         </div>
                         <div class="col-12 d-flex my-4">
                             <div class="col-6">
@@ -569,12 +574,13 @@
                             <p class="text-justify text-dark">It is also recommended to conduct thorough research to
                                 understand the
                                 MLM industry, analyze the competition, and identify your potential customer base before
-                                launching an <a href="./mlm_plan.php" class="text-secondary">MLM software</a> company.</p>
+                                launching an <a href="./mlm_plan.php" class="text-secondary">MLM software</a> company.
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div class="set_bg_coor">
-                            <img src="./img/can.png" class="img_radius" alt="">
+                            <img src="./img/think.jpg" class="img_radius" alt="">
                         </div>
                     </div>
                 </div>
@@ -634,7 +640,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-7 my-2">
+                    <div class="col-12 col-lg-7 my-2 d-flex align-items-center">
                         <div class="head_gig">
                             <h3>Is MLM gig software customizable?</h3>
                             <p class="text-justify">Certainly, MLM software can be tailored to suit the needs of your
@@ -642,11 +648,16 @@
                                 based on the software package you opt for. Before making a purchase, it's crucial to
                                 thoroughly explore and evaluate various software providers to identify the one that
                                 aligns most closely with your MLM company's requirements. Additionally, when
-                                contemplating the cost of <a href="./mlm_plan.php" class="text-secondary">MLM software</a>, it's essential to consider other features as
+                                contemplating the cost of <a href="./mlm_plan.php" class="text-secondary">MLM
+                                    software</a>, it's essential to consider other features as
                                 well.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-5 my-2"></div>
+                    <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
+                        <div>
+                            <img src="./img/1.png" height="350px" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -657,8 +668,12 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-6 my-3"></div>
-                    <div class="col-12 col-lg-6 my-3">
+                    <div class="col-12 order-2 order-lg-0 col-md-6 d-flex ">
+                        <div>
+                            <img src="./img/software.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6 d-flex align-items-center">
                         <div class="head_migration">
                             <h3>What is MLM migration?</h3>
                             <p class="text-justify">MLM migration involves moving an existing <a href="./index.php"
@@ -677,7 +692,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-7 my-2">
+                    <div class="col-12 col-lg-7 my-2 d-flex align-items-center">
                         <div class="head_gig">
                             <h3>Does MLM Software integrate with other tools or systems?</h3>
                             <p class="text-justify">Network marketing software integrates with other tools and systems,
@@ -686,12 +701,17 @@
                                 Bitcoin integration, and many more according to the requirements</p>
                             <p class="text-justify">
                                 Ready to transform your MLM business? <a href="" class="fw-bolder">Contact us</a> today
-                                and discover how our #1 <a href="./mlm_plan.php" class="text-secondary">MLM software </a>can help you achieve unparalleled success in your
+                                and discover how our #1 <a href="./mlm_plan.php" class="text-secondary">MLM software
+                                </a>can help you achieve unparalleled success in your
                                 network marketing endeavors.
                             </p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-5 my-2"></div>
+                    <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
+                        <div>
+                            <img src="./img/tool.jpg" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

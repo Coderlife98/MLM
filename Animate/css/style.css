@@ -332,6 +332,10 @@
         background:  url(../../img/crowd.jpg) center center no-repeat !important;
         background-size: cover !important;
     }
+    .mlm_hero {
+        background:  url(../../img/mlm_hero.jpg) center top no-repeat !important;
+        background-size: cover !important;
+    }
 
     .about_hero {
         background: linear-gradient(rgb(0 0 0 / 21%), rgb(0 0 0 / 25%)), url(../../img/ab1.jpg) center center no-repeat !important;
@@ -876,6 +880,10 @@
         color: white;
         border-radius: 10px;
     }
+    .img_radius {
+       border-radius: 0px 0px 150px 150px;
+       height: 350px;
+    }
 
     .more_btm_padd {
         padding: 10px 10px 32px;
@@ -1247,7 +1255,7 @@
     }
 
     .faq.active .faq-toggle {
-        background-color: #9FA4A8;
+        /* background-color: #9FA4A8; */
     }
 
     .faq-toggle .fa-times {
@@ -1411,6 +1419,74 @@
 
     /* helping plan end */
 
+    /* mlm plan start */
+    .mlm_plan_bg{
+        background-color: #000000;
+        color: #bbb;
+    }
+    .hov-effect{
+        transition: 0.9s;
+    }
+    .hov-effect:hover{
+        background-color: transparent;
+        border: 0.5px solid blue;
+    }
+    .border_doo{
+        border-top: 1px dashed white;
+        border-bottom: 1px dashed white;
+        border-right: 1px dashed white;
+       border-top-right-radius: 5px;
+       border-bottom-right-radius: 5px;
+       padding: 20px;
+    }
+    .border_doo2{
+        padding: 20px;
+       border-top-left-radius: 5px;
+        border-bottom: 1px dashed white;
+        border-left: 1px dashed white;
+      
+    }
+    .border_doo3{
+        padding: 20px;
+        border-right: 1px dashed white;
+        border-bottom: 1px dashed white;
+      transition: 0.9s;
+    }
+    .border_doo3:hover{
+        border-color: #00f57c;
+       
+    }
+
+    .mlm_section2_bg{
+        background-color: #000129;
+    }
+    .plan_des{
+        border-left: 2px solid #3ebdf2;
+        border-top-left-radius: 15px;
+        border-top: 1px solid #f76dff;
+        border-right: 1px solid #f76dff;
+        border-bottom-left-radius: 0px;
+        border-bottom: 1px solid #f76dff;
+        border-bottom-right-radius: 15px;
+        transition: 0.9s;
+    }
+
+    .plan_des:hover{
+        border-top-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-radius:0px;
+        border-left: 1px solid #f76dff;
+
+    }
+    .faq-toggle i{
+        padding-left: 45px;
+    }
+
+      
+   
+    /* mlm plan end */
 
 
     /* media section start */
@@ -1432,7 +1508,8 @@
         }
 
         .set_glass {
-            min-height: 254px;
+            min-height: 227px;
+            /* min-height: 254px; */
         }
 
         .set_img_rad {
@@ -1456,6 +1533,23 @@
         .img_radius {
             width: 100%;
         }
+        .matrix-img{
+            width: 100%;
+        }
+        .unilevel-img{
+            width: 100%;
+        }
+        .ho-img1{
+            width: 100%;
+        }
+        .crowdimg{
+            width: 100%;
+        }
+
+        .smaboutimg{
+          display: flex;
+          justify-content: center;
+        }
 
     }
 
@@ -1465,15 +1559,30 @@
         }
 
         .set_glass {
-            min-height: 175px;
+            min-height: 148px;
         }
 
         .sm_none {
             display: none;
         }
+        .ho-img1{
+            width: 100%;
+        }
+        .dued_why{
+            width: 100%;
+        }
 
         .color {
             display: none;
+        }
+        .matrix-img{
+            width: 100%;
+        }
+        .unilevel-img{
+            width: 100%;
+        }
+        .crowdimg{
+            width: 100%;
         }
     }
 
@@ -1481,10 +1590,27 @@
         .sm_none {
             display: none;
         }
+        .ho-img1{
+            width: 100%;
+        }
+        .set_glass {
+            min-height: 148px;
+        }
 
         .lg_center {
             display: none;
         }
+        .dued_why{
+            width: 100%;
+        }
+        .smaboutimg2{
+            display: flex;
+            justify-content: center;
+        }
+        .set_bg_coor{
+            display: none;
+        }
+       
 
     }
 
@@ -1496,6 +1622,12 @@
         .sm_none {
             display: none;
         }
+        .matrix-img{
+            width: 350px;
+        }
+        .unilevel-img{
+            width: 350px;
+        }
     }
 
     @media (min-width:1200px) {
@@ -1503,5 +1635,11 @@
             display: flex;
             justify-content: center;
             align-items: center;
+        }
+        .matrix-img{
+            width: 350px;
+        }
+        .unilevel-img{
+            width: 350px;
         }
     }

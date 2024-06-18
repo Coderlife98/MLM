@@ -75,8 +75,9 @@
                         </div>
                     </div>
                     <div class="nav-item dropdown">
-                        <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">MLM Plan</a>
+                        <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">MLM Plan</a>
                         <div class="dropdown-menu rounded">
+                            <a href="./mlm_plan.php" class="dropdown-item">Our Plan</a>
                             <a href="./binary_plan.php" class="dropdown-item">Binary Plan</a>
                             <a href="./matrix_plan.php" class="dropdown-item">Matrix Plan</a>
                             <a href="./Unilevel_plan.php" class="dropdown-item">Unilevel Plan</a>
@@ -94,16 +95,16 @@
                             <a href="digital.php" class="dropdown-item">digital marketing</a>
                         </div>
                     </div>
-                    <div class="nav-item dropdown">
+                    <!-- <div class="nav-item dropdown">
                         <a href="javascript:void(0);" class="nav-link dropdown-toggle"
                             data-bs-toggle="dropdown">Resources</a>
                         <div class="dropdown-menu rounded">
                             <a href="blog.php" class="dropdown-item">Blog</a>
                             <a href="features.php" class="dropdown-item">Features</a>
                             <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                            <!-- <a href="404.html" class="dropdown-item"></a> -->
+                           
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>

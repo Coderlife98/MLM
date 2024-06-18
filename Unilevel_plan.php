@@ -37,12 +37,12 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-5 my-3 wow fadeInLeft" data-wow-delay="0.5">
+                    <div class="col-12 col-lg-5 order-0 order-md-2 order-lg-0 my-3 wow fadeInLeft" data-wow-delay="0.5">
                         <div>
-                            <img src="" alt="">
+                            <img src="./img/unilevel.jpg" class="unilevel-img" alt="">
                         </div>
                     </div>
-                    <div class="col-12 col-lg-7 my-3 wow zoomIn" data-wow-delay="0.8">
+                    <div class="col-12 col-lg-7 my-3 wow zoomIn d-flex align-items-center" data-wow-delay="0.8">
                         <div>
                             <h1 class="set_font-size2">Unilevel Plan Software</h1>
                             <p class="text-justify">
@@ -60,9 +60,7 @@
                                 controlled depth, spanning between 5 to 7 levels, ensuring a fair and sustainable
                                 compensation framework.
                             </p>
-                            <!-- <p class="text-justify">
-                            The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease.While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.
-                            </p> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -73,10 +71,10 @@
      <div class="container-fluid py-2 py-lg-2 set_bg_uni">
         <div class="container">
             <div class="row ">
-                <div class="col-12 col-lg-6 my-3 wow rollIn d-flex align-items-center" data-wow-delay="0.5s">
+                <div class="col-12 col-md-6 my-3 wow rollIn d-flex align-items-center" data-wow-delay="0.5s">
                     <p class="text-white text-justify"> The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease.While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.</p>
                 </div>
-                <div class="col-12 col-lg-6 my-3 set-flex wow zoomIn" data-wow-delay="0.5">
+                <div class="col-12 col-md-6 my-3 set-flex wow zoomIn" data-wow-delay="0.5">
                     <div>
                         <img src="./img/girl.png" height="280px" class="set_img_rad" alt="">
                     </div>
@@ -89,6 +87,11 @@
         <div class="container-fluid py-2 py-lg-5 set_bggg_u">
             <div class="container">
                 <div class="row">
+                <div class="col-12 col-lg-5 my-2 d-flex justify-content-center ">
+                        <div>
+                            <img src="./img/advantage.png" height="350px" alt="">
+                        </div>
+                    </div>
                     <div class="col-12 col-lg-7 my-2 wow zoomIn" data-wow-delay="0.8">
                         <div>
                             <h3 class="border_bb">Advantages of Unilevel plan</h3>
@@ -110,7 +113,7 @@
                                 every new distributor signifies another step towards prosperity.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-5 my-2 "></div>
+                    
                 </div>
             </div>
         </div>
@@ -121,11 +124,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-5 my-2">
-                        <div>
-                            <img src="" alt="">
-                        </div>
-                    </div>
+                  
                     <div class="col-12 col-lg-7 my-2 wow fadeInRight" data-wow-delay="0.8">
                         <h3 class="check">Features of Unilevel plan</h3>
                         <p class="text-justify">Experience the unparalleled excitement of the <span class="text-info">Unilevel MLM Plan</span>,
@@ -143,6 +142,11 @@
                             who've embraced the power of the Unilevel Plan and unlocked endless possibilities in network
                             marketing.
                         </p>
+                    </div>
+                    <div class="col-12 col-lg-5 my-2">
+                        <div>
+                            <img src="" alt="">
+                        </div>
                     </div>
                 </div>
             </div>

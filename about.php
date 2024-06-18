@@ -36,17 +36,14 @@
 
     <!-- About Start -->
     <div class="container-fluid py-5  set_abbb_bg">
-        <div class="container py-5">
+        <div class="container ">
             <div class="row g-5">
-                <div class="col-lg-5 col-md-6 col-sm-12 wow  fadeInLeft" data-wow-delay=".3s">
-                    <div class="h-100 position-relative">
-                        <img src="img/about-1.jpg" class="img-fluid w-75 rounded" alt="" style="margin-bottom: 25%;">
-                        <div class="position-absolute w-75" style="top: 25%; left: 25%;">
-                            <img src="img/about-2.jpg" class="img-fluid w-100 rounded" alt="">
-                        </div>
+                <div class="col-lg-5 smaboutimg2  col-sm-12 wow   fadeInLeft" data-wow-delay=".3s">
+                    <div class="smaboutimg">
+                        <img src="img/about1.png" class="img-fluid duedhide  w-75 rounded" alt="" >
                     </div>
                 </div>
-                <div class="col-lg-7 col-md-6 col-sm-12 wow  fadeInRight" data-wow-delay=".5s">
+                <div class="col-lg-7 col-sm-12 wow  fadeInRight" data-wow-delay=".5s">
                     <h5 class="text-primary">About Us</h5>
                     <h1 class="mb-4">About MLM</h1>
                     <p class="text-justify">Whether you're a startup MLM business, or a larger network, we have covered
@@ -74,12 +71,12 @@
         <div class="container-fluid ">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 py-4 col-lg-5 wow zoomIn" data-wow-delay="0.5" >
+                    <div class="col-12 py-4 col-md-5 wow zoomIn" data-wow-delay="0.5" >
                         <div>
                             <img src="./img/exp.png" class="exp-img" alt="">
                         </div>
                     </div>
-                    <div class="col-12 col-lg-7 py-4 d-flex align-items-center wow fadeInRight" data-wow-delay="0.9">
+                    <div class="col-12 col-md-7 py-4 d-flex align-items-center wow fadeInRight" data-wow-delay="0.9">
                         <p class="text-justify text-white">
                             Experience with Number of Years of inspired teamwork and Positive Change, Camwel Solution is
                             now a full-scale integrated <a href="./software.php"
@@ -139,13 +136,13 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-7 my-3 d-flex align-items-center wow fadeInLeft" data-wow-delay="0.9">
+                    <div class="col-12 col-md-7 my-3 d-flex align-items-center wow fadeInLeft" data-wow-delay="0.9">
                         <div>
                             <h3 class="text-info">Technologies, we work on</h3>
                             <p>Camwel is not specifically tied down to any specific technology. As we offer end-to-end solutions based on technologies that are the most appropriate to our clients. Currently Camwel is working on PHP, Microsoft .NET, MS SQL the present generation of web services based programming platform.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-5 my-3 d-flex justify-content-center wow fadeInUp" data-wow-delay="0.9">
+                    <div class="col-12 col-md-5 my-3 d-flex justify-content-center wow fadeInUp" data-wow-delay="0.9">
                         <div>
                             <img src="./img/tech.png" alt="">
                         </div>

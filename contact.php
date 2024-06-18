@@ -78,60 +78,67 @@
                     </div>
                 </div>
                 <div class="row g-5">
-                    <div class="col-lg-4 wow fadeIn" data-wow-delay=".3s">
-                        <div class="p-5 h-100 rounded contact-map">
-                            <iframe class="rounded w-100 h-100"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.4710403339755!2d-73.82241512404069!3d40.685622471397615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c26749046ee14f%3A0xea672968476d962c!2s123rd%20St%2C%20Queens%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1686493221834!5m2!1sen!2sbd"
-                                style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
+                    <div class="col-lg-5 wow fadeIn" data-wow-delay=".3s">
+
                     </div>
-                    <div class="col-lg-8 wow fadeIn" data-wow-delay=".5s">
+                    <div class="col-lg-7 wow fadeIn" data-wow-delay=".5s">
                         <div class="p-5 rounded contact-form">
                             <form action="" method="post">
-                                <div class="mb-4">
-                                    <input type="text"
-                                        oninput="this.value = this.value.toUpperCase().replace(/[^A-Z ]/g, '').replace(/(\  *?)\  */g, '$1')"
-                                        maxlength="20" name="name" class="form-control border-0 py-3" placeholder="Your Name">
-                                </div>
-                                <div class="mb-4">
-                                    <input type="email" name="email" class="form-control border-0 py-3" placeholder="Your Email">
-                                </div>
-                                <div class="mb-4">
-                                    <input type="text"
-                                        oninput="this.value = this.value.replace(/[^0-9 ]/g, '').replace(/(\  *?)\  */g, '$1')"
-                                        maxlength="10" name="number" class="form-control border-0 py-3" placeholder="Phone Number">
-                                </div>
-                                <div class="mb-4">
-                                    <input type="text" name="subject" class="form-control border-0 py-3" placeholder="Subject">
-                                </div>
-                                <div class="mb-4">
-                                    <textarea class="w-100 form-control border-0 py-3" name="message" rows="6" cols="10"
-                                        placeholder="Message"></textarea>
-                                </div>
-                                <div class="mb-4">
-                                    <div class="outer-box">
-                                        <div class="inner-box1 d-flex justify-content-around  align-items-center "
-                                            style="border:0.2px solid white;padding: 8px 10px;">
-                                            <span class="text-white fw-bolder">Enter Captcha:-</span>
-                                            <div class="captcha-box-in d-flex align-items-center ">
-                                                <div class="in-colo">
-                                                    <span id="first"></span>
-                                                    <span id="plus">+</span>
-                                                    <span id="second"></span>
+                                <div class="col-12 d-flex gap-5">
+                                    <div class="col-6">
+                                        <div class="mb-4">
+                                            <input type="text"
+                                                oninput="this.value = this.value.toUpperCase().replace(/[^A-Z ]/g, '').replace(/(\  *?)\  */g, '$1')"
+                                                maxlength="20" name="name" class="form-control border-0 py-3"
+                                                placeholder="Your Name">
+                                        </div>
+                                        <div class="mb-4">
+                                            <input type="email" name="email" class="form-control border-0 py-3"
+                                                placeholder="Your Email">
+                                        </div>
+                                        <div class="mb-4">
+                                            <input type="text"
+                                                oninput="this.value = this.value.replace(/[^0-9 ]/g, '').replace(/(\  *?)\  */g, '$1')"
+                                                maxlength="10" name="number" class="form-control border-0 py-3"
+                                                placeholder="Phone Number">
+                                        </div>
+                                    </div>
+                                    <div class="col-6">
+                                        <div class="mb-4">
+                                            <input type="text" name="subject" class="form-control border-0 py-3"
+                                                placeholder="Subject">
+                                        </div>
+                                        <div class="mb-4">
+                                            <textarea class="w-100 form-control border-0 py-3" name="message" rows="6"
+                                                cols="10" placeholder="Message"></textarea>
+                                        </div>
+
+                                    </div>
+                                    <div class="mb-4">
+                                        <div class="outer-box">
+                                            <div class="inner-box1 d-flex justify-content-around  align-items-center "
+                                                style="border:0.2px solid white;padding: 8px 10px;">
+                                                <span class="text-white fw-bolder">Enter Captcha:-</span>
+                                                <div class="captcha-box-in d-flex align-items-center ">
+                                                    <div class="in-colo">
+                                                        <span id="first"></span>
+                                                        <span id="plus">+</span>
+                                                        <span id="second"></span>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="mb-4">
-                                    <input type="text" id="num" placeholder="Enter Captcha Here"
-                                        class="set-sum p-2 w-100" onkeyup="myFunction()" />
-                                </div>
-                                <div class="text-start">
-                                    <button name="submit" onclick="return validate();"
-                                        class="btn bg-primary text-white py-3 px-5" type="submit">Send Message</button>
-                                </div>
+
+                                    <div class="mb-4">
+                                        <input type="text" id="num" placeholder="Enter Captcha Here"
+                                            class="set-sum p-2 w-100" onkeyup="myFunction()" />
+                                    </div>
+                                    <div class="text-start">
+                                        <button name="submit" onclick="return validate();"
+                                            class="btn bg-primary text-white py-3 px-5" type="submit">Send
+                                            Message</button>
+                                    </div>
                             </form>
                         </div>
                     </div>
@@ -139,8 +146,17 @@
             </div>
         </div>
     </div>
+    </div>
     <!-- Contact End -->
 
+    <!-- map section start -->
+    <div class="container-fluid">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.345916020479!2d85.17759957539481!3d25.593419277458032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed59ff1c4e1c11%3A0xe19a65ee6eb76c65!2sMLMgig!5e0!3m2!1sen!2sin!4v1718711471832!5m2!1sen!2sin"
+            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <!-- map section end -->
 
     <?php include ("./includes/footer.php"); ?>
     <script>

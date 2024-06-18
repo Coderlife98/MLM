@@ -39,12 +39,12 @@
     <div class="container-fluid  set_matr_bg2">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-lg-5 order-0 order-md-2 order-lg-0 col-sm-12 wow fadeIn" data-wow-delay=".3s">
                     <div>
                         <img src="./img/digital.png" class="caller_img" alt="">
                     </div>
                 </div>
-                <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn d-flex flex-column justify-content-center"
+                <div class="col-lg-7 col-sm-12 wow fadeIn d-flex flex-column justify-content-center"
                     data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
                     <h1 class="mb-4 set_heading">Reach Your Goals Faster: Powerful CrowdFunding Plan</h1>
@@ -62,7 +62,7 @@
      <div class="container-fluid py-2 py-lg-5">
         <div class="container">
             <div class="row">
-               <div class="col-12 col-lg-8 my-3">
+               <div class="col-12 col-lg-7 my-3">
                 <div>
                     <h4 class="fw-bolder">Advantages of CrowdFunding plan</h4>
                     <p class="text-justify">
@@ -76,7 +76,11 @@
                     </p>
                 </div>
                </div>
-               <div class="col-12 col-lg-4 my-3"></div>
+               <div class="col-12 col-lg-5 my-3">
+                <div>
+                    <img src="./img/advantage1.png" class="crowdimg" alt="">
+                </div>
+               </div>
             </div>
         </div>
      </div>

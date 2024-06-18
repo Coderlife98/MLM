@@ -66,7 +66,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-6 my-2">
+                    <div class="col-12 col-md-6 my-2 d-flex align-items-end">
                         <div>
                             <h2>What is Binary MLM Plan?</h2>
                             <p class="text-justify">The <a href="./Binary_plan.php" class="fw-bolder">Binary MLM
@@ -77,7 +77,11 @@
                                 fosters teamwork and collaboration.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6 my-2"></div>
+                    <div class="col-12 col-md-6 my-2 d-flex justify-content-center">
+                        <div>
+                            <img src="./img/binary.png" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -104,15 +108,15 @@
     <!-- Remarkable Surprising Secrets of MLM Gig Software with Binary MLM Plan end -->
     <!-- Structure of Binary MLM Plan start -->
     <section>
-        <div class="container-fluid p-2 p-lg-5">
-            <div class="container">
+        <div class="container-fluid py-2 py-lg-5">
+            <div class="container py-3">
                 <div class="row">
-                    <div class="col-12 col-lg-5 my-2">
+                    <div class="col-12 col-md-5 my-2 smaboutimg">
                         <div>
                             <img src="./img/Binary_stru.png" alt="@dued">
                         </div>
                     </div>
-                    <div class="col-12 col-lg-7 my-2 d-flex align-items-center">
+                    <div class="col-12 col-md-7 my-2 d-flex align-items-center">
                         <div>
                             <h3>Structure of Binary MLM Plan</h3>
                             <p class="text-justify">
@@ -131,10 +135,10 @@
     <!-- Structure of Binary MLM Plan end -->
     <!-- Working of Binary MLM Plan start -->
     <section>
-        <div class="container-fluid">
+        <div class="container-fluid py-4 py-lg-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-7 my-2">
+                    <div class="col-12 col-md-7 order-2 order-md-0 my-2 d-flex align-items-center">
                         <div>
                             <h3>Working of Binary MLM Plan</h3>
                             <p class="text-justify">
@@ -146,7 +150,11 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-5 my-2"></div>
+                    <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
+                        <div>
+                            <img src="./img/binary.jpg" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -230,7 +238,11 @@
                                 and require strategic placement to maximize earning potential.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-5 my-2"></div>
+                    <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
+                        <div>
+                            <img src="./img/leg.png" height="300px" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
