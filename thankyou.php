@@ -34,7 +34,7 @@
 
     <div class="container-fluid px-0">
         <div class="row">
-            <div class="txt-th">
+            <div class="txt-th ">
                 <img src="./img/thank.jpg" class="set-this" alt="@dued">
             </div>
         </div>

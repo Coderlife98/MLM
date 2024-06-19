@@ -59,7 +59,7 @@
     <!-- Reach Your Goals Faster: Powerful CrowdFunding Plan End -->
 
     <!-- advanatges of crowdfuncing plan start -->
-     <div class="container-fluid py-2 py-lg-5">
+     <div class="container-fluid py-2 pt-lg-5">
         <div class="container">
             <div class="row">
                <div class="col-12 col-lg-7 my-3">

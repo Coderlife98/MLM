@@ -923,6 +923,11 @@
         padding: 10px 15px;
         color: white;
         border-radius: 10px;
+        height: 73px;
+    }
+    .bu-bg{
+        background-color: #050529;
+        color: #bbb;
     }
 
     .img_radius {

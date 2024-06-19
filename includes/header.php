@@ -65,17 +65,20 @@
             </button>
             <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                 <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                    <a href="index.php" class="nav-item nav-link active text-secondary">Home</a>
-                    <div class="nav-item dropdown">
+                    <a href="index.php" class="nav-item nav-link text-white ">Home</a>
+                    <!-- <div class="nav-item dropdown">
                         <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About
                             Mlm</a>
                         <div class="dropdown-menu rounded">
                             <a href="./about.php" class="dropdown-item">About Us</a>
                             <a href="./demo.php" class="dropdown-item">Demo</a>
                         </div>
-                    </div>
+                    </div> -->
+                    <a href="./about.php" class="nav-item nav-link  ">About Us</a>
+                    <a href="./demo.php" class="nav-item nav-link ">Demo</a>
                     <div class="nav-item dropdown">
-                        <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">MLM Plan</a>
+                        <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">MLM
+                            Plan</a>
                         <div class="dropdown-menu rounded">
                             <a href="./mlm_plan.php" class="dropdown-item">Our Plan</a>
                             <a href="./binary_plan.php" class="dropdown-item">Binary Plan</a>
@@ -83,7 +86,7 @@
                             <a href="./unilevel_plan.php" class="dropdown-item">Unilevel Plan</a>
                             <a href="./generation.php" class="dropdown-item">Generation Plan</a>
                             <a href="./helping.php" class="dropdown-item">Helping Plan</a>
-                            <a href="./Crowd_funding.php" class="dropdown-item">Crowdfunding Plan</a>
+                            <a href="./crowd_funding.php" class="dropdown-item">Crowdfunding Plan</a>
 
                         </div>
                     </div>

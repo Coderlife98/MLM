@@ -19,6 +19,9 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
+     <!-- slide contact start -->
+      <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
 
     <!-- Carousel Start -->
     <div class="container-fluid px-0">
@@ -39,14 +42,14 @@
                             <p class="mb-4 text-white  animated fadeInDown"> Find the best MLM Software for your
                                 business. </br>Compare product reviews and features </br>to build your list.</p>
 
-                            <a href="#" class="ms-2"><button type="button"
+                            <a href="./mlm_plan.php" class="ms-2"><button type="button"
                                     class="px-3 py-sm-2 px-sm-3 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Mlm
                                     Software</button></a>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/slide22.jpg" class="img-fluid duedslider" alt="Second slide">
+                    <img src="img/slider1.png" class="img-fluid duedslider" alt="Second slide">
                     <div class="carousel-caption">
                         <div class="container carousel-content">
                            
@@ -54,7 +57,7 @@
                                 Company </h3>
                             <p class="mb-4 text-white fs-5 animated fadeInDown">At our Custom MLM Software Development Company, we specialize in creating tailored MLM solutions that cater to the unique needs of your business. </p>
 
-                            <a href="#" class="ms-2"><button type="button"
+                            <a href="./contact.php" class="ms-2"><button type="button"
                                     class="px-3 py-sm-2 px-sm-3 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact
                                     Us</button></a>
                         </div>

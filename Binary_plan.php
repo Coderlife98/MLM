@@ -35,17 +35,17 @@
 
     <!-- [New Binary Plan Techniques for a Thriving Business Start -->
     <section>
-        <div class="container-fluid p-2 p-lg-4">
+        <div class="container-fluid p-2 p-lg-4 bu-bg">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-lg-6 my-3 wow fadeInLeft" data-wow-delay="0.3">
                         <div>
-
+                          <img src="./img/b.png" height="300px" alt="">
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6 my-3 wow fadeInRight" data-wow-delay="0.3">
+                    <div class="col-12 col-lg-6 d-flex align-items-center my-3 wow fadeInRight" data-wow-delay="0.3">
                         <div>
-                            <h1 class="set_font-size">New Binary Plan Techniques for a Thriving Business</h1>
+                            <h1 class="set_font-size text-white">New Binary Plan Techniques for a Thriving Business</h1>
                             <p class="text-justify">
                                 At <a href="./mlm_plan.php" class="fw-bolder">MLM Gig</a>, we believe in empowering
                                 businesses with cutting-edge MLM solutions, and one such powerful strategy is the <a
@@ -66,7 +66,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-6 my-2 d-flex align-items-end">
+                    <div class="col-12 col-md-6 my-2 d-flex align-items-center">
                         <div>
                             <h2>What is Binary MLM Plan?</h2>
                             <p class="text-justify">The <a href="./binary_plan.php" class="fw-bolder">Binary MLM

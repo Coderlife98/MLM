@@ -21,3 +21,4 @@
 
 <!-- Template Stylesheet -->
 <link href="./Animate/css/style.css" rel="stylesheet">
+<script src="./jquery/jquery.min.js"></script>
