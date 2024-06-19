@@ -23,9 +23,9 @@
             <h1 class="display-2 text-white mb-4 animated slideInDown">Binary Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="./index.php">Home</a></li>
-                    <li class="breadcrumb-item"></li>
-                    <li class="breadcrumb-item" aria-current="page"><a href="./Binary_plan.php">Binary Plan</a></li>
+                    <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
+                    
+                    <li class="breadcrumb-item" aria-current="page"><a href="./binary_plan.php">Binary Plan</a></li>
                 </ol>
             </nav>
         </div>
@@ -47,9 +47,9 @@
                         <div>
                             <h1 class="set_font-size">New Binary Plan Techniques for a Thriving Business</h1>
                             <p class="text-justify">
-                                At <a href="./index.php" class="fw-bolder">MLM Gig</a>, we believe in empowering
+                                At <a href="./mlm_plan.php" class="fw-bolder">MLM Gig</a>, we believe in empowering
                                 businesses with cutting-edge MLM solutions, and one such powerful strategy is the <a
-                                    href="./Binary_plan.php" class="fw-bolder">Binary MLM Plan</a>. In this
+                                    href="./binary_plan.php" class="fw-bolder">Binary MLM Plan</a>. In this
                                 comprehensive guide, we unravel the mysteries surrounding the Binary MLM Plan, shedding
                                 light on its structure, working principles, pros, cons, and the remarkable surprises our
                                 MLM Gig Software brings to the table.
@@ -69,7 +69,7 @@
                     <div class="col-12 col-md-6 my-2 d-flex align-items-end">
                         <div>
                             <h2>What is Binary MLM Plan?</h2>
-                            <p class="text-justify">The <a href="./Binary_plan.php" class="fw-bolder">Binary MLM
+                            <p class="text-justify">The <a href="./binary_plan.php" class="fw-bolder">Binary MLM
                                     Plan</a> is a popular network marketing strategy characterized by its binary tree
                                 structure. In this plan, each member is limited to recruiting two frontline
                                 distributors, forming two legs – a left leg and a right leg. As the network grows, new
@@ -95,7 +95,7 @@
                     <div class="col-12">
                         <h3 class="text-center text-white">Remarkable Surprising Secrets of MLM Gig Software with Binary
                             MLM Plan</h3>
-                        <p class="text-center">Our <a href="./index.php" class="fw-bolder text-secondary">MLM Gig
+                        <p class="text-center">Our <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig
                                 Software</a> is engineered to revolutionize the way you manage your Binary MLM business.
                             With a robust suite of features, including real-time analytics, genealogy tracking, e-wallet
                             integration, and customizable compensation plans, our software empowers you to streamline
@@ -254,7 +254,7 @@
             <div class="row">
                 <div class="col-12 wow lightSpeedIn" data-wow-delay="0.8">
                     <p class="text-justify text-dark text-white">
-                        At <a href="./index.php" class="fw-bolder text-secondary">MLM Gig</a>, we're dedicated to helping you unlock the full potential of the Binary MLM Plan with
+                        At <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig</a>, we're dedicated to helping you unlock the full potential of the Binary MLM Plan with
                         our innovative software solutions and expert guidance. Whether you're a seasoned MLM
                         professional or just starting your journey, our team is here to support you every step of the
                         way, ensuring your success in the dynamic world of network marketing.

@@ -45,21 +45,20 @@
                 </div>
                 <div class="col-lg-7 col-sm-12 wow  fadeInRight" data-wow-delay=".5s">
                     <h5 class="text-primary">About Us</h5>
-                    <h1 class="mb-4">About MLM</h1>
+                    <h2 class="mb-4">About MLM</h2>
                     <p class="text-justify">Whether you're a startup MLM business, or a larger network, we have covered
                         almost everything you'll need to run your MLM business online. In 2020, We're the most accepted
                         MLM Business Software provider! We provide reliable MLM Software Development Solutions like
-                        Single Leg MLM <a href="./Binary_plan.php" class="fw-bolder">,Binary MLM</a>, <a
-                            href="./matrix_plan.php" class="fw-bolder">Matrix MLM</a>, <a href="./board_plan.php"
-                            class="fw-bolder">Board Plan MLM</a>, E-Commerce with <a href="./generation.php"
-                            class="fw-bolder">Generations Plan</a>, <a href="./Unilevel_plan.php">Unilevel MLM</a> etc.
+                        Single Leg MLM <a href="./binary_plan.php" class="fw-bolder">,Binary MLM</a>, <a
+                            href="./matrix_plan.php" class="fw-bolder">Matrix MLM</a>,, E-Commerce with <a href="./generation.php"
+                            class="fw-bolder">Generations Plan</a>, <a href="./unilevel_plan.php"  class="fw-bolder">Unilevel MLM</a> etc.
                         We have an expert team of MLM Software Developers, Quality Analyst and SEO, who try to develop
                         best quality of services to our clients with cost-effective approach. We are the one stop
                         solutions center for all your software requirements. We work according to client's requirements
                         and their business goals. We provide you with customized software at best price in the market.
                     </p>
 
-                    <a href="#" class="btn btn-secondary rounded-pill px-5 py-2 text-white">More Details</a>
+                    <a href="./contact.php" class="btn btn-secondary rounded-pill px-5 py-2 text-white">More Details</a>
                 </div>
             </div>
         </div>
@@ -72,15 +71,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 py-4 col-md-5 wow zoomIn" data-wow-delay="0.5" >
-                        <div>
+                        <div class="sm--about">
                             <img src="./img/exp.png" class="exp-img" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-md-7 py-4 d-flex align-items-center wow fadeInRight" data-wow-delay="0.9">
                         <p class="text-justify text-white">
                             Experience with Number of Years of inspired teamwork and Positive Change, Camwel Solution is
-                            now a full-scale integrated <a href="./software.php"
-                                class="fw-bolder text-secondary">software development</a> and information technology
+                            now a full-scale integrated software development and information technology
                             company having the presence in Patna, Pune and Bangalore. From skilled professionals and
                             creative team, company has expend in different areas of IT industry such as Banking,
                             Nonbanking, Finance, Real Estate and Network Marketing.

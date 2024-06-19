@@ -25,7 +25,7 @@
             <h1 class="display-2 text-white mb-4 animated slideInDown">Digital Marketing</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="./index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
                     <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
                     <li class="breadcrumb-item" aria-current="page">Digital Marketing</li>
                 </ol>
@@ -203,7 +203,7 @@
                 <div class="col-12 col-lg-12 p-2 my-3 set_color ">
                     <div class="lg_flex">
                         <div class="color lg_center">
-                           <img src="./img/increase.png" width="55px" height="55px" alt="">
+                           <img src="./img/enhance.png" width="55px" height="55px" alt="">
                         </div>
                         <div class="head_tt text-white d-flex flex-column justify-content-center">
                             <h5 class="py-1 he mb-0">Enhanced Online Presence</h5>
@@ -214,7 +214,7 @@
                 <div class="col-12 col-lg-12 p-2 my-3 set_color ">
                     <div class="lg_flex">
                         <div class="color lg_center">
-                           <img src="./img/increase.png" width="55px" height="55px" alt="">
+                           <img src="./img/improve.png" width="55px" height="55px" alt="">
                         </div>
                         <div class="head_tt text-white d-flex flex-column justify-content-center">
                             <h5 class="py-1 he mb-0">Improved Brand Awareness</h5>
@@ -225,7 +225,7 @@
                 <div class="col-12 col-lg-12 p-2 my-3 set_color ">
                     <div class="lg_flex">
                         <div class="color lg_center">
-                           <img src="./img/increase.png" width="55px" height="55px" alt="">
+                           <img src="./img/roi.png" width="55px" height="55px" alt="">
                         </div>
                         <div class="head_tt text-white d-flex flex-column justify-content-center">
                             <h5 class="py-1 he mb-0">Higher ROI</h5>

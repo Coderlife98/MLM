@@ -23,8 +23,8 @@
             <h1 class="display-2 text-white mb-4 animated slideInDown">Unilevel Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="./index.php">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">/</a></li>
+                    <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
+                   
                     <li class="breadcrumb-item" aria-current="page">Services</li>
                 </ol>
             </nav>
@@ -100,7 +100,7 @@
                                 the Unilevel plan demands only a minimal personal volume to kickstart your earnings,
                                 making it ideal for those venturing into Network Marketing on a part-time basis. Witness
                                 your business flourish as you swiftly begin to reap the rewards, often outpacing the
-                                income growth offered by <a href="./index.php"
+                                income growth offered by <a href="./binary_plan.php"
                                     class="fw-bolder text-secondary">Binary</a> or <a href="./matrix_plan.php"
                                     class="fw-bolder text-secondary">Matrix</a> Compensation plans.</p>
                             <p class="text-justify">One of the most enticing aspects of the Unilevel Compensation plan
@@ -127,7 +127,7 @@
                   
                     <div class="col-12 col-lg-7 my-2 wow fadeInRight" data-wow-delay="0.8">
                         <h3 class="check">Features of Unilevel plan</h3>
-                        <p class="text-justify">Experience the unparalleled excitement of the <span class="text-info">Unilevel MLM Plan</span>,
+                        <p class="text-justify">Experience the unparalleled excitement of the <a class="text-secondary" href="./unilevel_plan.php">Unilevel MLM Plan</a>,
                             renowned for its abundant payouts and limitless downline potential. Unlike other plans, the
                             Unilevel Plan rewards you for every member in your extensive downline, up to an astonishing
                             15 levels deep. Imagine, earning from a network that knows no bounds!</p>
