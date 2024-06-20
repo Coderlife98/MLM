@@ -17,10 +17,13 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
+      <!-- slide contact start -->
+      <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header matrix_hero py-5">
         <div class="container text-center py-5">
-            <h1 class="display-2 text-white mb-4 animated slideInDown">Matrix Plan</h1>
+            <h2 class="display-2 text-white mb-4 animated slideInDown">Matrix Plan</h2>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
@@ -72,7 +75,7 @@
                     </div>
                     <div class="col-12 col-lg-7 my-2 wow fadeInRight" data-wow-delay="1s" data-wow-duration="0.5">
                         <div>
-                            <h2>Benefits of <span class="text-info">MLM Matrix Plan</span></h2>
+                            <h3>Benefits of <span class="text-info">MLM Matrix Plan</span></h3>
                         </div>
                         <div>
                             <p class="text-justify">
@@ -100,9 +103,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="text-white wow flipInX" data-wow-delay="0.5" data-wow-duration="0.5">
+                        <h3 class="text-white wow flipInX" data-wow-delay="0.5" data-wow-duration="0.5">
                         Advantages and features of <span class="text-warning">Matrix plan</span>
-                        </h2>
+                        </h3>
                     </div>
                     <div class="col-12 col-lg-6 my-2 wow zoomIn" data-wow-delay="0.5">
                         <div class="set_glass p-3">

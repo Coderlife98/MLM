@@ -16,6 +16,9 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
+      <!-- slide contact start -->
+      <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
 
     <!-- Page Header Start -->
     <div class="container-fluid page-header web_hero py-5">
@@ -132,7 +135,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h3 class="text-center text-info">Benefits of a Strong Online Presence</h3>
+                        <h4 class="text-center text-info">Benefits of a Strong Online Presence</h4>
                     </div>
                 </div>
                 <div class="row my-2 my-lg-5 d-flex justify-content-between">
@@ -179,7 +182,7 @@
             <div class="row wow fadeInUp" data-wow-delay=".3s" >
                 <div class="col-12 col-lg-8 my-2 d-flex align-items-end">
                     <div>
-                        <h3>Start Your Journey with MLM Gig</h3>
+                        <h4>Start Your Journey with MLM Gig</h4>
                         <p class="text-justify">Ready to take your business to the next level? Partner with <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig</a>, Patna’s top-rated web development company, and watch your online presence soar. Our comprehensive web development services are designed to help you attract more clients, boost sales, and achieve long-term success. <a href="./contact.php" class="fw-bolder">Contact us</a> today to get started on creating a custom website that truly represents your brand and drives your business forward.</p>
                     </div>
                 </div>

@@ -18,7 +18,9 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
-
+ <!-- slide contact start -->
+ <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header digital_hero py-5">
         <div class="container text-center py-5">
@@ -117,7 +119,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h3 class="fw-bolder text-center">Services Offered by MLM Gig</h3>
+                    <h4 class="fw-bolder text-center">Services Offered by MLM Gig</h4>
                 </div>
             </div>
             <div class="row my-4">

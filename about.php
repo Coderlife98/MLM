@@ -16,6 +16,9 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
+      <!-- slide contact start -->
+      <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
 
     <!-- Page Header Start -->
     <div class="container-fluid page-header about_hero py-5">
@@ -44,8 +47,8 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-sm-12 wow  fadeInRight" data-wow-delay=".5s">
-                    <h5 class="text-primary">About Us</h5>
-                    <h2 class="mb-4">About MLM</h2>
+                    <h2 class="text-primary">About Us</h2>
+                    <!-- <h5 class="mb-4">About MLM</h5> -->
                     <p class="text-justify">Whether you're a startup MLM business, or a larger network, we have covered
                         almost everything you'll need to run your MLM business online. In 2020, We're the most accepted
                         MLM Business Software provider! We provide reliable MLM Software Development Solutions like

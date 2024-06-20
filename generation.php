@@ -15,6 +15,9 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
+      <!-- slide contact start -->
+      <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header generation_hero py-5">
         <div class="container text-center py-5">
@@ -56,7 +59,7 @@
             <div class="row">
                 <div class="col-12 col-lg-8 my-2 wow fadeInUp" data-wow-delay="0.9s">
                     <div>
-                        <h3 class="text-white">Overview of Generation plan</h3>
+                        <h4 class="text-white">Overview of Generation plan</h4>
                         <p class="text-justify">
                         The Generation MLM Plan stands out for its simplicity, making it an ideal choice for both individual members and MLM companies to explain and convey to new members and business affiliates. In this plan, each affiliate can recruit new members into their level structure or frontline, introducing new recruits at any width. Commissions are then distributed up to a fixed depth or set levels as specified by the MLM compensation plan. 
                         </p>
@@ -80,7 +83,7 @@
                 <div class="col-12 col-lg-4 my-2"></div>
                 <div class="col-12 col-lg-8 my-2">
                     <div>
-                        <h3>Advantages of Generation plan</h3>
+                        <h4>Advantages of Generation plan</h4>
                         <p class="text-justify">
                         The Generation MLM Plan stands out as one of the most exciting and lucrative MLM pay plans due to its substantial payout potential. This plan offers payouts to an infinite downline, meaning members earn commissions even from downline levels as deep as 15. In a Generation model, upline members place their new recruits into your "power leg," creating spillover and often resulting in rapid growth. This structure fosters teamwork and cooperative energy, essential for the success of both you and your downline. The Generation plan provides the greatest potential for generational earnings depth among the four basic network marketing compensation plans.
                         </p>

@@ -16,7 +16,9 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
-
+ <!-- slide contact start -->
+ <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header demo_hero py-5">
         <div class="container text-center py-5">
@@ -45,7 +47,7 @@
                 </div>
                 <div class="col-lg-7 col-md-6 col-sm-12 wow fadeInRight d-flex flex-column justify-content-center" data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
-                    <h1 class="mb-4 set_heading">Try MLM Software Demo for Your MLM Plans</h1>
+                    <h2 class="mb-4 set_heading">Try MLM Software Demo for Your MLM Plans</h2>
                     <p class="text-justify">It is the rigorous study put in by MLM gig which has helped the team come up with the robust and flexible MLM software that it has. Its massive reach is just another testimony of how it can help improve and organize the MLM business which would ultimately lead to growth and success.
                     </p>
                     <p class="text-justify">An <a href="./mlm_plan.php" class="fw-bolder">MLM software</a> demo gives you an idea of how the MLM software works and how it can benefit you. Get yourself the MLM Software demo of the MLM software plan you are looking forward to and get a firsthand experience at the goodness of the MLM software we have.

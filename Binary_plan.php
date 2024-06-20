@@ -17,6 +17,9 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
+      <!-- slide contact start -->
+      <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header page_binary py-5">
         <div class="container text-center py-5">
@@ -45,7 +48,7 @@
                     </div>
                     <div class="col-12 col-lg-6 d-flex align-items-center my-3 wow fadeInRight" data-wow-delay="0.3">
                         <div>
-                            <h1 class="set_font-size text-white">New Binary Plan Techniques for a Thriving Business</h1>
+                            <h2 class=" text-white">New Binary Plan Techniques for a Thriving Business</h2>
                             <p class="text-justify">
                                 At <a href="./mlm_plan.php" class="fw-bolder">MLM Gig</a>, we believe in empowering
                                 businesses with cutting-edge MLM solutions, and one such powerful strategy is the <a
@@ -166,8 +169,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 mb-2 mb-lg-4 wow zoomIn" data-wow-delay="0.3">
-                        <h2 class="text-center text-white">Pros of the <span class="text-info">Binary MLM Plan</span>
-                        </h2>
+                        <h4 class="text-center text-white">Pros of the <span class="text-info">Binary MLM Plan</span>
+                        </h4>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 my-2 wow fadeInLeft" data-wow-delay="0.9">
                         <div class="props_box p-3">
@@ -219,7 +222,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 wow flipInX" data-wow-delay="0.5">
-                        <h3 class="text-white">Cons of the <span class="text-warning">Binary MLM Plan</span></h3>
+                        <h4 class="text-white">Cons of the <span class="text-warning">Binary MLM Plan</span></h4>
                     </div>
                     <div class="col-12 col-lg-7 my-2 "  >
                         <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.3">

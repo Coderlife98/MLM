@@ -34,10 +34,10 @@
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
                     <img src="img/slide1.jpg" class="img-fluid duedslider" alt="First slide">
-                    <div class="carousel-caption">
+                    <div class="carousel-caption carousel-caption2">
                         <div class="container carousel-content">
-                        <h4 class="text-white display-1 mb-4 animated fadeInRight">MLM SOFTWARE</h4>
-                            <h5 class="text-secondary h4 animated fadeInUp">Best Mlm Software</h5>
+                        <h1 class="text-white display-1 mb-4 animated fadeInRight">MLM SOFTWARE</h1>
+                            <h2 class="text-secondary h4 animated fadeInUp">Best Mlm Software</h2>
                             
                             <p class="mb-4 text-white  animated fadeInDown"> Find the best MLM Software for your
                                 business. </br>Compare product reviews and features </br>to build your list.</p>
@@ -50,11 +50,11 @@
                 </div>
                 <div class="carousel-item">
                     <img src="img/slider1.png" class="img-fluid duedslider" alt="Second slide">
-                    <div class="carousel-caption">
+                    <div class="carousel-caption carousel-caption2">
                         <div class="container carousel-content">
                            
-                            <h3 class="text-white display-1 mb-4 animated fadeInLeft"> Custom MLM Software Development
-                                Company </h3>
+                            <h1 class="text-white display-1 mb-4 animated fadeInLeft"> Custom MLM Software Development
+                                Company </h1>
                             <p class="mb-4 text-white fs-5 animated fadeInDown">At our Custom MLM Software Development Company, we specialize in creating tailored MLM solutions that cater to the unique needs of your business. </p>
 
                             <a href="./contact.php" class="ms-2"><button type="button"
@@ -86,9 +86,9 @@
                 </div>
                 <div class="col-lg-7 col-md-6 d-flex align-items-start justify-content-center flex-column col-sm-12 wow fadeInRight"
                     data-wow-delay=".8s">
-                    <h5 class="header_txt_grd">MLM Software Provider </h5>
-                    <h2 class="mb-4 text-white">Best <span class="text-warning">MLM Software</span> Provider in Patna
-                    </h2>
+                    <h2 class="header_txt_grd">MLM Software Provider </h2>
+                    <h4 class="mb-4 text-white">Best <span class="text-warning">MLM Software</span> Provider in Patna
+                    </h4>
                     <p class="text_slate text-justify">Welcome to the leading <a href="./mlm_plan.php" title="click me" class="all_link_color">MLM
                             software</a> provider in Patna! If you’re looking to elevate your network marketing
                         business, you've come to the right place. Our <a href="./mlm_plan.php" class="all_link_color" title="click me">MLM gig
@@ -587,7 +587,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="fw-bolder">How do I choose the best MLM Software?</h2>
+                    <h2 class="">How do I choose the best MLM Software?</h2>
                     <h5>Selecting the optimal <a href="./mlm_plan.php" class="fw-bolder">multi-level marketing software</a>
                         hinges on various factors:</h5>
 

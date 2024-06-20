@@ -17,6 +17,9 @@
     <!-- Navbar Start -->
     <?php include ("./includes/header.php"); ?>
     <!-- Navbar End -->
+      <!-- slide contact start -->
+      <?php include("./includes/slideContact.php");?>
+     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header mlm_hero py-5">
         <div class="container text-center py-5">
@@ -35,7 +38,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-lg-7 my-3">
-                        <h1 class="set_heading">Best MLM Business Plan: Types and Strategies for Success </h1>
+                        <h2 class="">Best MLM Business Plan: Types and Strategies for Success </h2>
                         <p class="text-justify">
                             Discover the best MLM business plan tailored for your success. Explore various MLM types and
                             strategies that can elevate your MLM gig, ensuring you achieve maximum growth and
