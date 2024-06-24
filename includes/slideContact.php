@@ -18,7 +18,7 @@
     }
 
     #myForm {
-        width: 305px;
+        width: 300px;
         border-radius: 20px;
         height: 492px;
         background-color: black;
@@ -83,7 +83,7 @@
         }
 
         #myForm {
-            width: 305px;
+            width: 300px;
             border-radius: 20px;
             height: 492px;
             background-color: black;
@@ -108,7 +108,7 @@
             transform: rotate(270deg);
         }
         #myForm {
-            width: 305px;
+            width: 300px;
             border-radius: 20px;
             height: 492px;
             background-color: black;
@@ -134,7 +134,7 @@
         }
 
         #myForm {
-            width: 305px;
+            width: 300px;
             border-radius: 20px;
             height: 492px;
             background-color: black;
@@ -160,7 +160,7 @@
         }
 
         #myForm {
-            width: 305px;
+            width: 300px;
             border-radius: 20px;
             height: 492px;
             background-color: black;
@@ -230,8 +230,8 @@
                     </div>
                 </div>
             </div>
-            <div class="mb-1 add_borrrrr">
-                <input type="text" id="numinputside" placeholder="Enter Captcha Here"
+            <div class="mb-1 w-100">
+                <input type="text" class="text-white w-100" id="numinputside" placeholder="Enter Captcha Here"
                     name="message">
 
             </div>
@@ -283,25 +283,25 @@
         var phoneRegex = /^\d{10}$/;
         var emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
-        // if (!name) {
-        //     alert("Please Enter Name");
-        //     return false;
-        // } else if (!namePattern.test(name)) {
-        //     alert("Enter Valid Name");
-        //     return false;
-        // } else if (!email) {
-        //     alert("Enter Email");
-        //     return false;
-        // } else if (!emailRegex.test(email)) {
-        //     alert("Please Enter Valid Email");
-        //     return false;
-        // } else if (!number) {
-        //     alert("Enter Number");
-        //     return false;
-        // } else if (!message) {
-        //     alert("Enter Message");
-        //     return false;
-        // } else
+        if (!name) {
+            alert("Please Enter Name");
+            return false;
+        } else if (!namePattern.test(name)) {
+            alert("Enter Valid Name");
+            return false;
+        } else if (!email) {
+            alert("Enter Email");
+            return false;
+        } else if (!emailRegex.test(email)) {
+            alert("Please Enter Valid Email");
+            return false;
+        } else if (!number) {
+            alert("Enter Number");
+            return false;
+        } else if (!message) {
+            alert("Enter Message");
+            return false;
+        } else
          if (!inputValue) {
             alert("Please Enter Captcha");
             return false;
