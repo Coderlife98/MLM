@@ -3196,8 +3196,8 @@ fieldset:disabled .btn {
 .btn-light:focus {
     color: #000;
     background-color: #f9f9fa;
-    border-color: #f9f9fa;
-    box-shadow: 0 0 0 .25rem rgba(211, 211, 212, .5)
+    border-color: #2b2aa0;
+    box-shadow: 0 0 0 .25rem rgba(53, 53, 223, 0.5)
 }
 
 .btn-check:checked+.btn-light,
@@ -3950,6 +3950,7 @@ fieldset:disabled .btn {
     color: #1e2125;
     /* background-color: #e9ecef; */
     color: #1842b6;
+    font-weight: 500;
     /* letter-spacing: 1px; */
     font-size: 16px;
 }
@@ -3958,7 +3959,7 @@ fieldset:disabled .btn {
 .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #1842b6
+    /* background-color: #1842b6 */
 }
 
 .dropdown-item.disabled,

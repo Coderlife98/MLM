@@ -77,7 +77,7 @@
             </button>
             <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                 <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                    <a href="index.php" class="nav-item nav-link text-white ">Home</a>
+                    <a href="index.php" class="nav-item nav-link  ">Home</a>
                     <!-- <div class="nav-item dropdown">
                         <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About
                             Mlm</a>
@@ -89,10 +89,9 @@
                     <a href="./about.php" class="nav-item nav-link  ">About Us</a>
                     <a href="./demo.php" class="nav-item nav-link ">Demo</a>
                     <div class="nav-item dropdown">
-                        <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">MLM
+                        <a href="./mlm_plan.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">MLM
                             Plan</a>
                         <div class="dropdown-menu rounded">
-                            <a href="./mlm_plan.php" class="dropdown-item">Our Plan</a>
                             <a href="./binary_plan.php" class="dropdown-item">Binary Plan</a>
                             <a href="./matrix_plan.php" class="dropdown-item">Matrix Plan</a>
                             <a href="./unilevel_plan.php" class="dropdown-item">Unilevel Plan</a>
@@ -107,19 +106,10 @@
                             data-bs-toggle="dropdown">Services</a>
                         <div class="dropdown-menu rounded">
                             <a href="./website_dev.php" class="dropdown-item">Website Development</a>
-                            <a href="digital.php" class="dropdown-item">digital marketing</a>
+                            <a href="digital.php" class="dropdown-item">Digital marketing</a>
                         </div>
                     </div>
-                    <!-- <div class="nav-item dropdown">
-                        <a href="javascript:void(0);" class="nav-link dropdown-toggle"
-                            data-bs-toggle="dropdown">Resources</a>
-                        <div class="dropdown-menu rounded">
-                            <a href="blog.php" class="dropdown-item">Blog</a>
-                            <a href="features.php" class="dropdown-item">Features</a>
-                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                           
-                        </div>
-                    </div> -->
+                  
 
                 </div>
             </div>

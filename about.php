@@ -61,7 +61,7 @@
                         and their business goals. We provide you with customized software at best price in the market.
                     </p>
 
-                    <a href="./contact.php" class="btn btn-secondary rounded-pill px-5 py-2 text-white">More Details</a>
+                    <a href="./contact.php" class="btn btn-secondary rounded-pill px-5 py-2 text-white" id="btnEffectt">More Details</a>
                 </div>
             </div>
         </div>

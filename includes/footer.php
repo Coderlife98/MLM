@@ -80,8 +80,7 @@
                 <a href="#" class="h3 text-secondary">Contact Us</a>
                 <div class="text-white mt-4 d-flex flex-column contact-link">
                     <a href="#" class="pb-3 text_slate border-bottom border-primary" id="footerLinks"><i
-                            class="fas fa-map-marker-alt text-secondary me-2"></i>
-                        Janki Market, Bhagwat Nagar, Kumhrar, Patna-800026, Bihar, India</a>
+                            class="fas fa-map-marker-alt text-secondary me-2"></i>Janki Market, Bhagwat Nagar, Kumhrar, Patna-800026, Bihar, India</a>
                     <a href="tel:+91 9570444888" class="py-3 text_slate border-bottom border-primary" id="footerLinks"><i
                             class="fas fa-phone-alt text-secondary me-2"></i>+91 9570444888</a>
                     <a href="mailto:mlmgigsoftware@gmail.com" id="footerLinks" class="py-3 text_slate border-bottom border-primary"><i

@@ -762,7 +762,7 @@
     }
 
     .footer .hightech-link a:hover {
-        background: var(--bs-secondary);
+        background: #00ffd9;
         border: 0;
     }
 
@@ -1579,6 +1579,10 @@
 
     .add-border-bottom {
         border-bottom: 0.5px solid white;
+    }
+
+    #btnEffectt{
+        
     }
 
     /* footer start */

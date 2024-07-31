@@ -560,8 +560,13 @@
                             <div class="col-lg-6 col-12">
                                 <span class="fw-bolder text-dark">Necessary Resources</span>
                                 <div class="text-dark">
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
+                                    <div class="my-2 d-flex ">
+                                        <div>
+                                        <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                        </div> 
+                                        <p class="mb-0">A
                                         dedicated team of developers and support staff</p>
+                                    </div>
                                     <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
                                         robust server infrastructure</p>
                                     <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> An
