@@ -57,7 +57,7 @@
       <div class="container-fluid py-2 py-lg-5 set_overview_bg">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-8 my-2 wow fadeInUp" data-wow-delay="0.9s">
+                <div class="col-12 col-lg-12 my-2 wow fadeInUp" data-wow-delay="0.9s">
                     <div>
                         <h4 class="text-white">Overview of Generation plan</h4>
                         <p class="text-justify">
@@ -71,7 +71,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 my-2 wow fadeInUp" data-wow-delay="0.9s"></div>
+               
             </div>
         </div>
       </div>
@@ -80,7 +80,11 @@
        <div class="container-fluid py-2 py-lg-5">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-4 my-2"></div>
+                <div class="col-12 col-lg-4 my-2">
+                    <div>
+                        <img src="./img/add.png" class="addntage" alt="">
+                    </div>
+                </div>
                 <div class="col-12 col-lg-8 my-2">
                     <div>
                         <h4>Advantages of Generation plan</h4>

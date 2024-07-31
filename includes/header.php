@@ -1,17 +1,29 @@
 <style>
-    /* @media (min-width:992px) {
-        .sticky {
-            position: fixed;
-            top: 0;
-            
-            padding: 20px;
-            background-color: #333;
-            z-index: 1000;
-            border-radius: 20px;
-        }
-    } */
-</style>
+    .fixed {
+        position: fixed !important;
+        top: 0 !important;
+        width: 100% !important;
+        z-index: 10000;
+        background: linear-gradient(0deg, rgb(34 195 101 / 74%) 0%, rgb(45 74 253 / 52%) 100%);
+        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        color: black!important;
+        animation: fadeInBottom 1s linear;
+    }
 
+    @keyframes fadeInBottom {
+        from {
+            opacity: 0;
+            transform: translateY(-50%);
+        }
+
+        to {
+            opacity: 1
+        }
+    }
+</style>
 
 <!-- Spinner Start -->
 <div id="spinner"
@@ -31,16 +43,16 @@
                             class="fas fa-envelope me-2 text-secondary"></i>mlmgigsoftware@gmail.com</a></small>
             </div>
             <!-- Note : We help you to Grow your Business -->
-            <div id="note" class="text-secondary d-none d-xl-flex"><small>Binary || Matrix || Unilevel ||
-                    Generation</small></div>
+            <!-- <div id="note" class="text-secondary d-none d-xl-flex"><small>Binary || Matrix || Unilevel ||
+                    Generation</small></div> -->
             <div class="top-link">
-                <a href="https://www.facebook.com/mlmgigpatna" target="_blank"
+                <a href="https://www.facebook.com/mlmgigsoftware" target="_blank"
                     class="bg-light nav-fill btn btn-sm-square rounded-circle dued-up"><i
                         class="fab fa-facebook-f text-primary"></i></a>
-                <a href="https://x.com/i/flow/login?redirect_after_login=%2FMgigMl" target="_blank"
+                <a href="https://x.com/i/flow/login?redirect_after_login=%2Fmlmgigsoftware" target="_blank"
                     class="bg-light nav-fill btn btn-sm-square rounded-circle dued-up"><i
                         class="fab fa-twitter text-primary"></i></a>
-                <a href="https://www.instagram.com/mlmgig/" target="_blank"
+                <a href="https://www.instagram.com/mlmgigsoftware/" target="_blank"
                     class="bg-light nav-fill btn btn-sm-square rounded-circle dued-up fw-bolder"><i
                         class="fab fa-instagram text-primary"></i></a>
                 <a href="https://api.whatsapp.com/send/?phone=9028388889&text&type=phone_number&app_absent=0"
@@ -53,9 +65,9 @@
 <!-- Topbar End -->
 
 
-<div class="container-fluid bg-primary__gradient " id="bg__fixed">
+<div class="container-fluid bg-primary__gradient " id="navbar">
     <div class="container">
-        <nav class="navbar navbar-dark navbar-expand-lg py-0" id="navbar">
+        <nav class="navbar navbar-dark navbar-expand-lg py-0" id="">
             <a href="index.php" class="navbar-brand">
                 <img src="./img/logo.png" height="60px" alt="@logo-dued">
             </a>
@@ -123,18 +135,15 @@
     </div>
 </div>
 
-
 <script>
-    // window.onscroll = function () { myFunction() };
+    var num = 200;
+    //number of pixels before modifying styles
 
-    // var navbar = document.getElementById("navbar");
-    // var sticky = navbar.offsetTop;
-
-    // function myFunction() {
-    //     if (window.pageYOffset >= sticky) {
-    //         navbar.classList.add("sticky")
-    //     } else {
-    //         navbar.classList.remove("sticky");
-    //     }
-    // }
+    $(window).bind('scroll', function () {
+        if ($(window).scrollTop() > num) {
+            $('#navbar').addClass('fixed');
+        } else {
+            $('#navbar').removeClass('fixed');
+        }
+    });
 </script>

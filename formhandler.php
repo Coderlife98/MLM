@@ -7,8 +7,7 @@ if (isset($_POST['submit'])) {
     $subject = trim($_POST["subject"]);
     $message = trim($_POST["message"]);
 
-
-    $to = "mlmgigsoftware@gmail.com";
+    $to = "info@camwel.com";
     $subject = "Enquiry From " . $email;
     $headers =  'MIME-Version: 1.0' . "\r\n";
     $headers .= 'From: '. $email . "\r\n";

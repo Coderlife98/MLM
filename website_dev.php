@@ -176,11 +176,11 @@
     </section>
     <!-- Benefits of a Strong Online Presence end -->
    <!-- Start Your Journey with MLM Gig start -->
-   <section class="p-2 p-lg-5 journey_bg">
+   <section class="p-2 p-lg-3 journey_bg">
     <div class="contaier-fluid">
         <div class="container">
             <div class="row wow fadeInUp" data-wow-delay=".3s" >
-                <div class="col-12 col-lg-8 my-2 d-flex align-items-end">
+                <div class="col-12 col-lg-8 my-2 d-flex align-items-center">
                     <div>
                         <h4>Start Your Journey with MLM Gig</h4>
                         <p class="text-justify">Ready to take your business to the next level? Partner with <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig</a>, Patna’s top-rated web development company, and watch your online presence soar. Our comprehensive web development services are designed to help you attract more clients, boost sales, and achieve long-term success. <a href="./contact.php" class="fw-bolder">Contact us</a> today to get started on creating a custom website that truly represents your brand and drives your business forward.</p>
@@ -188,7 +188,7 @@
                 </div>
                 <div class="col-12 col-lg-4 my-2 start_rel d-flex justify-content-center">
                     <div class="start_abs">
-                    <img src="./img/lap.png" height="300px" alt="">
+                    <img src="./img/contact1.png"  alt="">
                     </div>
                 </div>
             </div>

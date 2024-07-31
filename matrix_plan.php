@@ -39,7 +39,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-8 my-2 set_rel wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                    <div class="col-12 col-lg-12 my-2 set_rel wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.5s">
                         <div class="set_blur_secion">
 
                         </div>
@@ -51,11 +51,7 @@
                         Enter <a href="./matrix_plan.php" class="fw-bolder text-secondary">Matrix MLM Software</a>, a dynamic web-based application meticulously designed to support and streamline the complexities of the <a href="./matrix_plan.php" class="fw-bolder text-secondary">Matrix MLM Plan</a>. Regardless of the scale of operations, whether modest beginnings or expansive networks, this software serves as a reliable ally for MLM organizations. Its efficiency lies in its ability to meticulously track the income and expenditure of downlines, ensuring seamless management and fostering growth with precision and ease. Experience the power of streamlined operations and optimized performance with <a href="./matrix_plan.php" class="fw-bolder text-secondary">Matrix MLM Software</a>, your indispensable companion in the world of Multilevel Marketing.
                         </p>
                     </div>
-                    <div class="col-12 col-lg-4 my-2">
-                        <div>
-                            <img src="" alt="">
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </div>

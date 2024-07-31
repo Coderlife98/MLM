@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-
 <head>
     <meta charset="utf-8">
     <title>Best MLM Software Provider in Patna | Software for MLM</title>
@@ -24,22 +23,21 @@
      <!-- slide contact end -->
 
     <!-- Carousel Start -->
-    <div class="container-fluid px-0">
+    <div class="container-fluid px-0 " >
         <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-bs-target="#carouselId" data-bs-slide-to="0" class="active" aria-current="true"
                     aria-label="First slide"></li>
                 <li data-bs-target="#carouselId" data-bs-slide-to="1" aria-label="Second slide"></li>
             </ol>
-            <div class="carousel-inner" role="listbox">
+            <div class="carousel-inner slideTop" role="listbox">
                 <div class="carousel-item active">
                     <img src="img/slide1.jpg" class="img-fluid duedslider" alt="First slide">
                     <div class="carousel-caption carousel-caption2">
                         <div class="container carousel-content">
-                        <h1 class="text-white display-1 mb-4 animated fadeInRight">MLM SOFTWARE</h1>
-                            <h2 class="text-secondary h4 animated fadeInUp">Best Mlm Software</h2>
-                            
-                            <p class="mb-4 text-white  animated fadeInDown"> Find the best MLM Software for your
+                        <h1 class="text-white display-1 mb-4 animated fadeInRight" id="paddt">MLM SOFTWARE</h1>
+                           
+                            <p class="mb-4  fs-5 text-white  animated fadeInDown" id="sliderFont"> Find the best MLM Software for your
                                 business. </br>Compare product reviews and features </br>to build your list.</p>
 
                             <a href="./mlm_plan.php" class="ms-2"><button type="button"
@@ -53,9 +51,9 @@
                     <div class="carousel-caption carousel-caption2">
                         <div class="container carousel-content">
                            
-                            <h1 class="text-white display-1 mb-4 animated fadeInLeft"> Custom MLM Software Development
+                            <h1 class="text-white display-1 mb-4 animated fadeInLeft" id="paddt"> Custom MLM Software Development
                                 Company </h1>
-                            <p class="mb-4 text-white fs-5 animated fadeInDown">At our Custom MLM Software Development Company, we specialize in creating tailored MLM solutions that cater to the unique needs of your business. </p>
+                            <p class="mb-4 text-white fs-5 animated fadeInDown" id="sliderFont">At our Custom MLM Software Development Company, we specialize in creating tailored MLM solutions that cater to the unique needs of your business. </p>
 
                             <a href="./contact.php" class="ms-2"><button type="button"
                                     class="px-3 py-sm-2 px-sm-3 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact
@@ -64,22 +62,22 @@
                     </div>
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+            <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
             <button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
-            </button>
+            </button> -->
         </div>
     </div>
     <!-- Carousel End -->
 
 
     <!-- About Start -->
-    <div class="container-fluid py-2 py-lg-5 About__bg">
-        <div class="container pt-5">
+    <div class="container-fluid py-2 py-lg-3 About__bg">
+        <div class="container ">
             <div class="row g-5">
                 <div class="col-lg-5 col-md-6 col-sm-12 wow fadeInLeft d-flex justify-content-center" data-wow-delay=".5s">
                     <img src="img/mlm_home2.png" class="img-fluid w-75 rounded" alt="">
@@ -132,9 +130,13 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeIn d-flex justify-content-center" data-wow-delay=".7s">
-                    <div class="d-flex flex-row align-items-center justify-content-center counter">
-                        <img src="./img/customers.png" alt="@dued_bg">
-                        <h2>+</h2>
+                <div class=" counter">
+                        <img src="./img/target.png" width="60px" alt="">
+                       <div class="d-flex">
+                       <h2 class="counter-value">300</h2>
+                       <h2>+</h2>
+                       </div>
+                        <h5 class="text-white mt-1">Projects</h5>
                     </div>
                 </div>
             </div>
@@ -296,7 +298,7 @@
                 <div class="row">
                     <div class="col-12 col-md-5 col-lg-5 my-3">
                         <div>
-                            <img src="./img/why.png" class="dued_why" height="400px" alt="">
+                            <img src="./img/why.jpg" class="dued_why" height="400px" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-md-7 col-lg-7 my-3 d-flex align-items-center">
@@ -403,7 +405,7 @@
                             software</a>, it must include
                         the following features:</p>
                 </div>
-                <div class="col-lg-8 col-12">
+                <div class="col-lg-7 col-12">
                     <div class="set_gradient_box  my-2">
                         <p class="text-white  mb-0"><b class="text-white">Commission Tracking:</b> Accurately monitor
                             and
@@ -428,6 +430,11 @@
                     <div class="set_gradient_box my-2">
                         <p class="text-white mb-0"><b class="">Marketing Tools: </b> Accurately monitor and
                             calculate commissions for each member.</p>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-12 d-flex justify-content-center">
+                    <div>
+                        <img src="./img/features.png" class="featImg" alt="@dued">
                     </div>
                 </div>
             </div>
@@ -536,8 +543,8 @@
                                 the necessary resources for starting an <a href="./mlm_plan.php"
                                     class="text-secondary">MLM software</a> company.</P>
                         </div>
-                        <div class="col-12 d-flex my-4">
-                            <div class="col-6">
+                        <div class="col-12 d-lg-flex my-4">
+                            <div class="col-lg-6 col-12">
                                 <span class="fw-bolder text-dark">Legal Requirements and Regulations</span>
                                 <div class="text-dark">
                                     <p class="my-2 "> <i class=" fa fa-arrow-right me-2 text-danger fw-boldelex"></i>
@@ -550,7 +557,7 @@
                                         Network Marketing Registration</p>
                                 </div>
                             </div>
-                            <div class="col-6">
+                            <div class="col-lg-6 col-12">
                                 <span class="fw-bolder text-dark">Necessary Resources</span>
                                 <div class="text-dark">
                                     <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
@@ -573,7 +580,7 @@
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div class="set_bg_coor">
-                            <img src="./img/think.jpg" class="img_radius" alt="">
+                            <img src="./img/think.png" class="img_radius" alt="">
                         </div>
                     </div>
                 </div>
@@ -648,7 +655,7 @@
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div>
-                            <img src="./img/1.png" height="350px" alt="">
+                            <img src="./img/1.png" class="onepng" height="350px" alt="">
                         </div>
                     </div>
                 </div>
@@ -663,7 +670,7 @@
                 <div class="row">
                     <div class="col-12 order-2 order-lg-0 col-md-6 d-flex ">
                         <div>
-                            <img src="./img/software.jpg" alt="">
+                            <img src="./img/software.jpg" class="softwareHHome" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-md-6 d-flex align-items-center">

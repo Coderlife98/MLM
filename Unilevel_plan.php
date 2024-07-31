@@ -74,14 +74,10 @@
      <div class="container-fluid py-2 py-lg-2 set_bg_uni">
         <div class="container">
             <div class="row ">
-                <div class="col-12 col-md-6 my-3 wow rollIn d-flex align-items-center" data-wow-delay="0.5s">
-                    <p class="text-white text-justify"> The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease.While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.</p>
+                <div class="col-12  my-3 wow rollIn d-flex align-items-center" data-wow-delay="0.5s">
+                    <p class="text-white text-justify text-center"> The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease.While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.</p>
                 </div>
-                <div class="col-12 col-md-6 my-3 set-flex wow zoomIn" data-wow-delay="0.5">
-                    <div>
-                        <img src="./img/girl.png" height="280px" class="set_img_rad" alt="">
-                    </div>
-                </div>
+              
             </div>
         </div>
      </div>
@@ -128,7 +124,7 @@
             <div class="container">
                 <div class="row">
                   
-                    <div class="col-12 col-lg-7 my-2 wow fadeInRight" data-wow-delay="0.8">
+                    <div class="col-12 col-lg-7 my-2 wow fadeInLeft" data-wow-delay="0.8">
                         <h3 class="check">Features of Unilevel plan</h3>
                         <p class="text-justify">Experience the unparalleled excitement of the <a class="text-secondary" href="./unilevel_plan.php">Unilevel MLM Plan</a>,
                             renowned for its abundant payouts and limitless downline potential. Unlike other plans, the
@@ -148,7 +144,7 @@
                     </div>
                     <div class="col-12 col-lg-5 my-2">
                         <div>
-                            <img src="" alt="">
+                            <img src="./img/features.png" class="featImg" alt="@dued">
                         </div>
                     </div>
                 </div>

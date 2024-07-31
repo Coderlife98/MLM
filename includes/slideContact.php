@@ -7,7 +7,10 @@
         padding: 8px;
         color: white;
     }
-
+    #main-form{
+        display: none;
+    }
+   
     .slide_button {
         position: fixed;
         z-index: 1000;
@@ -174,11 +177,20 @@
         }
     }
 
-    @media (min-width:1200px) {
+    @media (min-width:1200px) and (max-width:1400px){
         #main-form {
             position: fixed;
             z-index: 10000;
             right: 3%;
+           top: 18%;
+        }
+    }
+    @media (min-width:1200px){
+        #main-form {
+            position: fixed;
+            z-index: 10000;
+            right: 3%;
+            top: 22%
         }
     }
 </style>
@@ -231,7 +243,7 @@
                 </div>
             </div>
             <div class="mb-1 w-100">
-                <input type="text" class="text-white w-100" id="numinputside" placeholder="Enter Captcha Here"
+                <input type="text" class= "text-white w-100" id="numinputside" placeholder="Enter Captcha Here"
                     name="message">
 
             </div>
@@ -299,9 +311,9 @@
             alert("Enter Number");
             return false;
         } else if (!message) {
-            alert("Enter Message");
+             alert("Enter Message");
             return false;
-        } else
+         } else
          if (!inputValue) {
             alert("Please Enter Captcha");
             return false;

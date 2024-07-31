@@ -37,15 +37,10 @@
 
 
     <!-- Try MLM Software Demo for Your MlM Plans Start -->
-    <div class="container-fluid py-5  set_matr_bg2">
-        <div class="container py-5">
+    <div class="container-fluid   set_matr_bg2">
+        <div class="container ">
             <div class="row g-5">
-                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay=".3s">
-                   <div>
-                    <img src="./img/caller.png" class="caller_img" alt="">
-                   </div>
-                </div>
-                <div class="col-lg-7 col-md-6 col-sm-12 wow fadeInRight d-flex flex-column justify-content-center" data-wow-delay=".5s">
+                <div class="col-lg-7 col-md-6 my-1 col-sm-12 wow fadeInLeft d-flex flex-column justify-content-center" data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
                     <h2 class="mb-4 set_heading">Try MLM Software Demo for Your MLM Plans</h2>
                     <p class="text-justify">It is the rigorous study put in by MLM gig which has helped the team come up with the robust and flexible MLM software that it has. Its massive reach is just another testimony of how it can help improve and organize the MLM business which would ultimately lead to growth and success.
@@ -54,6 +49,11 @@
                     </p>
 
                     <a href="./contact.php" class="btn btn-secondary rounded-pill px-5 py-2 text-white">More Details</a>
+                </div>
+                <div class="col-lg-5 my-1 col-md-6 col-sm-12 wow fadeInRight d-flex justify-content-center" data-wow-delay=".3s">
+                   <div>
+                    <img src="./img/demo.png" class="caller_img" alt="">
+                   </div>
                 </div>
             </div>
         </div>
