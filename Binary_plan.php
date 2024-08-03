@@ -222,7 +222,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 wow flipInX" data-wow-delay="0.5">
-                        <h4 class="text-white">Cons of the <span class="text-warning">Binary MLM Plan</span></h4>
+                        <h4 class="text-white">Compensation of the <span class="text-warning">Binary MLM Plan</span></h4>
                     </div>
                     <div class="col-12 col-lg-7 my-2 "  >
                         <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.3">

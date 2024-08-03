@@ -46,15 +46,18 @@
                         <img src="img/about1.png" class="img-fluid duedhide  w-75 rounded" alt="" >
                     </div>
                 </div>
-                <div class="col-lg-7 col-sm-12 wow  fadeInRight" data-wow-delay=".5s">
-                    <h2 class="text-primary">About Us</h2>
+                <div class="col-lg-7 col-sm-12 wow d-lg-flex align-items-center fadeInRight" data-wow-delay=".5s">
+                   <div>
+                   <h2 class="text-primary">About Us</h2>
                     <!-- <h5 class="mb-4">About MLM</h5> -->
                     <p class="text-justify">Whether you're a startup MLM business, or a larger network, we have covered
                         almost everything you'll need to run your MLM business online. In 2020, We're the most accepted
                         MLM Business Software provider! We provide reliable MLM Software Development Solutions like
-                        Single Leg MLM <a href="./binary_plan.php" class="fw-bolder">,Binary MLM</a>, <a
-                            href="./matrix_plan.php" class="fw-bolder">Matrix MLM</a>,, E-Commerce with <a href="./generation.php"
-                            class="fw-bolder">Generations Plan</a>, <a href="./unilevel_plan.php"  class="fw-bolder">Unilevel MLM</a> etc.
+                        <a href="./unilevel_plan.php" class="fw-bolder">Single Leg MLM,</a>
+                        <a href="./binary_plan.php" class="fw-bolder"> Binary MLM,</a>
+                        <a href="./matrix_plan.php" class="fw-bolder"> Matrix MLM,</a>
+                        <a href="./generation.php" class="fw-bolder"> E-Commerce with Generations Plan,</a>
+                        <a href="./unilevel_plan.php"  class="fw-bolder"> Unilevel MLM</a> etc.
                         We have an expert team of MLM Software Developers, Quality Analyst and SEO, who try to develop
                         best quality of services to our clients with cost-effective approach. We are the one stop
                         solutions center for all your software requirements. We work according to client's requirements
@@ -62,6 +65,7 @@
                     </p>
 
                     <a href="./contact.php" class="btn btn-secondary rounded-pill px-5 py-2 text-white" id="btnEffectt">More Details</a>
+                   </div>
                 </div>
             </div>
         </div>
@@ -80,7 +84,7 @@
                     </div>
                     <div class="col-12 col-md-7 py-4 d-flex align-items-center wow fadeInRight" data-wow-delay="0.9">
                         <p class="text-justify text-white">
-                            Experience with Number of Years of inspired teamwork and Positive Change, Camwel Solution is
+                            Experience with Number of Years of inspired teamwork and Positive Change, <a href="./index.php" class="fw-bolder">Mlmgig</a> is
                             now a full-scale integrated software development and information technology
                             company having the presence in Patna, Pune and Bangalore. From skilled professionals and
                             creative team, company has expend in different areas of IT industry such as Banking,
@@ -99,16 +103,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 wow fadeInLeft py-4 py-md-0" data-wow-delay="0.2">
-                        <h3 class="text-info"> Quality Policy : &quot; Deliver Best Solution In Given Time Frame.&quot;</h3>
+                        <h3 class="text-info text-center"> Quality Policy : &quot;Deliver Best Solution In Given Time Frame.&quot;</h3>
                     </div>
                     <div class="col-12 my-1 wow fadeInRight" data-wow-delay="0.5">
-                        <h4 class="text-warning">Quality Applications</h4>
-                        <p class="text-justify">Our applications are developed using the highest standards in applications development.
+                        <h5 class="text-warning text-center">Quality Applications</h5>
+                        <p class="text-justify text-lg-center">Our applications are developed using the highest standards in applications development.
                             Stringent quality control Measures and quality tests ensures that the applications are at of
                             high quality.
 
                             There are many aspects (design concerns) in this process, and due to the rapid development
-                            of the Internet, new aspects may emerge. For typical commercial Web sites, the basic aspects
+                            of the Internet, new aspects may emerge. For typical commercial Websites, the basic aspects
                             of design are:</p>
                     </div>
                     <div class="col-12 wow fadeInLeft" data-wow-delay="0.5">
@@ -125,7 +129,7 @@
                     </div>
                     <div class="col-12 my-1 wow fadeInUp" data-wow-delay="0.5">
                         <h5 class="set_about_bg text-warning ">Visibility</h5>
-                        <p class="text-justify">The site must also be easy to find via most, if not all, major search engines and advertisement media. Our solutions and services do not cover any specific industry or sector. Although we do have the domain expertise for many industry such as the leather industry, financial services sector, steel manufacture and interior design industry, we can custom develop solution for any type of industry or sector. Camwel can help to automate your business and operations so that you save increase productivity and reduce time on your operations. Or if you have an existing system running, we can help you leverage this existing solution in so that your application and its data can be accessible anytime and anywhere. So whether it is on a desktop PC in your office, your laptop, PDA or mobile phone, or an a PC from anywhere in the world you can access data from your applications can give data that can help you take executive business decisions.</p>
+                        <p class="text-justify">The site must also be easy to find via most, if not all, major search engines and advertising media. Our solutions and services do not cover any specific industry or sector. Although we do have the domain expertise for many industry such as the leather industry, financial services sector, steel manufacture and interior design industry, we can custom develop solution for any type of industry or sector. mlmgig can help to automate your business and operations so that you save increase productivity and reduce time on your operations, Or if you have an existing system running, we can help you leverage this existing solution in so that your application and its data can be accessible anytime and anywhere. So whether it is on a desktop PC in your office, your laptop, PDA or mobile phone, or an a PC from anywhere in the world you can access data from your applications can give data that can help you take executive business decisions.</p>
                     </div>
                 </div>
             </div>
@@ -140,7 +144,7 @@
                     <div class="col-12 col-md-7 my-3 d-flex align-items-center wow fadeInLeft" data-wow-delay="0.9">
                         <div>
                             <h3 class="text-info">Technologies, we work on</h3>
-                            <p>Camwel is not specifically tied down to any specific technology. As we offer end-to-end solutions based on technologies that are the most appropriate to our clients. Currently Camwel is working on PHP, Microsoft .NET, MS SQL the present generation of web services based programming platform.</p>
+                            <p><a href="./index.php" class="fw-bolder">Mlmgig</a> is not specifically tied down to any specific technology, as we offer end-to-end solutions based on technologies that are the most appropriate to our clients. Currently, Mlmgig is working on PHP, Microsoft .NET, MS SQL the present generation of web services based programming platforms.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-5 my-3 d-flex justify-content-center wow fadeInUp" data-wow-delay="0.9">

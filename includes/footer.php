@@ -41,8 +41,8 @@
                 </a>
                 <p class="mt-4 text_slate">We provide reliable MLM Software Development Solutions like <a href="./unilevel_plan.php" class="text-secondary">Single Leg MLM</a>,
                     <a href="./binary_plan.php" class="text-secondary">Binary MLM</a>, <a href="./matrix_plan.php"
-                        class="text-secondary">Matrix MLM</a>,<a href="./generation.php"
-                        class="text-secondary">Generation Plan</a>,<a href="./unilevel_plan.php" class="text-secondary">
+                        class="text-secondary">Matrix MLM</a>, <a href="./generation.php"
+                        class="text-secondary">Generation Plan</a>, <a href="./unilevel_plan.php" class="text-secondary">
                         Unilevel MLM</a> etc.</p>
                 <div class="d-flex hightech-link">
                     <a href="https://www.facebook.com/mlmgigpatna" target="_blank"
@@ -91,8 +91,8 @@
         <hr class="text-light mt-5 mb-4">
         <div class="row">
             <div class="col-md-12 text-center ">
-                <span class="text-secondary"><i class="fas fa-copyright text-secondary me-2"></i>Copyright &copy; 2020.
-                    <a href="https://mlmgig.com/" class="text-white" id="footerLinks" target="_blank">Mlmgig.com</a> All rights reserved.</span>
+                <span class="text-secondary">Copyright &copy; 2020
+                    <a href="https://mlmgig.com/" class="text-white" id="footerLinks" target="_blank">Mlmgig.com.</a> All rights reserved.</span>
                    
             </div>
 

@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Demo</title>
+    <title>Free Mlm Software Demo For All Plan</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -43,9 +43,9 @@
                 <div class="col-lg-7 col-md-6 my-1 col-sm-12 wow fadeInLeft d-flex flex-column justify-content-center" data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
                     <h2 class="mb-4 set_heading">Try MLM Software Demo for Your MLM Plans</h2>
-                    <p class="text-justify">It is the rigorous study put in by MLM gig which has helped the team come up with the robust and flexible MLM software that it has. Its massive reach is just another testimony of how it can help improve and organize the MLM business which would ultimately lead to growth and success.
+                    <p class="text-justify">It is the rigorous study put in by MLM Gig that has helped the team come up with the robust and flexible MLM software it offers. Its massive reach is just another testament to how it can help improve and organize MLM businesses, ultimately leading to growth and success.
                     </p>
-                    <p class="text-justify">An <a href="./mlm_plan.php" class="fw-bolder">MLM software</a> demo gives you an idea of how the MLM software works and how it can benefit you. Get yourself the MLM Software demo of the MLM software plan you are looking forward to and get a firsthand experience at the goodness of the MLM software we have.
+                    <p class="text-justify">An MLM software demo gives you an idea of how the MLM software works and how it can benefit you. Get yourself a demo of the MLM software plan you are interested in, and experience firsthand the benefits of the MLM software we offer.
                     </p>
 
                     <a href="./contact.php" class="btn btn-secondary rounded-pill px-5 py-2 text-white">More Details</a>

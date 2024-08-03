@@ -75,7 +75,7 @@
         <div class="container">
             <div class="row ">
                 <div class="col-12  my-3 wow rollIn d-flex align-items-center" data-wow-delay="0.5s">
-                    <p class="text-white text-justify text-center"> The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease.While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.</p>
+                    <p class="text-white text-justify text-center"> The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease. While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.</p>
                 </div>
               
             </div>
@@ -135,7 +135,7 @@
                             "power leg" grows rapidly through spillover, while you focus on nurturing your "Money Leg"
                             for maximum earnings.
                             Unleash the true potential of your MLM organization with the Unilevel Plan, offering
-                            unparalleled generational earnings depth and simplicity in qualification maintenance.
+                            unparalleled generational earnings depth and simplicity in qualification maintenance,
                             Whether you're a seasoned marketer or just starting out, the Unilevel Compensation Plan
                             paves the way for financial freedom and success beyond imagination. Join the ranks of those
                             who've embraced the power of the Unilevel Plan and unlocked endless possibilities in network

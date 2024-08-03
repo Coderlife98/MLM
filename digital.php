@@ -54,12 +54,11 @@
                         Marketing Agency, MLM Gig</h1>
 
                     <p class="text-justify">In the bustling city of Patna, businesses are constantly seeking innovative
-                        ways to stand out and attract more leads. Whether you're a startup aiming to make a mark or an
+                        ways to stand out and attract more leads, Whether you're a startup aiming to make a mark or an
                         established company looking to expand your reach, digital marketing is crucial for success. This
                         is where <a href="./mlm_plan.php" class="fw-bolder">MLM Gig</a>, Patna's top digital marketing
                         agency, comes into play.
                     </p>
-
                 </div>
             </div>
         </div>

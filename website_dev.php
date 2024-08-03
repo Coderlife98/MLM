@@ -73,7 +73,7 @@
                 <div class="col-12 col-lg-8 py-2 my-4 set-dotted  " data-wow-delay=".3s">
                     <div>
                         <h5 class="text-warning  wow rubberBand">Custom Design Solutions</h5>
-                        <p class="text-justify wow shake" data-wow-delay=".3s">At MLM Gig, we understand that every business is unique. Our team of experienced web developers and designers work closely with you to create a custom website that reflects your brand's identity and caters to your specific needs. Whether you require a simple informational site or a complex e-commerce platform, we tailor our solutions to help you achieve your business objectives.</p>
+                        <p class="text-justify wow shake" data-wow-delay=".3s">At MLM Gig, we understand that every business is unique. Our team of experienced web developers and designers work closely with you to create a custom website that reflects your brand's identity and caters to your specific needs, Whether you require a simple informational site or a complex e-commerce platform, we tailor our solutions to help you achieve your business objectives.</p>
                     </div>
                 </div>
                

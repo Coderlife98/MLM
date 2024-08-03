@@ -82,8 +82,8 @@
                             <span><i class="fa fa-arrow-right pe-3"></i>Not to wait a much for the ROI</span>
                         </div>
                         <div class="wow fadeInLeft" data-wow-delay="1">
-                            <span class="d-flex"><i class="fa fa-arrow-right pe-3"></i><p>You don’t have to influence others to join your
-                            downline for the income</p></span>
+                            <span class="d-flex"><i class="fa fa-arrow-right pe-3"></i>You don’t have to influence others to join your
+                            downline for the income</span>
                         </div>
 
 

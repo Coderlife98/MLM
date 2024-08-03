@@ -9,7 +9,7 @@
         backdrop-filter: blur(4px);
         -webkit-backdrop-filter: blur(4px);
         border: 1px solid rgba(255, 255, 255, 0.18);
-        color: black!important;
+        color: black !important;
         animation: fadeInBottom 1s linear;
     }
 
@@ -78,19 +78,15 @@
             <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                 <div class="navbar-nav ms-auto mx-xl-auto p-0">
                     <a href="index.php" class="nav-item nav-link  ">Home</a>
-                    <!-- <div class="nav-item dropdown">
-                        <a href="javascript:void(0);" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About
-                            Mlm</a>
-                        <div class="dropdown-menu rounded">
-                            <a href="./about.php" class="dropdown-item">About Us</a>
-                            <a href="./demo.php" class="dropdown-item">Demo</a>
-                        </div>
-                    </div> -->
+
                     <a href="./about.php" class="nav-item nav-link  ">About Us</a>
                     <a href="./demo.php" class="nav-item nav-link ">Demo</a>
+
+
                     <div class="nav-item dropdown">
-                        <a href="./mlm_plan.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">MLM
-                            Plan</a>
+                        <a href="javascript:void(0);" class="nav-link dropdown-toggle " data-bs-toggle="dropdown">
+                            <span class="droplink" data-id="snyOpen---demo.php">MLM Plan
+                            </span></a>
                         <div class="dropdown-menu rounded">
                             <a href="./binary_plan.php" class="dropdown-item">Binary Plan</a>
                             <a href="./matrix_plan.php" class="dropdown-item">Matrix Plan</a>
@@ -101,6 +97,7 @@
 
                         </div>
                     </div>
+
                     <div class="nav-item dropdown">
                         <a href="javascript:void(0);" class="nav-link dropdown-toggle"
                             data-bs-toggle="dropdown">Services</a>
@@ -109,8 +106,6 @@
                             <a href="digital.php" class="dropdown-item">Digital marketing</a>
                         </div>
                     </div>
-                  
-
                 </div>
             </div>
             <div class="d-none d-xl-flex flex-shirink-0">
@@ -126,8 +121,20 @@
 </div>
 
 <script>
+
+    $(document).ready(function () {
+        $(".droplink").click(function () {
+            let nbActn = $(this).attr('data-id');
+            //store data-id="snyOpen---demo.php" value in nbActn button
+            let perFrm = nbActn.split('---');
+            if (perFrm[0] == 'snyOpen') {
+                window.location.href = perFrm[1];
+            }
+        });
+    });
+
+    // Navbar sticky code section start
     var num = 200;
-    //number of pixels before modifying styles
 
     $(window).bind('scroll', function () {
         if ($(window).scrollTop() > num) {
@@ -136,4 +143,5 @@
             $('#navbar').removeClass('fixed');
         }
     });
+    // Navbar sticky code section end
 </script>

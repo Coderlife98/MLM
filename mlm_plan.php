@@ -403,10 +403,12 @@
                     <div class="faqs-container">
                         <div class="faq active">
                             <h5 class="faq-title">
-                            Which compensation plane is the best in MLM?
+                            Which compensation plan is the best in MLM?
                             </h5>
                             <p class="faq-text">
-                            The "best" compensation plan depends on various factors like your business model, goals, and target audience. Popular options include <a href="./binary_plan.php" title="click me" class="text-secondary">Binary</a>, <a href="./unilevel_plan.php" class="text-secondary" title="click me">Unilevel</a>, <a href="./matrix_plan.php" class="text-secondary" title="click me">Matrix</a>, and <a href="./generation.php" title="click me" class="text-secondary">Generation plans</a>. Consider consulting with MLM experts to determine which plan aligns best with your objectives.
+                            The "best" compensation plan depends on various factors like your business model, goals, and target audience. Popular options include <a href="./binary_plan.php" title="click me" class="text-secondary">Binary, </a>
+                            <a href="./unilevel_plan.php" class="text-secondary" title="click me">Unilevel, </a>
+                            <a href="./matrix_plan.php" class="text-secondary" title="click me">Matrix, </a>and <a href="./generation.php" title="click me" class="text-secondary">Generation plans</a>. Consider consulting with MLM experts to determine which plan aligns best with your objectives.
                             </p>
                             <button class="faq-toggle">
                                 <i class="fas fa-chevron-down"></i>
