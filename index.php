@@ -32,8 +32,8 @@
                 <li data-bs-target="#carouselId" data-bs-slide-to="1" aria-label="Second slide"></li>
             </ol>
             <div class="carousel-inner slideTop" role="listbox">
-                <div class="carousel-item active">
-                    <img src="img/slide1.jpg" class="img-fluid duedslider" alt="First slide">
+                <div class="carousel-item active" id="cardCarousel">
+                    <img src="img/home1.png" class="img-fluid duedslider overlay" alt="First slide">
                     <div class="carousel-caption carousel-caption2">
                         <div class="container carousel-content">
                             <h1 class="text-white display-1 mb-4 animated fadeInRight" id="paddt">MLM SOFTWARE</h1>
@@ -49,8 +49,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item">
-                    <img src="img/slider1.png" class="img-fluid duedslider" alt="Second slide">
+                <div class="carousel-item" id="cardCarousel">
+                    <img src="img/home2.png" class="img-fluid duedslider overlay" alt="Second slide">
                     <div class="carousel-caption carousel-caption2">
                         <div class="container carousel-content">
 
@@ -147,7 +147,7 @@
 
     <!-- Explore section start -->
     <section>
-        <div class="container-fluid py-3 explore__bg">
+        <div class="container-fluid py-3 ">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-6 col-lg-7 my-2 wow bounceInUp d-flex align-items-center"
@@ -180,7 +180,7 @@
 
     <!-- Key Features section start -->
     <section>
-        <div class="container-fluid py-2 py-lg-4 set_key_feature">
+        <div class="container-fluid py-2 py-lg-4  About__bg">
             <div class="container">
                 <div class="row">
                     <div class="col-12 my-2">
@@ -241,7 +241,7 @@
     </section>
     <!-- Key Features section end -->
     <!-- comprehensive section start -->
-    <div class="container-fluid  comp__bg">
+    <div class="container-fluid  ">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-6 my-2 my-lg-4 wow zoomInUp d-flex align-items-center ">
@@ -302,7 +302,7 @@
     <!-- comprehensive section end -->
     <!-- why choose us start -->
     <section class="w-100">
-        <div class="container-fluid p-2 p-lg-4">
+        <div class="container-fluid p-2 p-lg-4 About__bg">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-5 col-lg-5 my-3">
@@ -406,111 +406,118 @@
 
 
 
- <!-- Testimonial Start -->
- <div class="container-fluid testimonial testimonial_slider_bg py-5 mb-5">
-            <div class="container">
-                <div class="text-center  pb-5 wow fadeIn" data-wow-delay=".3s" >
-                    <h5 class="text-primary">Features</h5>
-                    <h2>What features does MLM Software provides?</h2>
-                    <p class="text-dark text-center">To be considered the best <a href="./mlm_plan.php" class=""
-                            title="click me">multi-level marketing (MLM)
-                            software</a>, it must include
-                        the following features:</p>
+    <!-- Testimonial Start -->
+    <div class="container-fluid testimonial  About__bg  py-5 mb-5">
+        <div class="container">
+            <div class="text-center  pb-5 wow fadeIn" data-wow-delay=".3s">
+                <h5 class="text-primary">Features</h5>
+                <h2>What features does MLM Software provides?</h2>
+                <p class="text-dark text-center">To be considered the best <a href="./mlm_plan.php" class=""
+                        title="click me">multi-level marketing (MLM)
+                        software</a>, it must include
+                    the following features:</p>
+            </div>
+            <div class="owl-carousel testimonial-carousel wow fadeIn" data-wow-delay=".5s">
+                <div class="testiCard border p-4">
+                    <div class="testDib d-flex align-items-center justify-content-center">
+                        <img src="./img/tracking.png" class="testImgg" alt="">
+                    </div>
+                    <div class="d-flex justify-content-center">
+                        <div class="ms-4 ">
+                            <h6 class="text-secondary">Commission Tracking</h6>
+                        </div>
+                    </div>
+                    <div class=" mt-4 pt-3">
+                        <p class="mb-0 text-center text-white">Accurately monitor and calculate commissions for each
+                            member using real-time data, detailed reports, automated calculations, and customizable
+                            settings.</p>
+                    </div>
                 </div>
-                <div class="owl-carousel testimonial-carousel wow fadeIn" data-wow-delay=".5s">
-                    <div class="testiCard border p-4">
-                        <div class="d-flex align-items-center">
-                            <div class="testDib d-flex align-items-center justify-content-center">
-                                <img src="./img/tracking.png" class="testImgg" alt="">
-                            </div>
-                            <div class="ms-4 ">
-                                <h6 class="text-secondary">Commission Tracking</h6>
-                            </div>
+                <div class="testiCard border p-4">
+                    <div class=" d-flex align-items-center">
+                        <div class="testDib d-flex align-items-center justify-content-center">
+                            <img src="./img/genelogy.png" class="testImgg" alt="">
                         </div>
-                        <div class=" mt-4 pt-3">
-                            <p class="mb-0 text-center">Accurately monitor and calculate commissions for each member.</p>
+                        <div class="ms-4">
+                            <h6 class="text-secondary">Genealogy Tracking</h6>
                         </div>
                     </div>
-                    <div class="testiCard border p-4">
-                        <div class=" d-flex align-items-center">
+                    <div class=" mt-4 pt-3">
+                        <p class="mb-0 text-center"> Maintain comprehensive records of member hierarchies and
+                            relationships, enabling clear visualization of network structures, tracking lineage,
+                            ensuring accurate placement, and facilitating seamless management of multi-level marketing
+                            team dynamics.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="testiCard border p-4">
+                    <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
-                                <img src="./img/tracking.png" class="testImgg" alt="">
-                            </div>
-                            <div class="ms-4">
-                                <h6 class="text-secondary">Genealogy Tracking</h6>
-                            </div>
+                            <img src="./img/report.png" class="testImgg" alt="">
                         </div>
-                        <div class=" mt-4 pt-3">
-                            <p class="mb-0 text-center">Keep detailed records of member
-                            hierarchies and relationships.</p>
+                        <div class="ms-4">
+                            <h6 class="text-secondary">Reporting</h6>
+
                         </div>
                     </div>
-                  
-                    <div class="testiCard border p-4">
-                        <div class=" d-flex align-items-center">
-                        <div class="testDib d-flex align-items-center justify-content-center">
-                                <img src="./img/report.png" class="testImgg" alt="">
-                            </div>
-                            <div class="ms-4">
-                                <h6 class="text-secondary">Reporting</h6>
-                               
-                            </div>
-                        </div>
-                        <div class=" mt-4 pt-3">
-                            <p class="mb-0 text-center">Generate comprehensive reports for
+                    <div class=" mt-4 pt-3">
+                        <p class="mb-0 text-center">Generate comprehensive reports for
                             performance analysis and business insights.</p>
+                    </div>
+                </div>
+                <div class="testiCard border p-4">
+                    <div class=" d-flex align-items-center">
+                        <div class="testDib d-flex align-items-center justify-content-center">
+                            <img src="./img/ecommerce.png" class="testImgg" alt="">
+                        </div>
+                        <div class="ms-4">
+                            <h6 class="text-secondary">E-commerce Integration</h6>
+
                         </div>
                     </div>
-                    <div class="testiCard border p-4">
-                        <div class=" d-flex align-items-center">
-                        <div class="testDib d-flex align-items-center justify-content-center">
-                                <img src="./img/ecommerce.png" class="testImgg" alt="">
-                            </div>
-                            <div class="ms-4">
-                                <h6 class="text-secondary">E-commerce Integration</h6>
-                               
-                            </div>
-                        </div>
-                        <div class=" mt-4 pt-3">
-                            <p class="mb-0 text-center">Generate comprehensive reports for
+                    <div class=" mt-4 pt-3">
+                        <p class="mb-0 text-center">Generate comprehensive reports for
                             performance analysis and business insights.</p>
+                    </div>
+                </div>
+                <div class="testiCard border p-4">
+                    <div class=" d-flex align-items-center">
+                        <div class="testDib d-flex align-items-center justify-content-center">
+                            <img src="./img/member.png" class="testImgg" alt="">
+                        </div>
+                        <div class="ms-4">
+                            <h6 class="text-secondary">Member Management</h6>
+
                         </div>
                     </div>
-                    <div class="testiCard border p-4">
-                        <div class=" d-flex align-items-center">
-                        <div class="testDib d-flex align-items-center justify-content-center">
-                                <img src="./img/member.png" class="testImgg" alt="">
-                            </div>
-                            <div class="ms-4">
-                                <h6 class="text-secondary">Member Management</h6>
-                               
-                            </div>
-                        </div>
-                        <div class="  mt-4 pt-3">
-                            <p class="mb-0 text-center">Efficiently manage member data and
+                    <div class="  mt-4 pt-3">
+                        <p class="mb-0 text-center">Efficiently manage member data and <br>
                             activities.</p>
+                    </div>
+                </div>
+                <div class="testiCard border p-4">
+                    <div class=" d-flex align-items-center">
+                        <div class="testDib d-flex align-items-center justify-content-center">
+                            <img src="./img/marketing.png" class="testImgg" alt="">
+                        </div>
+                        <div class="ms-4">
+                            <h6 class="text-secondary">Marketing Tools</h6>
+
                         </div>
                     </div>
-                    <div class="testiCard border p-4">
-                        <div class=" d-flex align-items-center">
-                        <div class="testDib d-flex align-items-center justify-content-center">
-                                <img src="./img/marketing.png" class="testImgg" alt="">
-                            </div>
-                            <div class="ms-4">
-                                <h6 class="text-secondary">Marketing Tools</h6>
-                               
-                            </div>
-                        </div>
-                        <div class=" mt-4 pt-3">
-                            <p class="mb-0 text-center">Provide tools to support marketing
-                            efforts and campaigns.</p>
-                        </div>
+                    <div class=" mt-4 pt-3">
+                        <p class="mb-0 text-center">
+                            Marketing tools accurately monitor and calculate commissions for each member, ensuring
+                            transparent, precise tracking, and fostering trust within your multi-level marketing
+                            network.</p>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <!-- Testimonial End -->
+    <!-- Testimonial End -->
 
     <!-- Is MLM gig compatible with every compensation plan? start -->
     <div class="container-fluid p-2 p-lg-4">
@@ -544,7 +551,7 @@
     <!-- Is MLM gig compatible with every compensation plan? end -->
 
     <!-- faq start -->
-    <div class="container-fluid py-2 py-lg-5 set_skin_faq">
+    <div class="container-fluid py-2 py-lg-5  About__bg">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-5 my-2 position-relative  sm_none">
@@ -600,12 +607,12 @@
 
     <!-- can i started section start -->
     <section>
-        <div class="container-fluid p-2 p-lg-4 set_bg_is">
+        <div class="container-fluid p-2 p-lg-4 ">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-lg-7 my-2">
                         <div class="head_strttt">
-                            <h2 class="">Can I Start My Own MLM ?</h2>
+                            <h2 class="fw-bolder">Can I Start My Own MLM ?</h2>
                         </div>
                         <div>
                             <P class="text-justify text-dark">Yes, you can establish your own MLM business, provided you
@@ -666,23 +673,30 @@
     </section>
     <!-- can i started section end -->
     <!-- How do I choose the best MLM Software? start -->
-    <div class="container-fluid p-2 p-lg-4 choose_bg ">
+    <div class="container-fluid p-2 p-lg-4   About__bg">
         <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <h2 class="">How do I choose the best MLM Software?</h2>
-                    <h5>Selecting the optimal <a href="./mlm_plan.php" class="fw-bolder">multi-level marketing
+            <div class="row my-3 my-lg-5">
+                <div class="col-12 py-2">
+                    <h2 class="text-center">How do I choose the best MLM Software?</h2>
+                    <h5 class="text-center">Selecting the optimal <a href="./mlm_plan.php" class="fw-bolder">multi-level
+                            marketing
                             software</a>
-                        hinges on various factors:</h5>
+                        hinges on various factors</h5>
 
                 </div>
             </div>
             <div class="row my-4">
-                <div class="col-12 col-md-6 col-lg-3 my-2">
-                    <div class="choose_bullet">
-                        <p class="text-center">The scale and nature of your enterprise.</p>
+                <div class="col-12 col-md-6 col-lg-3 my-4 ">
+
+                    <div class=" rotateBox p-2 ">
                     </div>
+                   
+                    <div class="img-rotate">
+                        <img src="./assets/tech1.png" width="90px" alt="@dued">
+                    </div>
+
                 </div>
+
                 <div class="col-12 col-md-6 col-lg-3 my-2">
                     <div class="choose_bullet more_btm_padd">
                         <p class="text-center">Financial constraints.</p>
@@ -699,18 +713,29 @@
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-12">
                     <p class="text-justify text-dark">
-                        MLM gig software stands out as a premier choice in this realm, providing unparalleled
-                        adaptability and catering to the multifaceted needs of <a href="./mlm_plan.php"
-                            class="fw-bolder">multi-level marketing </a>ventures with its
-                        extensive array of features.
+
+                        MLM Gig Software stands out as a premier choice in this realm, providing unparalleled
+                        adaptability
+                        and catering to the multifaceted needs of multi-level marketing ventures with its extensive
+                        array of
+                        features. Its robust and intuitive platform streamlines operations, enhances user engagement,
+                        and
+                        ensures compliance with industry standards. Additionally, MLM Gig Software offers seamless
+                        integration with existing systems, comprehensive reporting tools, and dedicated customer
+                        support,
+                        making it the ultimate solution for businesses aiming for success in the competitive MLM
+                        landscape.
                     </p>
                 </div>
             </div>
         </div>
     </div>
+
+
     <!-- How do I choose the best MLM Software? end -->
     <!-- Is MLM gig software customizable? start -->
     <section class="my-2 my-lg-4 ">
@@ -743,7 +768,7 @@
     <!-- Is MLM gig software customizable? end -->
     <!-- What is MLM migration? start -->
     <section>
-        <div class="container-fluid">
+        <div class="container-fluid About__bg">
             <div class="container">
                 <div class="row">
                     <div class="col-12 order-2 order-lg-0 col-md-6 col-lg-5 d-flex ">

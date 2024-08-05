@@ -43,7 +43,7 @@
                         <div class="set_blur_secion">
 
                         </div>
-                        <h1 class="set_heading text-white">Extraordinary <span class="text-warning">Matrix Plan Software</span> The Ultimate Solution</h1>
+                        <h1 class="set_heading ">Extraordinary <span class="text-warning">Matrix Plan Software</span> The Ultimate Solution</h1>
                         <p class="text-justify">
                         The Matrix MLM Compensation Plan stands tall as a cornerstone strategy within the realm of <a href="./mlm_plan.php" class="fw-bolder text-secondary ">Multilevel Marketing Businesses</a>. Within its structured framework, downlines are strategically organized into a fixed width by height matrix, denoted as (W x H). This plan, also known as the Forced Matrix Plan or Ladder Plan, operates on the premise that each distributor can nurture and expand their team within a predetermined number of downline members.
                         </p>

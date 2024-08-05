@@ -14,24 +14,25 @@
 
 <body>
     <!-- Navbar Start -->
-    <?php include ("./includes/header.php"); ?>
+    <?php include ("./includes/headerTop.php"); ?>
     <!-- Navbar End -->
       <!-- slide contact start -->
       <?php include("./includes/slideContact.php");?>
      <!-- slide contact end -->
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header web_hero py-5">
-        <div class="container text-center py-5">
+    <div class="container-fluid px-0 position-relative" style="width:100%;">
+        <img src="./img/web_hero2.png" alt="" style="width:100%">
+        <!-- <div class="container text-center " id="textArrange">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Website development</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
-                    <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
+                  
                     <li class="breadcrumb-item" aria-current="page">Website development</li>
                 </ol>
             </nav>
-        </div>
+        </div> -->
     </div>
     <!-- Page Header End -->
 

@@ -83,7 +83,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-7 py-4 d-flex align-items-center wow fadeInRight" data-wow-delay="0.9">
-                        <p class="text-justify text-white">
+                        <p class="text-justify ">
                             Experience with Number of Years of inspired teamwork and Positive Change, <a href="./index.php" class="fw-bolder">Mlmgig</a> is
                             now a full-scale integrated software development and information technology
                             company having the presence in Patna, Pune and Bangalore. From skilled professionals and

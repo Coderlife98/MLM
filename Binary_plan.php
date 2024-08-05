@@ -96,7 +96,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h3 class="text-center text-white">Remarkable Surprising Secrets of MLM Gig Software with Binary
+                        <h3 class="text-center ">Remarkable Surprising Secrets of MLM Gig Software with Binary
                             MLM Plan</h3>
                         <p class="text-center">Our <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig
                                 Software</a> is engineered to revolutionize the way you manage your Binary MLM business.
@@ -169,7 +169,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 mb-2 mb-lg-4 wow zoomIn" data-wow-delay="0.3">
-                        <h4 class="text-center text-white">Pros of the <span class="text-info">Binary MLM Plan</span>
+                        <h4 class="text-center ">Pros of the <span class="text-green">Binary MLM Plan</span>
                         </h4>
                     </div>
                     <div class="col-12 col-md-6 col-lg-4 my-2 wow fadeInLeft" data-wow-delay="0.9">
@@ -256,7 +256,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 wow lightSpeedIn" data-wow-delay="0.8">
-                    <p class="text-justify text-dark text-white">
+                    <p class="text-justify text-dark ">
                         At <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig</a>, we're dedicated to helping you unlock the full potential of the Binary MLM Plan with
                         our innovative software solutions and expert guidance. Whether you're a seasoned MLM
                         professional or just starting your journey, our team is here to support you every step of the

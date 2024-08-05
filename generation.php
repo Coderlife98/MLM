@@ -59,7 +59,7 @@
             <div class="row">
                 <div class="col-12 col-lg-12 my-2 wow fadeInUp" data-wow-delay="0.9s">
                     <div>
-                        <h4 class="text-white">Overview of Generation plan</h4>
+                        <h4 class="">Overview of Generation plan</h4>
                         <p class="text-justify">
                         The Generation MLM Plan stands out for its simplicity, making it an ideal choice for both individual members and MLM companies to explain and convey to new members and business affiliates. In this plan, each affiliate can recruit new members into their level structure or frontline, introducing new recruits at any width. Commissions are then distributed up to a fixed depth or set levels as specified by the MLM compensation plan. 
                         </p>
