@@ -33,40 +33,93 @@
             </ol>
             <div class="carousel-inner slideTop" role="listbox">
                 <div class="carousel-item active" id="cardCarousel">
-                    <img src="img/home1.png" class="img-fluid duedslider overlay" alt="First slide">
+                    <img src="img/home11.jpg" class="img-fluid duedslider overlay" alt="First slide">
                     <div class="carousel-caption carousel-caption2">
                         <div class="container carousel-content">
-                            <h1 class="text-white display-1 mb-4 animated fadeInRight" id="paddt">MLM SOFTWARE</h1>
+                            <h1 class="fw-bolder display-1 mb-4 animated fadeInLeft" id="paddt">Elevate Your MLM
+                                Business with <br> Our Software</h1>
 
-                            <p class="mb-4  fs-5 text-white  animated fadeInDown" id="sliderFont"> Enhance your
-                                multi-level marketing strategy with cutting-edge tools that streamline operations,
-                                improve user experience, and maximize efficiency. Build a robust list of options to
-                                drive your business growth and success.</p>
+                            <p class="mb-4  fs-5 text-dark  animated fadeInUp" id="sliderFont">
+                                Elevate your MLM business with our advanced software. It's made to simplify operations,
+                                increase growth, and ensure success. Use our unique tools designed specifically for
+                                network marketing to improve your business and reach new levels of achievement. Gain a
+                                competitive edge and maximize your potential today.</p>
 
-                            <a href="./mlm_plan.php" class="ms-2 "><button type="button"
+                            <!-- <a href="./mlm_plan.php" class="ms-2 "><button type="button"
                                     class="px-3 py-sm-2 px-sm-3 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Mlm
-                                    Software</button></a>
+                                    Software</button></a> -->
+                            <h5 class="d-none d-lg-flex">Our Services</h5>
+                            <div class="container">
+                                <div class="row" id="mobileNn">
+                                    <div class="col-12 col-lg-4  my-2 px-0 wow fadeInUp" data-wow-delay="500ms">
+                                        <span class="homebutton ">
+                                            <img src="./img/binary_svg.svg" width="30px" alt="@dued"> <a
+                                                href="./binary_plan.php" class="textBefore">Binary Plan</a>
+                                        </span>
+                                    </div>
+                                    <div class="col-12 col-lg-4 my-2 wow fadeInUp" data-wow-delay="800ms">
+                                        <span class="homebutton">
+                                            <img src="./img/binary_svg.svg" width="30px" alt="@dued"> <a
+                                                href="./matrix_plan.php" class="textBefore">Matrix Plan</a>
+                                        </span>
+                                    </div>
+                                    <div class="col-12 col-lg-4 my-2 wow fadeInUp" data-wow-delay="1000ms">
+                                        <span class="homebutton">
+                                            <img src="./img/binary_svg.svg" width="30px" alt="@dued"> <a
+                                                href="./unilevel_plan.php" class="textBefore">Unilevel Plan</a>
+                                        </span>
+                                    </div>
+
+                                </div>
+                                <div class="row" id="mobileNn">
+                                    <div class="col-12 col-lg-4 my-2 px-0 wow fadeInUp" data-wow-delay="1200ms">
+                                        <span class="homebutton">
+                                            <img src="./img/binary_svg.svg" width="30px" alt="@dued"> <a
+                                                href="./helping.php" class="textBefore">Helping Plan</a>
+                                        </span>
+                                    </div>
+                                    <div class="col-12 col-lg-4 my-2 wow fadeInUp" data-wow-delay="1400ms">
+                                        <span class="homebutton">
+                                            <img src="./img/binary_svg.svg" width="30px" alt="@dued"> <a
+                                                href="./generation.php" class="textBefore">Generation Plan</a>
+                                        </span>
+                                    </div>
+                                    <div class="col-12 col-lg-4 my-2 wow fadeInUp" data-wow-delay="1600ms">
+                                        <span class="homebutton">
+                                            <img src="./img/binary_svg.svg" width="30px" alt="@dued"> <a
+                                                href="./crowd_funding.php" class="textBefore">CrowdFunding Plan</a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item" id="cardCarousel">
-                    <img src="img/home2.png" class="img-fluid duedslider overlay" alt="Second slide">
+                    <img src="img/home22.jpg" class="img-fluid duedslider overlay" alt="Second slide">
                     <div class="carousel-caption carousel-caption2">
                         <div class="container carousel-content">
 
-                            <h1 class="text-white display-1 mb-4 animated fadeInLeft" id="paddt"> Custom MLM Software
-                                Development
-                                Company </h1>
-                            <p class="mb-4 text-white fs-5 animated fadeInDown" id="sliderFont">At our Custom MLM
-                                Software Development Company, we specialize in creating tailored MLM solutions that
-                                cater to the unique needs of your business. </p>
+                            <h1 class=" display-1 mb-4 animated fadeInLeft" id="paddt">Perfect MLM Solutions for Your
+                                <br> Business Success
+                            </h1>
+                            <p class="mb-4 text-white text-md-dark fs-5 animated fadeInUp" id="sliderFont">Our MLM
+                                software offers comprehensive solutions tailored to meet your business needs. With
+                                user-friendly tools and advanced features, we help streamline your operations and
+                                enhance productivity. Whether you need effective commission tracking, detailed genealogy
+                                records, or robust marketing support, our software has you covered.</p>
 
-                            <a href="./contact.php" class="ms-2"><button type="button"
+                            <a href="./contact.php" class="ms-2 wow fadeInUp" data-wow-delay="500ms"><button
+                                    type="button"
                                     class="px-3 py-sm-2 px-sm-3 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Contact
                                     Us</button></a>
+                            <a href="./demo.php" class="ms-2 wow fadeInUp" data-wow-delay="1000ms"><button type="button"
+                                    class="px-3 py-sm-2 px-sm-3 slide22btn rounded-pill carousel-content-btn animated fadeInRight">Demo
+                                </button></a>
                         </div>
                     </div>
                 </div>
+
             </div>
 
         </div>
@@ -341,60 +394,149 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-6 col-lg-4 my-3">
+
+
+
+                <div class="col-12 col-md-4 col-xl-3 my-3  hoverUpp">
+                    <div class="w-100 image-container">
+                        <img src="./img/card/1.jpg" class="w-100 " loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Over 15 years of experience in the MLM software industry</p>
+                        <h5 class="text-green">Over 15 years of experience in the MLM software industry</h5>
+                        <p>
+                            With over 15 years in MLM software, we provide expert solutions, trusted technology, and
+                            innovative tools for your business success.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/2.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive set-pdd">
-                        <p class="text-white">Various MLM Business Plan Options</p>
+
+                        <h5 class="text-white">Various MLM Business Plan Options</h5>
+                        <p>
+                            Explore diverse MLM business plan options to find the perfect strategy that suits your
+                            unique network marketing needs and goals.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/3.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Comprehensive Training on MLM Software Installation</p>
+                        <h5 class="text-white">Comprehensive Training on MLM Software Installation</h5>
+                        <p>
+
+                            We offer thorough training on MLM software installation, ensuring you understand every step
+                            and optimize setup effectively.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/4.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Secure and Reliable MLM Software</p>
+                        <h5 class="text-white">Secure and Reliable MLM Software</h5>
+                        <p>
+
+                            Our MLM software offers robust security and reliability, ensuring safe transactions and
+                            dependable performance for your business.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/5.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Expert Development Team</p>
+                        <h5 class="text-white">Expert Development Team</h5>
+                        <p>
+                            Our expert development team delivers innovative solutions with precision, ensuring top-notch
+                            quality tailored to your unique needs and goals.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/6.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Simple Customization</p>
+                        <h5 class="text-white">Simple Customization</h5>
+                        <p>
+
+                            Our software offers simple customization options, allowing you to tailor features and
+                            settings to perfectly match your business needs.
+                        </p>
                     </div>
                 </div>
 
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/7.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Global User Base</p>
+                        <h5 class="text-white">Global User Base</h5>
+                        <p>
+
+                            Our software supports a global user base, seamlessly integrating with diverse markets and
+                            industries for widespread accessibility and success.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/8.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Dependable and Robust Platform</p>
+                        <h5 class="text-white">Dependable and Robust Platform</h5>
+                        <p>
+
+                            Our platform offers reliability and strength, ensuring consistent performance and stability
+                            for all your needs.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/9.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Stable and Scalable Solutions</p>
+                        <h5 class="text-white">Stable and Scalable Solutions</h5>
+                        <p>
+
+                            Discover solutions that offer both stability and scalability, ensuring your business can
+                            grow seamlessly and reliably.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/10.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">User-Friendly Interface</p>
+                        <h5 class="text-white">User-Friendly Interface</h5>
+                        <p>
+
+                            A user-friendly interface ensures effortless navigation and smooth interactions, making your
+                            experience intuitive and enjoyable.
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-6 my-3">
+                <div class="col-12 col-xl-3 col-md-4 my-3">
+                    <div class="w-100">
+                        <img src="./img/card/11.jpg" class="w-100 " loading="lazy" height="200px" alt="">
+                    </div>
                     <div class="box_drive p-3">
-                        <p class="text-white">Utilizes the Latest Technologies</p>
+                        <h5 class="text-white">Utilizes the Latest Technologies</h5>
+                        <p>
+
+                            Our software leverages the latest technologies to ensure high performance, security, and
+                            innovation, keeping you ahead in the competitive market.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -672,71 +814,120 @@
         </div>
     </section>
     <!-- can i started section end -->
-    <!-- How do I choose the best MLM Software? start -->
-    <div class="container-fluid p-2 p-lg-4   About__bg">
+
+
+    <!--How do I choose the best MLM Software?  Start -->
+    <div class="container-fluid mlmServices py-5 mb-5">
         <div class="container">
-            <div class="row my-3 my-lg-5">
-                <div class="col-12 py-2">
-                    <h2 class="text-center">How do I choose the best MLM Software?</h2>
-                    <h5 class="text-center">Selecting the optimal <a href="./mlm_plan.php" class="fw-bolder">multi-level
-                            marketing
-                            software</a>
-                        hinges on various factors</h5>
-
-                </div>
+            <div class="text-center pb-5 wow fadeIn" data-wow-delay=".3s">
+                <h2 class="text-center">How do I choose the best MLM Software?</h2>
+                <h5 class="text-center">Selecting the optimal <a href="./mlm_plan.php" class="fw-bolder">multi-level
+                        marketing
+                        software</a>
+                    hinges on various factors</h5>
             </div>
-            <div class="row my-4">
-                <div class="col-12 col-md-6 col-lg-3 my-4 ">
+            <div class="row g-5 services-inner">
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                              <div class="d-flex justify-content-center align-items-center">
+                              <div class=" rotateBox p-2 ">
+                                </div>
 
-                    <div class=" rotateBox p-2 ">
-                    </div>
-                   
-                    <div class="img-rotate">
-                        <img src="./assets/tech1.png" width="90px" alt="@dued">
-                    </div>
-
-                </div>
-
-                <div class="col-12 col-md-6 col-lg-3 my-2">
-                    <div class="choose_bullet more_btm_padd">
-                        <p class="text-center">Financial constraints.</p>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-3 my-2">
-                    <div class="choose_bullet">
-                        <p class="text-center">Specific functionalities needed.</p>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-3 my-2">
-                    <div class="choose_bullet">
-                        <p class="text-center">Quality of customer assistance.</p>
+                                <div class="img-rotate d-flex justify-content-center align-items-center">
+                                    <img src="./img/business_growth.png" width="70px" alt="@dued">
+                                </div>
+                              </div>
+                              <div class="py-3">
+                                <h5>The scale and nature of your enterprise</h5>
+                              </div>
+                                <p class="">The scale and nature of your enterprise determine the tailored solutions we provide, ensuring optimal performance and growth for your business.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                    <div class="services-item bg-light">
+                    <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                              <div class="d-flex justify-content-center align-items-center">
+                              <div class=" rotateBox p-2 ">
+                                </div>
 
-            <div class="row">
-                <div class="col-12">
-                    <p class="text-justify text-dark">
-
-                        MLM Gig Software stands out as a premier choice in this realm, providing unparalleled
-                        adaptability
-                        and catering to the multifaceted needs of multi-level marketing ventures with its extensive
-                        array of
-                        features. Its robust and intuitive platform streamlines operations, enhances user engagement,
-                        and
-                        ensures compliance with industry standards. Additionally, MLM Gig Software offers seamless
-                        integration with existing systems, comprehensive reporting tools, and dedicated customer
-                        support,
-                        making it the ultimate solution for businesses aiming for success in the competitive MLM
-                        landscape.
-                    </p>
+                                <div class="img-rotate">
+                                    <img src="./img/fan.png" width="70px" alt="@dued">
+                                </div>
+                              </div>
+                              <div class="py-3">
+                                <h5>Financial <br> constraints</h5>
+                              </div>
+                                <p class="">
+                                Financial constraints can limit a business's ability to invest in growth, innovation, and resources, impacting overall performance and competitiveness.</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="services-item bg-light">
+                    <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                              <div class="d-flex justify-content-center align-items-center">
+                              <div class=" rotateBox p-2 ">
+                                </div>
+
+                                <div class="img-rotate">
+                                    <img src="./img/function.png" width="70px" alt="@dued">
+                                </div>
+                              </div>
+                              <div class="py-3">
+                                <h5>Specific functionalities <br> needed</h5>
+                              </div>
+                                <p class="">
+                                Our software includes essential features like user management, secure transactions, and real-time analytics, ensuring smooth operations and optimal performance for your business.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="services-item bg-light">
+                    <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                              <div class="d-flex justify-content-center align-items-center">
+                              <div class=" rotateBox p-2 ">
+                                </div>
+
+                                <div class="img-rotate">
+                                    <img src="./img/quality.png" width="80px" alt="@dued">
+                                </div>
+                              </div>
+                              <div class="py-3">
+                                <h5>Quality of customer assistance</h5>
+                              </div>
+                                <p class="">We provide top-notch customer assistance, ensuring quick responses, effective solutions, and personalized support to meet all your needs.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              
             </div>
         </div>
     </div>
+    <!-- How do I choose the best MLM Software? End -->
 
 
-    <!-- How do I choose the best MLM Software? end -->
+
+
+
+
+
+
+
+
+
+
+
+
     <!-- Is MLM gig software customizable? start -->
     <section class="my-2 my-lg-4 ">
         <div class="container-fluid">

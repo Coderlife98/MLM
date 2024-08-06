@@ -15,14 +15,15 @@
 
 <body>
     <!-- Navbar Start -->
-    <?php include ("./includes/header.php"); ?>
+    <?php include ("./includes/headerTop.php"); ?>
     <!-- Navbar End -->
-      <!-- slide contact start -->
-      <?php include("./includes/slideContact.php");?>
-     <!-- slide contact end -->
+    <!-- slide contact start -->
+    <?php include ("./includes/slideContact.php"); ?>
+    <!-- slide contact end -->
     <!-- Page Header Start -->
-    <div class="container-fluid page-header page_binary py-5">
-        <div class="container text-center py-5">
+    <div class="container-fluid position-relative px-0">
+        <img src="./img/web_hero2.png" alt="" style="width:100%">
+        <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Binary Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
@@ -31,7 +32,7 @@
                     <li class="breadcrumb-item" aria-current="page"><a href="./binary_plan.php">Binary Plan</a></li>
                 </ol>
             </nav>
-        </div>
+        </div> -->
     </div>
     <!-- Page Header End -->
 
@@ -41,14 +42,14 @@
         <div class="container-fluid p-2 p-lg-4 bu-bg">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-6 my-3 wow fadeInLeft" data-wow-delay="0.3">
+                    <div class="col-12 col-lg-4 my-3 wow fadeInLeft" data-wow-delay="0.3">
                         <div>
-                          <img src="./img/b.png" height="300px" alt="">
+                            <img src="./img/b.png" height="300px" alt="">
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6 d-flex align-items-center my-3 wow fadeInRight" data-wow-delay="0.3">
+                    <div class="col-12 col-lg-8 d-flex align-items-center my-3 wow fadeInRight" data-wow-delay="0.3">
                         <div>
-                            <h2 class=" text-white">New Binary Plan Techniques for a Thriving Business</h2>
+                            <h2 class="text-green">New Binary Plan Techniques for a Thriving Business</h2>
                             <p class="text-justify">
                                 At <a href="./mlm_plan.php" class="fw-bolder">MLM Gig</a>, we believe in empowering
                                 businesses with cutting-edge MLM solutions, and one such powerful strategy is the <a
@@ -66,7 +67,7 @@
     <!-- [New Binary Plan Techniques for a Thriving Business end -->
     <!-- What is Binary MLM Plan? start -->
     <section>
-        <div class="container-fluid">
+        <div class="container-fluid fffffbg">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-6 my-2 d-flex align-items-center">
@@ -111,7 +112,7 @@
     <!-- Remarkable Surprising Secrets of MLM Gig Software with Binary MLM Plan end -->
     <!-- Structure of Binary MLM Plan start -->
     <section>
-        <div class="container-fluid py-2 py-lg-5">
+        <div class="container-fluid py-2 py-lg-5 fffffbg">
             <div class="container py-3">
                 <div class="row">
                     <div class="col-12 col-md-5 my-2 smaboutimg">
@@ -164,57 +165,96 @@
     </section>
     <!-- Working of Binary MLM Plan end -->
     <!-- Pros of the Binary MLM Plan start -->
-    <section class="set_pros_bg p-2 p-lg-5">
-        <div class="container-fluid">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 mb-2 mb-lg-4 wow zoomIn" data-wow-delay="0.3">
-                        <h4 class="text-center ">Pros of the <span class="text-green">Binary MLM Plan</span>
-                        </h4>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 my-2 wow fadeInLeft" data-wow-delay="0.9">
-                        <div class="props_box p-3">
-                            <div class="title">
-                                <div class="d-flex justify-content-center">
-                                    <!-- <img src="./img/simplicity.png" class="props_img" alt=""> -->
+
+
+    <div class="container-fluid mlmServices py-5 mb-5">
+        <div class="container">
+            <div class="col-12 mb-2 mb-lg-4 wow zoomIn" data-wow-delay="0.3">
+                <h3 class="text-center ">Pros of the <span class="text-green">Binary MLM Plan</span>
+                </h3>
+            </div>
+            <div class="row g-5 services-inner">
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class=" rotateBox p-2 ">
+                                    </div>
+
+                                    <div class="img-rotate d-flex justify-content-center align-items-center">
+                                        <img src="./img/simplify.png" width="70px" alt="@dued">
+                                    </div>
                                 </div>
-                                <h4 class="text-white text-center">Simplicity</h4>
-                                <p class="text-white text-center">The Binary MLM Plan's straightforward structure makes
-                                    it easy for distributors to understand and replicate, fostering rapid growth and
-                                    scalability.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 my-2 wow zoomIn" data-wow-delay="0.5">
-                        <div class="props_box p-3">
-                            <div class="title">
-                                <div class="d-flex justify-content-center">
-                                    <!-- <img src="./img/simplicity.png" class="props_img" alt=""> -->
+                                <div class="py-3">
+                                    <h5>Simplicity</h5>
                                 </div>
-                                <h4 class="text-white text-center">Spillover Effect</h4>
-                                <p class="text-white text-center">Distributors can benefit from the spillover effect,
-                                    where recruits placed by their upline spill over into their downline, accelerating
-                                    growth and maximizing earning potential.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 my-2 wow fadeInRight" data-wow-delay="0.9">
-                        <div class="props_box p-3">
-                            <div class="title">
-                                <div class="d-flex justify-content-center">
-                                    <!-- <img src="./img/simplicity.png" class="props_img" alt=""> -->
-                                </div>
-                                <h4 class="text-white text-center">Team Collaboration</h4>
-                                <p class="text-white text-center">The binary structure encourages teamwork and
-                                    collaboration, as distributors work together to support and strengthen both legs of
-                                    their network.</p>
+                                <p class="">The Binary MLM Plan's straight forward structure makes it easy for
+                                    distributors to understand and replicate, fostering rapid growth and scalability.
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class=" rotateBox p-2 ">
+                                    </div>
+
+                                    <div class="img-rotate">
+                                        <img src="./img/impact.png" width="70px" alt="@dued">
+                                    </div>
+                                </div>
+                                <div class="py-3">
+                                    <h5>Spillover Effect</h5>
+                                </div>
+                                <p class="">
+                                    Distributors can benefit from the spillover effect, where recruits placed by their
+                                    upline spill over into their downline, accelerating growth and maximizing earning
+                                    potential.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                    <div class="services-item bg-light">
+                        <div class="p-4 text-center services-content">
+                            <div class="services-content-icon">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class=" rotateBox p-2 ">
+                                    </div>
+
+                                    <div class="img-rotate">
+                                        <img src="./img/team.png" width="80px" alt="@dued">
+                                    </div>
+                                </div>
+                                <div class="py-3">
+                                    <h5>Team Collaboration</h5>
+                                </div>
+                                <p class="">The binary structure encourages teamwork and collaboration, as distributors
+                                    work together to support and strengthen both legs of their network.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
-    </section>
+    </div>
+
+
+
+
+
+
+
+
+
+
     <!-- Pros of the Binary MLM Plan end -->
     <!-- Cons of the Binary MLM Plan start -->
     <section class="cons_bg p-2 p-lg-4">
@@ -222,9 +262,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 wow flipInX" data-wow-delay="0.5">
-                        <h4 class="text-white">Compensation of the <span class="text-warning">Binary MLM Plan</span></h4>
+                        <h4 class="text-white">Compensation of the <span class="text-warning">Binary MLM Plan</span>
+                        </h4>
                     </div>
-                    <div class="col-12 col-lg-7 my-2 "  >
+                    <div class="col-12 col-lg-7 my-2 ">
                         <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.3">
                             <p class="text-white mb-0"> <b class="text-warning">Binary Compression:</b> In some cases,
                                 binary plans may experience compression, where inactive distributors or unbalanced leg
@@ -256,8 +297,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 wow lightSpeedIn" data-wow-delay="0.8">
+                    <div>
+                        <h3 class="text-primary">Unlock the Full Potential of Your Binary MLM Plan with MLM Gig</h3>
+                    </div>
                     <p class="text-justify text-dark ">
-                        At <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig</a>, we're dedicated to helping you unlock the full potential of the Binary MLM Plan with
+                        At <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig</a>, we're dedicated to
+                        helping you unlock the full potential of the Binary MLM Plan with
                         our innovative software solutions and expert guidance. Whether you're a seasoned MLM
                         professional or just starting your journey, our team is here to support you every step of the
                         way, ensuring your success in the dynamic world of network marketing.

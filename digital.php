@@ -13,7 +13,7 @@
         name="description">
     <?php include ("./includes/link.php"); ?>
     <style>
-        #popup {
+        .popup {
             display: none;
             /* Hidden by default */
             position: fixed;
@@ -27,7 +27,17 @@
             /* Sit on top */
         }
 
-        #popupContent {
+
+        .showPopup {
+            background-color: #2c2ca1;
+            color: white;
+            padding: 8px 25px;
+            outline: none;
+            border-radius: 45px;
+            border: 0px;
+        }
+
+        .popupContent {
             position: absolute;
             top: 50%;
             left: 50%;
@@ -35,16 +45,34 @@
             background-color: white;
             padding: 20px;
             border-radius: 5px;
-            width: 300px;
+            min-width: 300px;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
 
-        #closePopup {
+        .closePopup {
             position: absolute;
             top: 10px;
             right: 10px;
-            font-size: 20px;
+            font-size: 35px;
             cursor: pointer;
+        }
+
+        @media (min-width:0px) and (max-width:786px) {
+            .popupContent {
+                position: absolute;
+                top: 59%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                background-color: white;
+                padding: 20px;
+                border-radius: 5px;
+                width: 90%;
+                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            }
+
+            .popiii {
+                width: 220px;
+            }
         }
     </style>
 </head>
@@ -57,8 +85,9 @@
     <?php include ("./includes/slideContact.php"); ?>
     <!-- slide contact end -->
     <!-- Page Header Start -->
-    <div class="container-fluid page-header digital_hero py-5">
-        <div class="container text-center py-5">
+    <div class="container-fluid page-header w-100 position-relative px-0 ">
+        <img src="./img/web_hero2.png" alt="" style="width:100%">
+        <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Digital Marketing</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
@@ -66,7 +95,7 @@
                     <li class="breadcrumb-item" aria-current="page">Digital Marketing</li>
                 </ol>
             </nav>
-        </div>
+        </div> -->
     </div>
     <!-- Page Header End -->
 
@@ -105,7 +134,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h3 class="text-center text-warning animiiiHead">Why Choose MLM Gig?</h3>
+                        <h3 class="text-center text-primary animiiiHead">Why Choose MLM Gig?</h3>
                         <p class="text-center"><a href="./mlm_plan.php" class="text-secondary">MLM Gig</a> is renowned
                             for its comprehensive and customized digital marketing solutions designed to meet the unique
                             needs of every business. Here are some compelling reasons why <a href="./mlm_plan.php"
@@ -113,93 +142,149 @@
                     </div>
                 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                 <div class="row">
-                    <div class="col-12 col-md-6 col-lg-4  p-4 appclick">
-                        <div class="">
-                            <h3 class="text-info">Expertise in Diverse Digital Marketing Strategies</h3>
+                <div class="col-12 col-md-6 col-lg-4 ">
+                        <div class="appclick p-4">
+                            <h5 class="text-info">Proven Track Record</h5>
                             <p class="text-justify">
-                                MLM Gig boasts a team of seasoned professionals with expertise in various facets of
-                                digital marketing. 
+                            MLM Gig drives growth with proven success and data-driven results.
                             </p>
-                            <button id="showPopup">Show Popup</button>
-                            <div id="popup">
-                                <div id="popupContent">
-                                    <span id="closePopup">&times;</span>
-                                    <h2>Expertise in Diverse Digital Marketing Strategies
-                                    </h2>
-                                    <p> MLM Gig boasts a team of seasoned professionals with expertise in various facets of
-                                digital marketing. From SEO and content marketing to social media management and PPC
-                                campaigns, our experts ensure your brand gets the visibility it deserves.</p>
+                            <button class="showPopup4 showPopup" title="Click Me">Read More</button>
+                            <div class="popup" id="popup4">
+                                <div class="container popupContent">
+                                    <div class="row">
+                                        <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
+                                            <div>
+                                                <img src="./img/track.png" class="popiii" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-7 my-2 d-flex align-items-center">
+                                            <div id="">
+                                                <span class="closePopup">&times;</span>
+                                                <h2 class="text-primary">Proven Track Record
+                                                </h2>
+                                                <p class="text-justify">
+                                                    With a portfolio of successful projects and satisfied clients, <a
+                                                        href="./mlm_plan.php" class="text-secondary">MLM Gig</a> has a
+                                                    proven track record of driving growth and
+                                                    delivering measurable results. Our data-driven approach ensures that
+                                                    every marketing
+                                                    dollar is well spent.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    <div class="col-12 col-md-6  col-lg-4 p-3 ">
-                        <div>
-                            <h4 class="text-info">Tailored Marketing Plans</h4>
+                  
+                    <div class="col-12 col-md-6 col-lg-4  ">
+                        <div class="appclick p-4">
+                            <h5 class="text-info">Tailored Marketing Plans</h5>
                             <p class="text-justify">
-                                Understanding that no two businesses are alike, <a href="./mlm_plan.php"
-                                    class="text-secondary">MLM Gig</a> creates tailored marketing plans that align with
-                                your specific goals and target audience. Whether you're looking to increase website
-                                traffic, generate leads, or enhance brand awareness, we develop strategies that deliver
-                                results.
+                            Tailored marketing plans to increase traffic, generate leads, enhance brand.
                             </p>
+                            <button class="showPopup2 showPopup" title="Click Me">Read More</button>
+                            <div class="popup" id="popup2">
+                                <div class="container popupContent">
+                                    <div class="row">
+                                        <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
+                                            <div>
+                                                <img src="./img/tailor.png" class="popiii" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-7 my-2 d-flex align-items-center">
+                                            <div id="">
+                                                <span class="closePopup">&times;</span>
+                                                <h2 class="text-primary">Tailored Marketing Plans
+                                                </h2>
+                                                <p class="text-justify">
+                                                    Understanding that no two businesses are alike, <a
+                                                        href="./mlm_plan.php" class="text-secondary">MLM Gig</a> creates
+                                                    tailored marketing plans that align with
+                                                    your specific goals and target audience. Whether you're looking to
+                                                    increase website
+                                                    traffic, generate leads, or enhance brand awareness, we develop
+                                                    strategies that deliver
+                                                    results.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4  p-3 ">
-                        <div>
-                            <h6 class="text-info">Cutting-Edge Tools and Technologies</h6>
+                    <div class="col-12 col-md-6 col-lg-4 ">
+                        <div class="appclick p-4">
+                            <h5 class="text-info">Cutting-Edge Tools and Technologies</h5>
                             <p class="text-justify">
-                                Staying ahead in the digital landscape requires the use of the latest tools and
-                                technologies. <a href="./mlm_plan.php" class="text-secondary">MLM Gig</a> leverages
-                                advanced analytics, AI-driven insights, and state-of-the-art marketing platforms to
-                                optimize your campaigns and maximize ROI.
+                            MLM Gig utilizes advanced tools to optimize campaigns and ROI."
                             </p>
+                            <button class="showPopup3 showPopup" title="Click Me">Read More</button>
+                            <div class="popup" id="popup3">
+                                <div class="container popupContent">
+                                    <div class="row">
+                                        <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
+                                            <div>
+                                                <img src="./img/market.png" class="popiii" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-7 my-2 d-flex align-items-center">
+                                            <div id="">
+                                                <span class="closePopup">&times;</span>
+                                                <h2 class="text-primary">Cutting-Edge Tools and Technologies
+                                                </h2>
+                                                <p class="text-justify">
+                                                    Staying ahead in the digital landscape requires the use of the
+                                                    latest tools and
+                                                    technologies. <a href="./mlm_plan.php" class="text-secondary">MLM
+                                                        Gig</a> leverages
+                                                    advanced analytics, AI-driven insights, and state-of-the-art
+                                                    marketing platforms to
+                                                    optimize your campaigns and maximize ROI.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-12 add_border-curve2 p-3 ">
-                        <div>
-                            <h4 class="text-info">Proven Track Record</h4>
+                    <div class="col-12 col-md-6 col-lg-4  my-4 ">
+                        <div class="appclick p-4">
+                            <h5 class="text-info">Expertise in Diverse Digital Marketing Strategies</h5>
                             <p class="text-justify">
-                                With a portfolio of successful projects and satisfied clients, <a href="./mlm_plan.php"
-                                    class="text-secondary">MLM Gig</a> has a proven track record of driving growth and
-                                delivering measurable results. Our data-driven approach ensures that every marketing
-                                dollar is well spent.
+                                MLM Gig boasts a team of seasoned professionals with expertise in various facets of
+                                digital marketing.
                             </p>
+                            <button class="showPopup1 showPopup" title="Click Me">Read More</button>
+                            <div class="popup " id="popup1">
+                                <div class="container popupContent">
+                                    <div class="row">
+                                        <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
+                                            <div>
+                                                <img src="./img/pop1.png" class="popiii" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-7 my-2 d-flex align-items-center">
+                                            <div id="">
+                                                <span class="closePopup">&times;</span>
+                                                <h2 class="text-primary">Expertise in Diverse Digital Marketing
+                                                    Strategies
+                                                </h2>
+                                                <p> MLM Gig boasts a team of seasoned professionals with expertise in
+                                                    various facets of
+                                                    digital marketing. From SEO and content marketing to social media
+                                                    management and PPC
+                                                    campaigns, our experts ensure your brand gets the visibility it
+                                                    deserves.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -392,11 +477,6 @@
     <!-- conclusion end-->
 
 
-
-
-
-
-
     <!-- Footer Start -->
     <?php include ("./includes/footer.php"); ?>
     <!-- Footer End -->
@@ -405,24 +485,57 @@
     <script>
         $(document).ready(function () {
             // Show the popup
-            $('#showPopup').click(function () {
-                $('#popup').fadeIn();
+            $('.showPopup1').click(function () {
+                $('#popup1').fadeIn();
             });
 
             // Hide the popup
-            $('#closePopup').click(function () {
-                $('#popup').fadeOut();
+            $('.closePopup').click(function () {
+                $('#popup1').fadeOut();
+            });
+
+
+            // popup 222222
+            $('.showPopup2').click(function () {
+                $('#popup2').fadeIn();
+            });
+
+            // Hide the popup
+            $('.closePopup').click(function () {
+                $('#popup2').fadeOut();
+            });
+            // popup 33333
+            $('.showPopup3').click(function () {
+                $('#popup3').fadeIn();
+            });
+
+            // Hide the popup
+            $('.closePopup').click(function () {
+                $('#popup3').fadeOut();
+            });
+            // popup 44444
+            $('.showPopup4').click(function () {
+                $('#popup4').fadeIn();
+            });
+
+            // Hide the popup
+            $('.closePopup').click(function () {
+                $('#popup4').fadeOut();
             });
 
             // Hide the popup when clicking outside of the popup content
             $(window).click(function (event) {
-                if ($(event.target).is('#popup')) {
-                    $('#popup').fadeOut();
+                if ($(event.target).is('#popup1')) {
+                    $('#popup1').fadeOut();
+                } else if ($(event.target).is('#popup2')) {
+                    $('#popup2').fadeOut();
+                } else if ($(event.target).is('#popup3')) {
+                    $('#popup3').fadeOut();
+                } else if ($(event.target).is('#popup4')) {
+                    $('#popup4').fadeOut();
                 }
             });
         });
     </script>
 </body>
-
-
 </html>

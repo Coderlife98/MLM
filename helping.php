@@ -14,13 +14,14 @@
 
 <body>
     <!-- Navbar Start -->
-    <?php include ("./includes/header.php"); ?>
+    <?php include ("./includes/headerTop.php"); ?>
     <!-- Navbar End -->
  <!-- slide contact start -->
  <?php include("./includes/slideContact.php");?>
      <!-- slide contact end -->
     <!-- Page Header Start -->
-    <div class="container-fluid page-header help_hero py-5">
+    <div class="container-fluid position-relative px-0">
+    <img src="./img/web_hero2.png" alt="" style="width:100%">
         <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Helping Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">

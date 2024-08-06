@@ -15,7 +15,7 @@
 
 <body>
     <!-- Navbar Start -->
-    <?php include ("./includes/header.php"); ?>
+    <?php include ("./includes/headerTop.php"); ?>
     <!-- Navbar End -->
       <!-- slide contact start -->
       <?php include("./includes/slideContact.php");?>

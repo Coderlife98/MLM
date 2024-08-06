@@ -88,7 +88,7 @@
             </button>
             <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                 <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                    <i class="fa-solid fa-house"></i> <a href="index.php" class="nav-item nav-link  ">Home</a>
+                <a href="index.php" class="nav-item nav-link ">Home</a>
 
                     <a href="./about.php" class="nav-item nav-link  ">About Us</a>
                     <a href="./demo.php" class="nav-item nav-link ">Demo</a>

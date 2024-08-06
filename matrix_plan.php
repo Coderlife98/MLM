@@ -15,14 +15,15 @@
 
 <body>
     <!-- Navbar Start -->
-    <?php include ("./includes/header.php"); ?>
+    <?php include ("./includes/headerTop.php"); ?>
     <!-- Navbar End -->
       <!-- slide contact start -->
       <?php include("./includes/slideContact.php");?>
      <!-- slide contact end -->
     <!-- Page Header Start -->
-    <div class="container-fluid page-header matrix_hero py-5">
-        <div class="container text-center py-5">
+    <div class="container-fluid position-relative px-0">
+    <img src="./img/web_hero2.png" alt="" style="width:100%">
+        <!-- <div class="container text-center py-5">
             <h2 class="display-2 text-white mb-4 animated slideInDown">Matrix Plan</h2>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
@@ -30,7 +31,7 @@
                     <li class="breadcrumb-item" aria-current="page">Matrix Plan</li>
                 </ol>
             </nav>
-        </div>
+        </div> -->
     </div>
     <!-- Page Header End -->
 
@@ -60,16 +61,16 @@
 
 
     <!-- Benefits of MLM Matrix Plan start -->
-    <section class="p-2 p-lg-4">
-        <div class="container-fluid">
+    <section class="p-2 p-lg-4 fffffbg">
+        <div class="container-fluid ">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-5 my-2">
+                    <div class="col-12 col-lg-4 my-2">
                         <div>
-                            <img src="./img/matrix.jpg" class="matrix-img"  alt="">
+                            <img src="./img/matrix.png" class="matrix-img"  alt="">
                         </div>
                     </div>
-                    <div class="col-12 col-lg-7 my-2 wow fadeInRight" data-wow-delay="1s" data-wow-duration="0.5">
+                    <div class="col-12 col-lg-8 my-2 wow fadeInRight" data-wow-delay="1s" data-wow-duration="0.5">
                         <div>
                             <h3>Benefits of <span class="text-info">MLM Matrix Plan</span></h3>
                         </div>
@@ -99,7 +100,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h3 class="text-white wow flipInX" data-wow-delay="0.5" data-wow-duration="0.5">
+                        <h3 class="wow flipInX" data-wow-delay="0.5" data-wow-duration="0.5">
                         Advantages and features of <span class="text-warning">Matrix plan</span>
                         </h3>
                     </div>
