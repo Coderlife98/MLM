@@ -22,7 +22,7 @@
     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid position-relative px-0">
-        <img src="./img/web_hero2.png" alt="" style="width:100%">
+        <img src="./img/web_hero2.png"  loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Binary Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -44,12 +44,12 @@
                 <div class="row">
                     <div class="col-12 col-lg-4 my-3 wow fadeInLeft" data-wow-delay="0.3">
                         <div>
-                            <img src="./img/b.png" height="300px" alt="">
+                            <img src="./img/b.png" loading="lazy" height="300px" alt="@dued">
                         </div>
                     </div>
                     <div class="col-12 col-lg-8 d-flex align-items-center my-3 wow fadeInRight" data-wow-delay="0.3">
                         <div>
-                            <h2 class="text-green">New Binary Plan Techniques for a Thriving Business</h2>
+                            <h2 class="text-primary">New Binary Plan Techniques for a Thriving Business</h2>
                             <p class="text-justify">
                                 At <a href="./mlm_plan.php" class="fw-bolder">MLM Gig</a>, we believe in empowering
                                 businesses with cutting-edge MLM solutions, and one such powerful strategy is the <a
@@ -72,7 +72,7 @@
                 <div class="row">
                     <div class="col-12 col-md-6 my-2 d-flex align-items-center">
                         <div>
-                            <h2>What is Binary MLM Plan?</h2>
+                            <h2 class="text-primary">What is Binary MLM Plan?</h2>
                             <p class="text-justify">The <a href="./binary_plan.php" class="fw-bolder">Binary MLM
                                     Plan</a> is a popular network marketing strategy characterized by its binary tree
                                 structure. In this plan, each member is limited to recruiting two frontline
@@ -83,7 +83,7 @@
                     </div>
                     <div class="col-12 col-md-6 my-2 d-flex justify-content-center">
                         <div>
-                            <img src="./img/binary.png" alt="">
+                            <img src="./img/binary.png" loading="lazy" alt="@dued">
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h3 class="text-center ">Remarkable Surprising Secrets of MLM Gig Software with Binary
+                        <h3 class="text-center text-primary ">Remarkable Surprising Secrets of MLM Gig Software with Binary
                             MLM Plan</h3>
                         <p class="text-center">Our <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig
                                 Software</a> is engineered to revolutionize the way you manage your Binary MLM business.
@@ -117,12 +117,12 @@
                 <div class="row">
                     <div class="col-12 col-md-5 my-2 smaboutimg">
                         <div>
-                            <img src="./img/Binary_stru.png" alt="@dued">
+                            <img src="./img/Binary_stru.png" loading="lazy" alt="@dued">
                         </div>
                     </div>
                     <div class="col-12 col-md-7 my-2 d-flex align-items-center">
                         <div>
-                            <h3>Structure of Binary MLM Plan</h3>
+                            <h3 class="text-primary">Structure of Binary MLM Plan</h3>
                             <p class="text-justify">
                                 The Binary MLM Plan follows a simple yet powerful structure, with each distributor
                                 responsible for building and nurturing two legs of their network. This binary structure
@@ -144,7 +144,7 @@
                 <div class="row">
                     <div class="col-12 col-md-7 order-2 order-md-0 my-2 d-flex align-items-center">
                         <div>
-                            <h3>Working of Binary MLM Plan</h3>
+                            <h3 class="text-primary">Working of Binary MLM Plan</h3>
                             <p class="text-justify">
                                 In the Binary MLM Plan, commissions are calculated based on the sales volume generated
                                 by each leg of the binary tree. Typically, commissions are paid out when a distributor
@@ -156,7 +156,7 @@
                     </div>
                     <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
                         <div>
-                            <img src="./img/binary.jpg" alt="">
+                            <img src="./img/binary.jpg" loading="lazy" alt="@dued">
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
     <div class="container-fluid mlmServices py-5 mb-5">
         <div class="container">
             <div class="col-12 mb-2 mb-lg-4 wow zoomIn" data-wow-delay="0.3">
-                <h3 class="text-center ">Pros of the <span class="text-green">Binary MLM Plan</span>
+                <h3 class="text-center text-primary">Pros of the <span class="text-green">Binary MLM Plan</span>
                 </h3>
             </div>
             <div class="row g-5 services-inner">
@@ -183,7 +183,7 @@
                                     </div>
 
                                     <div class="img-rotate d-flex justify-content-center align-items-center">
-                                        <img src="./img/simplify.png" width="70px" alt="@dued">
+                                        <img src="./img/simplify.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="py-3">
@@ -206,7 +206,7 @@
                                     </div>
 
                                     <div class="img-rotate">
-                                        <img src="./img/impact.png" width="70px" alt="@dued">
+                                        <img src="./img/impact.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="py-3">
@@ -229,7 +229,7 @@
                                     </div>
 
                                     <div class="img-rotate">
-                                        <img src="./img/team.png" width="80px" alt="@dued">
+                                        <img src="./img/team.png" loading="lazy" width="80px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="py-3">
@@ -257,34 +257,43 @@
 
     <!-- Pros of the Binary MLM Plan end -->
     <!-- Cons of the Binary MLM Plan start -->
-    <section class="cons_bg p-2 p-lg-4">
+    <section class=" p-2 p-lg-4">
         <div class="container-fluid ">
             <div class="container">
                 <div class="row">
+                    
+                    <div class="col-12 col-lg-7 my-2 ">
                     <div class="col-12 wow flipInX" data-wow-delay="0.5">
-                        <h4 class="text-white">Compensation of the <span class="text-warning">Binary MLM Plan</span>
+                        <h4 class=" text-primary">Compensation of the <span class="text-warning">Binary MLM Plan</span>
                         </h4>
                     </div>
-                    <div class="col-12 col-lg-7 my-2 ">
-                        <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.3">
-                            <p class="text-white mb-0"> <b class="text-warning">Binary Compression:</b> In some cases,
+                        <div class="col-12 d-md-flex">
+                            <div class="col-12 col-md-6 my-2">
+                            <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.3">
+                            <p class=" mb-0"> <b class="text-dark fw-bolder">Binary Compression:</b> In some cases,
                                 binary plans may experience compression, where inactive distributors or unbalanced leg
                                 growth result in lost commissions or reduced earnings potential.</p>
                         </div>
-                        <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.5">
-                            <p class="text-white mb-0"><b class="text-warning">Leg Imbalance:</b> Maintaining balance
+                            </div>
+                            <div class="col-12 col-md-6 my-2">
+                            <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.5">
+                            <p class=" mb-0"><b class="text-dark fw-bolder">Leg Imbalance:</b> Maintaining balance
                                 between the two legs can be challenging, as one leg may outperform the other, leading to
                                 potential loss of commissions on the stronger leg.</p>
                         </div>
+                            </div>
+                        </div>
+                      
+                       
                         <div class="hor_card my-2 wow fadeInUp" data-wow-delay="0.9">
-                            <p class="text-white mb-0"> <b class="text-warning">Limited Frontline:</b> Distributors are
+                            <p class=" mb-0"> <b class="text-dark fw-bolder">Limited Frontline:</b> Distributors are
                                 restricted to recruiting only two frontline members, which can hinder rapid expansion
                                 and require strategic placement to maximize earning potential.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div>
-                            <img src="./img/leg.png" height="300px" alt="">
+                            <img src="./img/leg.png" loading="lazy" height="300px" alt="@dued">
                         </div>
                     </div>
                 </div>

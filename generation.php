@@ -36,17 +36,17 @@
 
 
     <!-- Generation plan section 1  Start -->
- <div class="container-fluid py-2 py-lg-4 set_gen">
+ <div class="container-fluid py-2 py-lg-4 ">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-lg-5 order-0 order-md-2 order-lg-0 my-3 wow fadeInLeft" data-wow-delay="0.5">
+            <div class="col-12 order-2 order-lg-0 col-lg-5 order-0 order-md-2 order-lg-0 my-3 wow fadeInLeft" data-wow-delay="0.5">
                 <div class="smaboutimg2">
                     <img src="./img/generation.jpg" height="350px" alt="">
                 </div>
             </div>
             <div class="col-12 col-lg-7 my-3 wow fadeInRight d-flex align-items-center" data-wow-delay="0.8">
                 <div>
-                    <h1>Generation Plan software</h1>
+                    <h1 class="text-primary">Generation Plan software</h1>
                     <p class="text-justify">The Generation Plan, a form of compensation plan in the MLM industry, focuses on product sales, making it highly advantageous for manufacturing companies. This plan includes bonuses and incentive programs that motivate agents to sell products directly. MLM agents favor the Generation Plan due to its potential for unlimited depth, allowing for substantial earnings. By relying on agents for direct marketing, companies save significantly on media and marketing expenses. This approach leverages personal connections, making the advertising process more convincing and effective compared to traditional TV commercials. Overall, the Generation Plan is a strategic choice for companies aiming to enhance product sales through motivated and directly incentivized agents.</p>
                 </div>
             </div>
@@ -55,12 +55,12 @@
  </div>
     <!-- Generation plan section 1  End -->
      <!-- Overview of Generation plan start -->
-      <div class="container-fluid py-2 py-lg-5 set_overview_bg">
+      <div class="container-fluid py-2 py-lg-5 fffffbg">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-12 my-2 wow fadeInUp" data-wow-delay="0.9s">
                     <div>
-                        <h4 class="">Overview of Generation plan</h4>
+                        <h4 class="text-primary">Overview of Generation plan</h4>
                         <p class="text-justify">
                         The Generation MLM Plan stands out for its simplicity, making it an ideal choice for both individual members and MLM companies to explain and convey to new members and business affiliates. In this plan, each affiliate can recruit new members into their level structure or frontline, introducing new recruits at any width. Commissions are then distributed up to a fixed depth or set levels as specified by the MLM compensation plan. 
                         </p>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="col-12 col-lg-8 my-2">
                     <div>
-                        <h4>Advantages of Generation plan</h4>
+                        <h4 class="text-primary">Advantages of Generation plan</h4>
                         <p class="text-justify">
                         The Generation MLM Plan stands out as one of the most exciting and lucrative MLM pay plans due to its substantial payout potential. This plan offers payouts to an infinite downline, meaning members earn commissions even from downline levels as deep as 15. In a Generation model, upline members place their new recruits into your "power leg," creating spillover and often resulting in rapid growth. This structure fosters teamwork and cooperative energy, essential for the success of both you and your downline. The Generation plan provides the greatest potential for generational earnings depth among the four basic network marketing compensation plans.
                         </p>

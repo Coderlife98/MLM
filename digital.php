@@ -86,7 +86,7 @@
     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header w-100 position-relative px-0 ">
-        <img src="./img/web_hero2.png" alt="" style="width:100%">
+        <img src="./img/web_hero2.png" loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Digital Marketing</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -105,15 +105,15 @@
     <div class="container-fluid  set_matr_bg2">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-5 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-lg-5 order-2 order-lg-0 col-md-6 col-sm-12 wow fadeIn" data-wow-delay=".3s">
                     <div>
-                        <img src="./img/digital.png" class="caller_img" alt="">
+                        <img src="./img/digital.png" class="caller_img" loading="lazy" alt="@dued">
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6 col-sm-12 wow fadeIn d-flex flex-column justify-content-center"
                     data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
-                    <h1 class="mb-4 set_heading">Attract More Leads & Grow Your Business with Patna's Top Digital
+                    <h1 class="mb-4 set_heading text-primary">Attract More Leads & Grow Your Business with Patna's Top Digital
                         Marketing Agency, MLM Gig</h1>
 
                     <p class="text-justify">In the bustling city of Patna, businesses are constantly seeking innovative
@@ -149,13 +149,15 @@
                             <p class="text-justify">
                             MLM Gig drives growth with proven success and data-driven results.
                             </p>
-                            <button class="showPopup4 showPopup" title="Click Me">Read More</button>
+                            <button class="showPopup4 showPopup d-flex align-items-center" title="Click Me">Read More 
+                            <i class=" fa fa-arrow-right ms-2" id="xaxis"></i>
+                            </button>
                             <div class="popup" id="popup4">
                                 <div class="container popupContent">
                                     <div class="row">
                                         <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
                                             <div>
-                                                <img src="./img/track.png" class="popiii" alt="">
+                                                <img src="./img/track.png" class="popiii" loading="lazy" alt="@dued">
                                             </div>
                                         </div>
                                         <div class="col-12 col-md-7 my-2 d-flex align-items-center">
@@ -185,13 +187,15 @@
                             <p class="text-justify">
                             Tailored marketing plans to increase traffic, generate leads, enhance brand.
                             </p>
-                            <button class="showPopup2 showPopup" title="Click Me">Read More</button>
+                            <button class="showPopup2 showPopup" title="Click Me">Read More
+                            <i class=" fa fa-arrow-right ms-2" id="xaxis"></i>
+                            </button>
                             <div class="popup" id="popup2">
                                 <div class="container popupContent">
                                     <div class="row">
                                         <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
                                             <div>
-                                                <img src="./img/tailor.png" class="popiii" alt="">
+                                                <img src="./img/tailor.png" loading="lazy" class="popiii" alt="@dued">
                                             </div>
                                         </div>
                                         <div class="col-12 col-md-7 my-2 d-flex align-items-center">
@@ -222,13 +226,15 @@
                             <p class="text-justify">
                             MLM Gig utilizes advanced tools to optimize campaigns and ROI."
                             </p>
-                            <button class="showPopup3 showPopup" title="Click Me">Read More</button>
+                            <button class="showPopup3 showPopup" title="Click Me">Read More
+                            <i class=" fa fa-arrow-right ms-2" id="xaxis"></i>
+                            </button>
                             <div class="popup" id="popup3">
                                 <div class="container popupContent">
                                     <div class="row">
                                         <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
                                             <div>
-                                                <img src="./img/market.png" class="popiii" alt="">
+                                                <img src="./img/market.png" class="popiii" loading="lazy" alt="@dued">
                                             </div>
                                         </div>
                                         <div class="col-12 col-md-7 my-2 d-flex align-items-center">
@@ -259,13 +265,15 @@
                                 MLM Gig boasts a team of seasoned professionals with expertise in various facets of
                                 digital marketing.
                             </p>
-                            <button class="showPopup1 showPopup" title="Click Me">Read More</button>
+                            <button class="showPopup1 showPopup" title="Click Me">Read More
+                            <i class=" fa fa-arrow-right ms-2" id="xaxis"></i>
+                            </button>
                             <div class="popup " id="popup1">
                                 <div class="container popupContent">
                                     <div class="row">
                                         <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
                                             <div>
-                                                <img src="./img/pop1.png" class="popiii" alt="">
+                                                <img src="./img/pop1.png" class="popiii" loading="lazy" alt="@dued">
                                             </div>
                                         </div>
                                         <div class="col-12 col-md-7 my-2 d-flex align-items-center">
@@ -297,7 +305,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h4 class="fw-bolder text-center">Services Offered by MLM Gig</h4>
+                    <h4 class="fw-bolder text-center text-primary">Services Offered by MLM Gig</h4>
                     <p class="text-center py-3">
                         MLM Gig offers a comprehensive suite of services including SEO to boost your online visibility,
                         SMM for engaging social media campaigns, PPC for targeted ads, content marketing to drive
@@ -310,7 +318,7 @@
 
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
-                            <img src="./img/seosm.png" height="60px" alt="">
+                            <img src="./img/seosm.png" height="60px" loading="lazy" alt="@dued">
                         </div>
                         <div class="">
                             <div class="hd py-3">
@@ -327,7 +335,7 @@
                 <div class="col-12 col-md-6 col-lg-4 my-3 sm_flex position-relative" id="lgMarginsm">
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
-                            <img src="./img/socialsm.png" height="60px" alt="">
+                            <img src="./img/socialsm.png" height="60px" loading="lazy" alt="@dued">
                         </div>
                         <div class="hd py-3">
                             <span class="text-warning rounded_smmm">Social Media Marketing</span>
@@ -343,7 +351,7 @@
 
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
-                            <img src="./img/ppf.png" height="60px" alt="">
+                            <img src="./img/ppf.png" height="60px" loading="lazy" alt="@dued">
                         </div>
                         <div class="hd py-3">
                             <span class="text-warning rounded_smmm">Pay-Per-Click Advertising</span>
@@ -357,7 +365,7 @@
                 <div class="col-12 col-md-6 col-lg-4  sm_flex position-relative" id="lgMargin">
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
-                            <img src="./img/cc.png" height="60px" alt="">
+                            <img src="./img/cc.png" height="60px" loading="lazy" alt="@dued">
                         </div>
                         <div class="hd py-3">
                             <span class="text-warning rounded_smmm">Content Marketing</span>
@@ -372,7 +380,7 @@
                 <div class="col-12 col-md-6 col-lg-4  sm_flex position-relative" id="lgMargin">
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
-                            <img src="./img/email.png" height="60px" alt="">
+                            <img src="./img/email.png" height="60px" loading="lazy" alt="@dued">
                         </div>
                         <div class="hd py-3">
                             <span class="text-warning rounded_smmm">Email Marketing</span>
@@ -396,7 +404,7 @@
                         <!-- <div class="add_curve">
 
                     </div> -->
-                        <h4 class="text-center">How MLM Gig Can Transform Your Business?</h4>
+                        <h4 class="text-center text-primary">How MLM Gig Can Transform Your Business?</h4>
                         <p class="text-center text-dark">Partnering with <a href="./mlm_plan.php" class="">MLM Gig</a>
                             means more
                             than just outsourcing your digital marketing needs. It means collaborating with a team that
@@ -407,11 +415,11 @@
                     <div class="col-12 col-lg-12 p-2 my-3 set_color ">
                         <div class="lg_flex">
                             <div class="color lg_center">
-                                <img src="./img/increase.png" width="55px" height="55px" alt="">
+                                <img src="./img/increase.png" width="55px" loading="lazy" height="55px" alt="@dued">
                             </div>
-                            <div class="head_tt text-white d-flex flex-column justify-content-center">
+                            <div class="head_tt  d-flex flex-column justify-content-center">
                                 <h5 class="py-1 he mb-0">Increased Lead Generation</h5>
-                                <p class="mb-0">Our targeted strategies ensure that your business attracts more
+                                <p class="mb-0 text-black">Our targeted strategies ensure that your business attracts more
                                     qualified leads, increasing the potential for conversions and sales.</p>
                             </div>
                         </div>
@@ -419,11 +427,11 @@
                     <div class="col-12 col-lg-12 p-2 my-3 set_color ">
                         <div class="lg_flex">
                             <div class="color lg_center">
-                                <img src="./img/enhance.png" width="55px" height="55px" alt="">
+                                <img src="./img/enhance.png" width="55px" loading="lazy" height="55px" alt="@dued">
                             </div>
-                            <div class="head_tt text-white d-flex flex-column justify-content-center">
+                            <div class="head_tt  d-flex flex-column justify-content-center">
                                 <h5 class="py-1 he mb-0">Enhanced Online Presence</h5>
-                                <p class="mb-0">Through effective SEO and engaging content, we enhance your online
+                                <p class="mb-0 text-black">Through effective SEO and engaging content, we enhance your online
                                     presence, making it easier for potential customers to find you.</p>
                             </div>
                         </div>
@@ -431,11 +439,11 @@
                     <div class="col-12 col-lg-12 p-2 my-3 set_color ">
                         <div class="lg_flex">
                             <div class="color lg_center">
-                                <img src="./img/improve.png" width="55px" height="55px" alt="">
+                                <img src="./img/improve.png" width="55px" loading="lazy" height="55px" alt="@dued">
                             </div>
-                            <div class="head_tt text-white d-flex flex-column justify-content-center">
+                            <div class="head_tt  d-flex flex-column justify-content-center">
                                 <h5 class="py-1 he mb-0">Improved Brand Awareness</h5>
-                                <p class="mb-0">With consistent and strategic marketing efforts, we build and strengthen
+                                <p class="mb-0 text-black">With consistent and strategic marketing efforts, we build and strengthen
                                     your brand's reputation in the market.</p>
                             </div>
                         </div>
@@ -443,11 +451,11 @@
                     <div class="col-12 col-lg-12 p-2 my-3 set_color ">
                         <div class="lg_flex">
                             <div class="color lg_center">
-                                <img src="./img/roi.png" width="55px" height="55px" alt="">
+                                <img src="./img/roi.png" width="55px" loading="lazy" height="55px" alt="@dued">
                             </div>
-                            <div class="head_tt text-white d-flex flex-column justify-content-center">
+                            <div class="head_tt  d-flex flex-column justify-content-center">
                                 <h5 class="py-1 he mb-0">Higher ROI</h5>
-                                <p class="mb-0">By optimizing your marketing campaigns and reducing wasted spend, we
+                                <p class="mb-0 text-black">By optimizing your marketing campaigns and reducing wasted spend, we
                                     ensure that you get the highest return on your investment.</p>
                             </div>
                         </div>

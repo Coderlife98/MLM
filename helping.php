@@ -22,16 +22,16 @@
     <!-- Page Header Start -->
     <div class="container-fluid position-relative px-0">
     <img src="./img/web_hero2.png" alt="" style="width:100%">
-        <div class="container text-center py-5">
+        <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Helping Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
-                    <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
+                  
                     <li class="breadcrumb-item" aria-current="page">Helping Plan</li>
                 </ol>
             </nav>
-        </div>
+        </div> -->
     </div>
     <!-- Page Header End -->
 
@@ -49,7 +49,7 @@
                 <div class="col-lg-7 col-md-6 col-sm-12 wow fadeInUp d-flex flex-column justify-content-center"
                     data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
-                    <h1 class="mb-4 set_heading">Boost Efficiency & Clarity: <span class="text-info">Helping Plan Software</span></h1>
+                    <h1 class="mb-4 set_heading text-primary">Boost Efficiency & Clarity: <span class="text-secondary">Helping Plan Software</span></h1>
 
                     <p class="text-justify">Helping plan recorded as one of the most successful network marketing
                         concepts in the recent and the last few couple of years. It is well knowing as donation plan or
@@ -71,19 +71,19 @@
             <div class="row">
                 <div class="col-12 col-lg-8 my-3">
                     <div>
-                        <h4 class="fw-bolder text-warning wow fadeInRight" data-wow-delay="0.2" >Advantages of Helping plan</h4>
+                        <h4 class="fw-bolder text-primary wow fadeInRight" data-wow-delay="0.2" >Advantages of Helping plan</h4>
                         <div class="wow fadeInLeft" data-wow-delay="0.5" >
-                            <span><i class="fa fa-arrow-right pe-3"></i>Earn maximum with the system</span>
+                            <span><i class="fa fa-arrow-right pe-3 text-green"></i>Earn maximum with the system</span>
                         </div>
                         <div class="wow fadeInLeft" data-wow-delay="0.7">
-                            <span><i class="fa fa-arrow-right pe-3"></i>Easy to work and understand</span>
+                            <span><i class="fa fa-arrow-right pe-3 text-green "></i>Easy to work and understand</span>
                         </div>
 
                         <div class="wow fadeInLeft" data-wow-delay="0.9">
-                            <span><i class="fa fa-arrow-right pe-3"></i>Not to wait a much for the ROI</span>
+                            <span><i class="fa fa-arrow-right pe-3 text-green"></i>Not to wait a much for the ROI</span>
                         </div>
                         <div class="wow fadeInLeft" data-wow-delay="1">
-                            <span class="d-flex"><i class="fa fa-arrow-right pe-3"></i>You don’t have to influence others to join your
+                            <span class="d-flex"><i class="fa fa-arrow-right pe-3 text-green"></i>You don’t have to influence others to join your
                             downline for the income</span>
                         </div>
 

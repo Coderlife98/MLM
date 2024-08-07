@@ -9,9 +9,17 @@
         backdrop-filter: blur(4px);
         -webkit-backdrop-filter: blur(4px);
         border: 1px solid rgba(255, 255, 255, 0.18);
-        color: black !important;
+        color: white !important;
         animation: fadeInBottom 1s linear;
     }
+    .navbar .navbar-nav .nav-link {
+    padding: 10px;
+    /* color: var(--bs-white); */
+    color: white;
+    font-size: 16px;
+    outline: none;
+    position: relative;
+}
 
     @keyframes fadeInBottom {
         from {
@@ -28,7 +36,7 @@
 <!-- Spinner Start -->
 <div id="spinner"
     class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-    <div class="spinner-grow text-primary" role="status"></div>
+    <div class="spinner-grow text-secondary" role="status"></div>
 </div>
 <!-- Spinner End -->
 
@@ -69,7 +77,7 @@
     <div class="container">
         <nav class="navbar navbar-dark navbar-expand-lg py-0" id="">
             <a href="index.php" class="navbar-brand">
-                <img src="./img/logo.png" height="60px" alt="@logo-dued">
+                <img src="./img/logo.png" loading="lazy" height="60px" alt="@logo-dued">
             </a>
             <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
                 data-bs-target="#navbarCollapse">
@@ -85,7 +93,7 @@
 
                     <div class="nav-item dropdown">
                         <a href="javascript:void(0);" class="nav-link dropdown-toggle " data-bs-toggle="dropdown">
-                            <span class="droplink" data-id="snyOpen---demo.php">MLM Plan
+                            <span class="droplink" data-id="snyOpen---mlm_plan.php">MLM Plan
                             </span></a>
                         <div class="dropdown-menu rounded">
                             <a href="./binary_plan.php" class="dropdown-item">Binary Plan</a>

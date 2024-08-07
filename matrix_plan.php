@@ -44,7 +44,7 @@
                         <div class="set_blur_secion">
 
                         </div>
-                        <h1 class="set_heading ">Extraordinary <span class="text-warning">Matrix Plan Software</span> The Ultimate Solution</h1>
+                        <h1 class="set_heading text-primary">Extraordinary <span class="text-heddd">Matrix Plan Software</span> The Ultimate Solution</h1>
                         <p class="text-justify">
                         The Matrix MLM Compensation Plan stands tall as a cornerstone strategy within the realm of <a href="./mlm_plan.php" class="fw-bolder text-secondary ">Multilevel Marketing Businesses</a>. Within its structured framework, downlines are strategically organized into a fixed width by height matrix, denoted as (W x H). This plan, also known as the Forced Matrix Plan or Ladder Plan, operates on the premise that each distributor can nurture and expand their team within a predetermined number of downline members.
                         </p>
@@ -72,7 +72,7 @@
                     </div>
                     <div class="col-12 col-lg-8 my-2 wow fadeInRight" data-wow-delay="1s" data-wow-duration="0.5">
                         <div>
-                            <h3>Benefits of <span class="text-info">MLM Matrix Plan</span></h3>
+                            <h3 class="text-primary">Benefits of <span class="text-heddd">MLM Matrix Plan</span></h3>
                         </div>
                         <div>
                             <p class="text-justify">
@@ -100,8 +100,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h3 class="wow flipInX" data-wow-delay="0.5" data-wow-duration="0.5">
-                        Advantages and features of <span class="text-warning">Matrix plan</span>
+                        <h3 class="wow flipInX text-primary" data-wow-delay="0.5" data-wow-duration="0.5">
+                        Advantages and features of <span class="text-heddd">Matrix plan</span>
                         </h3>
                     </div>
                     <div class="col-12 col-lg-6 my-2 wow zoomIn" data-wow-delay="0.5">

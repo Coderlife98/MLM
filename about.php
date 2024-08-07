@@ -22,7 +22,7 @@
 
     <!-- Page Header Start -->
     <div class="container-fluid px-0 position-relative">
-        <img src="./img/about_us.png" alt="" style="width:100%">
+        <img src="./img/about_us.png" loading="lazy" alt="" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">About Us</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -43,12 +43,12 @@
             <div class="row g-5">
                 <div class="col-lg-5 smaboutimg2  col-sm-12 wow   fadeInLeft" data-wow-delay=".3s">
                     <div class="smaboutimg">
-                        <img src="img/about1.png" class="img-fluid duedhide  w-75 rounded" alt="">
+                        <img src="img/about1.png" loading="lazy" class="img-fluid duedhide  w-75 rounded" alt="@dued">
                     </div>
                 </div>
                 <div class="col-lg-7 col-sm-12 wow d-lg-flex align-items-center fadeInRight" data-wow-delay=".5s">
                     <div>
-                        <h2 class="text-primary">About Us</h2>
+                        <h1 class="text-primary">About Us</h1>
                         <!-- <h5 class="mb-4">About MLM</h5> -->
                         <p class="text-justify">Whether you're a startup MLM business, or a larger network, we have
                             covered
@@ -84,7 +84,7 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-12 col-md-7 py-4 d-flex flex-column justify-content-center  wow fadeInUp"
+                    <div class="col-12 col-md-7 d-flex flex-column justify-content-center  wow fadeInUp"
                         data-wow-delay="0.9">
                         <div>
                             <h3 class="text-primary">Years of Inspired Teamwork and Positive Change</h3>
@@ -98,9 +98,9 @@
                             Nonbanking, Finance, Real Estate and Network Marketing.
                         </p>
                     </div>
-                    <div class="col-12 py-4 d-flex justify-content-center col-md-5 wow zoomIn" data-wow-delay="0.5">
+                    <div class="col-12  d-flex justify-content-center col-md-5 wow zoomIn" data-wow-delay="0.5">
                         <div class="sm--about">
-                            <img src="./img/exp.png" class="exp-img" alt="">
+                            <img src="./img/exp.png" loading="lazy" class="exp-img" alt="@dued">
                         </div>
                     </div>
                 </div>
@@ -115,11 +115,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 wow fadeInLeft py-4 py-md-0" data-wow-delay="0.2">
-                        <h3 class="text-info text-center"> Quality Policy : &quot;Deliver Best Solution In Given Time
+                    <h5 class="text-summary  text-center">Quality Applications</h5>
+                        <h3 class="text-primary text-center"> Quality Policy : &quot;Deliver Best Solution In Given Time
                             Frame.&quot;</h3>
                     </div>
                     <div class="col-12 my-1 wow fadeInRight" data-wow-delay="0.5">
-                        <h5 class="text-warning text-center">Quality Applications</h5>
+                       
                         <p class="text-justify text-lg-center">Our applications are developed using the highest
                             standards in applications development.
                             Stringent quality control Measures and quality tests ensures that the applications are at of
@@ -129,36 +130,54 @@
                             of the Internet, new aspects may emerge. For typical commercial Websites, the basic aspects
                             of design are:</p>
                     </div>
-                    <div class="col-12 wow fadeInLeft" data-wow-delay="0.5">
-                        <h5 class="set_about_bg text-warning">Content</h5>
-                        <p class="text-justify">The substances and information on the site should be relevant to the
-                            website and should target the public around the business needs that the website is concerned
-                            with.</p>
+
+
+                <div class="col-12 col-md-4 my-3">
+                    <div class="newHover">
+                       <div class="d-flex justify-content-center ">
+                        <img src="./img/con1.jpg" loading="lazy" class="suuyy" alt="@dued">
+                       </div>
+                       <div class=" p-3 contentAArea">
+                        <h5 class="text-center text-heddd">Content</h5>
+                        <p class="text-center text-white">The substances and information on the site should be relevant to the website and should target the public around the business needs that the website is concerned with.</p>
+                       </div>
                     </div>
-                    <div class="col-12 my-1 wow fadeInRight" data-wow-delay="0.5">
-                        <h5 class="set_about_bg text-warning">Usability</h5>
-                        <p class="text-justify">The site should be very user-friendly, with the interface and navigation
-                            being simple and reliable.</p>
+                </div>
+                <div class="col-12 col-md-4 my-3">
+                    <div class="newHover">
+                       <div class="d-flex justify-content-center">
+                        <img src="./img/con2.jpg" loading="lazy" class="suuyy" alt="@dued">
+                       </div>
+                       <div class="p-3 contentAArea">
+                        <h5 class="text-center text-heddd">Usability</h5>
+                        <p class="text-center text-white">
+                        The site must be user-friendly, featuring a simple and reliable interface and navigation to ensure ease of use for all visitors.</p>
+                       </div>
                     </div>
-                    <div class="col-12 wow fadeInLeft" data-wow-delay="0.5">
-                        <h5 class="set_about_bg text-warning">Appearance</h5>
-                        <p class="text-justify">The graphics and text should be consistent and include a single style
-                            that flows throughout. The style should be professional, appealing and relevant.</p>
+                </div>
+                <div class="col-12 col-md-4 my-3">
+                    <div class="newHover">
+                       <div class="d-flex justify-content-center ">
+                        <img src="./img/con3.jpg" loading="lazy" class="suuyy" alt="@dued">
+                       </div>
+                       <div class="p-3 contentAArea">
+                        <h5 class="text-center text-heddd">Appearance</h5>
+                        <p class="text-center text-white">The graphics and text should be consistent and include a single style that flows throughout. The style should be professional, appealing and relevant.</p>
+                       </div>
                     </div>
-                    <div class="col-12 my-1 wow fadeInUp" data-wow-delay="0.5">
-                        <h5 class="set_about_bg text-warning ">Visibility</h5>
-                        <p class="text-justify">The site must also be easy to find via most, if not all, major search
-                            engines and advertising media. Our solutions and services do not cover any specific industry
-                            or sector. Although we do have the domain expertise for many industry such as the leather
-                            industry, financial services sector, steel manufacture and interior design industry, we can
-                            custom develop solution for any type of industry or sector. mlmgig can help to automate your
-                            business and operations so that you save increase productivity and reduce time on your
-                            operations, Or if you have an existing system running, we can help you leverage this
-                            existing solution in so that your application and its data can be accessible anytime and
-                            anywhere. So whether it is on a desktop PC in your office, your laptop, PDA or mobile phone,
-                            or an a PC from anywhere in the world you can access data from your applications can give
-                            data that can help you take executive business decisions.</p>
+                </div>
+                <div class="col-12 col-md-4 my-3">
+                    <div class="newHover">
+                       <div class="d-flex justify-content-center ">
+                        <img src="./img/con4.jpg" loading="lazy" class="suuyy" alt="@dued">
+                       </div>
+                       <div class="p-3 contentAArea">
+                        <h5 class="text-center text-heddd">Visibility</h5>
+                        <p class="text-center text-white">MLM Gig customizes solutions for any industry, enhancing productivity and accessibility from any device globally.</p>
+                       </div>
                     </div>
+                </div>
+
                 </div>
             </div>
         </div>
@@ -175,44 +194,44 @@
                             <h3 class="text-info">Technologies, we work on</h3>
                             <p><a href="./index.php" class="fw-bolder">Mlmgig</a> is not specifically tied down to any
                                 specific technology, as we offer end-to-end solutions based on technologies that are the
-                                most appropriate to our clients. Currently, Mlmgig is working on PHP, Microsoft .NET, MS
-                                SQL the present generation of web services based programming platforms.</p>
+                                most appropriate to our clients. Currently, Mlmgig is working on <b class="fw-bolder text-dark">PHP, </b><b class="fw-bolder text-dark">Microsoft .NET, </b><b class="fw-bolder text-dark">MS
+                                SQL</b> the present generation of web services based programming platforms.</p>
                         </div>
                         <div class="imgaeWrapperstart">
                             <div class="col-12 d-md-flex">
                                 <div class="col-6 col-md-2 my-2">
                                     <div>
-                                        <img src="./img/tech1.png" width="70px" alt="">
+                                        <img src="./img/tech1.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-2 my-2">
                                     <div>
-                                        <img src="./img/techno3.png" width="70px" alt="">
+                                        <img src="./img/techno3.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-2 my-2">
                                     <div>
-                                        <img src="./img/techno4.png" width="70px" alt="">
+                                        <img src="./img/techno4.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-2 my-2">
                                     <div>
-                                        <img src="./img/techno5.png" width="70px" alt="">
+                                        <img src="./img/techno5.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-2 my-2">
                                     <div>
-                                        <img src="./img/techno7.png" width="70px" alt="">
+                                        <img src="./img/techno7.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-2 my-2">
                                     <div>
-                                        <img src="./img/techno6.png" width="70px" alt="">
+                                        <img src="./img/techno6.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                 <div class="col-6 col-md-2 my-2">
                                     <div>
-                                        <img src="./img/techno8.png" width="70px" alt="">
+                                        <img src="./img/techno8.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
                                
@@ -221,7 +240,7 @@
                     </div>
                     <div class="col-12 col-md-5 my-3 d-flex justify-content-center wow fadeInUp" data-wow-delay="0.9">
                         <div>
-                            <img src="./img/tech.png" alt="">
+                            <img src="./img/tech.png" loading="lazy" alt="@dued">
                         </div>
                     </div>
                 </div>

@@ -48,7 +48,7 @@
                     </div>
                     <div class="col-12 col-lg-7 my-3 wow zoomIn d-flex align-items-center" data-wow-delay="0.8">
                         <div>
-                            <h1 class="set_font-size2">Unilevel Plan Software</h1>
+                            <h1 class="set_font-size2 text-primary">Unilevel Plan Software</h1>
                             <p class="text-justify">
                                 Introducing the Uni-Level Plan, also recognized as the Generation Plan or Sunflower
                                 Plan, a dynamic approach ideally suited for clients offering a diverse array of consumer
@@ -72,13 +72,18 @@
         </div>
     </section>
     <!-- Unilevel Plan Software end -->
-     <div class="container-fluid py-2 py-lg-2 set_bg_uni">
+     <div class="container-fluid py-2 py-lg-2 fffffbg">
         <div class="container">
             <div class="row ">
-                <div class="col-12  my-3 wow rollIn d-flex align-items-center" data-wow-delay="0.5s">
-                    <p class="text-white text-justify text-center"> The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease. While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.</p>
+                <div class="col-12 col-md-7  my-3 wow rollIn d-flex flex-column justify-content-center" data-wow-delay="0.5s">
+                    <h3 class="text-primary">Uni-Level Plan: Growth Through Recruitment and Collaboration</h3>
+                    <p class=" text-justify "> The essence of the Uni-Level Plan lies in its emphasis on recruitment and duplication. By cultivating a robust frontline of distributors and empowering them to replicate the process, the plan cultivates a culture of growth and collaboration. Its minimal personal volume requirements make it accessible to part-time enthusiasts, offering a pathway to supplemental income with relative ease. While the Uni-Level Plan streamlines commission acquisition compared to other structures, it acknowledges a trade-off in individual commission potential. Nonetheless, its accessibility and scalability make it an appealing choice for those prioritizing steady growth and a community-driven approach to success.</p>
                 </div>
-              
+            <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
+            <div>
+                <img src="./img/growth.png" class="groth56" alt="">
+              </div>
+            </div>
             </div>
         </div>
      </div>
@@ -87,14 +92,14 @@
         <div class="container-fluid py-2 py-lg-5 set_bggg_u">
             <div class="container">
                 <div class="row">
-                <div class="col-12 col-lg-5 my-2 d-flex justify-content-center ">
+                <div class="col-12 col-lg-5 my-2 order-2 order-lg-0 d-flex justify-content-center ">
                         <div>
                             <img src="./img/advantage.png" height="350px" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-lg-7 my-2 wow zoomIn" data-wow-delay="0.8">
                         <div>
-                            <h3 class="border_bb">Advantages of Unilevel plan</h3>
+                            <h3 class="border_bb text-primary">Advantages of Unilevel plan</h3>
                             <p class="text-justify">Embark on your journey to earning commissions with the Unilevel
                                 Compensation plan, where simplicity meets opportunity. Unlike other compensation plans,
                                 the Unilevel plan demands only a minimal personal volume to kickstart your earnings,
@@ -120,13 +125,13 @@
     </section>
     <!-- Advantages of Unilevel plan end -->
     <!-- Features of Unilevel plan start -->
-    <section class="p-2 p-lg-4">
+    <section class="p-2 p-lg-4 fffffbg">
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
                   
-                    <div class="col-12 col-lg-7 my-2 wow fadeInLeft" data-wow-delay="0.8">
-                        <h3 class="check">Features of Unilevel plan</h3>
+                    <div class="col-12 col-lg-7 my-2 wow fadeInLeft d-flex flex-column justify-content-center" data-wow-delay="0.8">
+                        <h3 class="check text-primary">Features of Unilevel plan</h3>
                         <p class="text-justify">Experience the unparalleled excitement of the <a class="text-secondary" href="./unilevel_plan.php">Unilevel MLM Plan</a>,
                             renowned for its abundant payouts and limitless downline potential. Unlike other plans, the
                             Unilevel Plan rewards you for every member in your extensive downline, up to an astonishing
@@ -143,7 +148,7 @@
                             marketing.
                         </p>
                     </div>
-                    <div class="col-12 col-lg-5 my-2">
+                    <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div>
                             <img src="./img/features.png" class="featImg" alt="@dued">
                         </div>

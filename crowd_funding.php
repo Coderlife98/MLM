@@ -22,7 +22,7 @@
      <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid px-0 position-relative">
-    <img src="./img/web_hero2.png" alt="" style="width:100%">
+    <img src="./img/web_hero2.png" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Crowdfunding Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -42,15 +42,15 @@
     <div class="container-fluid  set_matr_bg2">
         <div class="container py-5">
             <div class="row g-5">
-                <div class="col-lg-5 order-0 order-md-2 order-lg-0 col-sm-12 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-lg-5 order-2 order-md-2 order-lg-0 col-sm-12 wow fadeIn" data-wow-delay=".3s">
                     <div>
-                        <img src="./img/digital.png" class="caller_img" alt="">
+                        <img src="./img/digital.png" class="caller_img" alt="@dued">
                     </div>
                 </div>
                 <div class="col-lg-7 col-sm-12 wow fadeIn d-flex flex-column justify-content-center"
                     data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
-                    <h1 class="mb-4 set_heading">Reach Your Goals Faster: Powerful CrowdFunding Plan</h1>
+                    <h1 class="mb-4 set_heading text-primary">Reach Your Goals Faster: Powerful CrowdFunding Plan</h1>
 
                     <p class="text-justify">Crowdfunding offers a powerful solution for entrepreneurs aiming to launch their businesses without significant upfront capital. This innovative approach allows entrepreneurs to gauge market demand and secure funding for their initial production run, bypassing the need for extensive inventory investment. In today's business landscape, financial support from the crowd is crucial for startups to thrive. Crowdfunding connects individuals with brilliant business ideas but limited funds to those with the financial means seeking unique investment opportunities. This mutually beneficial system enables businesses to start with minimal resources and potentially achieve substantial profits quickly. Crowdfunding is an ideal pathway for turning great ideas into successful ventures.
                     </p>
@@ -62,12 +62,12 @@
     <!-- Reach Your Goals Faster: Powerful CrowdFunding Plan End -->
 
     <!-- advanatges of crowdfuncing plan start -->
-     <div class="container-fluid py-2 pt-lg-5">
+     <div class="container-fluid py-2 pt-lg-5 fffffbg">
         <div class="container">
             <div class="row">
                <div class="col-12 col-lg-7 my-3">
                 <div>
-                    <h4 class="fw-bolder">Advantages of CrowdFunding plan</h4>
+                    <h3 class="fw-bolder text-primary">Advantages of CrowdFunding plan</h3>
                     <p class="text-justify">
                     The CrowdFunding MLM Plan stands out as one of the most thrilling MLM pay plans due to its substantial payout potential. This plan allows for payouts from an infinite downline, meaning that members can earn from their downline even if they are 15 levels deep in the structure. In the CrowdFunding model, your upline places new members under you into your "power leg," creating a spillover effect. This power leg often grows rapidly, fostering teamwork and cooperative energy within the MLM organization.
                     </p>
@@ -81,7 +81,7 @@
                </div>
                <div class="col-12 col-lg-5 my-3">
                 <div>
-                    <img src="./img/advantage1.png" class="crowdimg" alt="">
+                    <img src="./img/advantage1.png" class="crowdimg" alt="@dued">
                 </div>
                </div>
             </div>

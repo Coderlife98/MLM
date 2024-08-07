@@ -21,7 +21,7 @@
      <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid position-relative px-0">
-    <img src="./img/about_us.png" alt="" style="width:100%">
+    <img src="./img/about_us.png" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Demo</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -38,12 +38,12 @@
 
 
     <!-- Try MLM Software Demo for Your MlM Plans Start -->
-    <div class="container-fluid   set_matr_bg2">
+    <div class="container-fluid   set_matr_bg2 py-4 py-lg-0">
         <div class="container ">
-            <div class="row g-5">
+            <div class="row ">
                 <div class="col-lg-7 col-md-6 my-1 col-sm-12 wow fadeInLeft d-flex flex-column justify-content-center" data-wow-delay=".5s">
                     <!-- <h5 class="text-primary">Demo</h5> -->
-                    <h2 class="mb-4 set_heading">Try MLM Software Demo for Your MLM Plans</h2>
+                    <h1 class="mb-4 set_heading text-primary">Try MLM Software Demo for Your MLM Plans</h1>
                     <p class="text-justify">It is the rigorous study put in by MLM Gig that has helped the team come up with the robust and flexible MLM software it offers. Its massive reach is just another testament to how it can help improve and organize MLM businesses, ultimately leading to growth and success.
                     </p>
                     <p class="text-justify">An MLM software demo gives you an idea of how the MLM software works and how it can benefit you. Get yourself a demo of the MLM software plan you are interested in, and experience firsthand the benefits of the MLM software we offer.
@@ -53,20 +53,13 @@
                 </div>
                 <div class="col-lg-5 my-1 col-md-6 col-sm-12 wow fadeInRight d-flex justify-content-center" data-wow-delay=".3s">
                    <div>
-                    <img src="./img/demo.png" class="caller_img" alt="">
+                    <img src="./img/demo.png" class="caller_img" alt="@dued">
                    </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- Try MLM Software Demo for Your MlM Plans End -->
-
-   
-
-
-   
-
-
 
 
     <!-- Footer Start -->

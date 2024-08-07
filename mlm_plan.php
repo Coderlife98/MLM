@@ -21,8 +21,9 @@
       <?php include("./includes/slideContact.php");?>
      <!-- slide contact end -->
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mlm_hero py-5">
-        <div class="container text-center py-5">
+    <div class="container-fluid position-relative px-0">
+    <img src="./img/about_us.png" alt="" style="width:100%">
+        <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown"> MLM Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
@@ -30,15 +31,15 @@
                     <li class="breadcrumb-item" aria-current="page">MLM Plan</li>
                 </ol>
             </nav>
-        </div>
+        </div> -->
     </div>
     <!-- Page Header End -->
     <section class="py-2 py-lg-5">
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-7 my-3">
-                        <h2 class="">Best MLM Business Plan: Types and Strategies for Success </h2>
+                    <div class="col-12 col-lg-7 my-3 d-flex flex-column justify-content-center">
+                        <h1 class="text-primary mainHeadi">Best MLM Business Plan: Types and Strategies for Success </h1>
                         <p class="text-justify">
                             Discover the best MLM business plan tailored for your success. Explore various MLM types and
                             strategies that can elevate your MLM gig, ensuring you achieve maximum growth and
@@ -68,7 +69,7 @@
                     </div>
                     <div class="col-12 col-lg-7 my-2">
                         <div>
-                            <h3 class="text-info">Binary Plan</h3>
+                            <h3 class="text-primary">Binary Plan</h3>
                             <p class="text-justify">
                                 The <a href="./binary_plan.php" class="text-secondary" title="click me">Binary Plan</a> is a popular MLM compensation structure known for its simplicity and
                                 effectiveness. It features a two-legged setup that promotes teamwork and provides
@@ -78,9 +79,9 @@
                             </p>
                             <div class="all_button">
                                 <a href="./binary_plan.php"
-                                    class="btn btn-secondary hov-effect rounded-pill px-3 py-2 text-white">Know More</a>
+                                    class="btn btn-secondary hov-effect rounded-pill px-3 py-2 ">Know More</a>
                                 <a href="./demo.php"
-                                    class="btn btn-secondary hov-effect rounded-pill px-4 py-2 text-white">Demo</a>
+                                    class="btn btn-secondary hov-effect rounded-pill px-4 py-2 ">Demo</a>
                             </div>
                         </div>
                     </div>
@@ -89,7 +90,7 @@
                 <div class="row border_doo2">
                     <div class="col-12 col-lg-7 my-2">
                         <div>
-                            <h3 class="text-info">Matrix Plan</h3>
+                            <h3 class="text-primary">Matrix Plan</h3>
                             <p class="text-justify">
                                 The <a href="./matrix_plan.php" title="click me" class="text-secondary">Matrix MLM Plan</a> is a structured compensation model where members are organized in a
                                 predetermined matrix of rows and columns. With a fixed width, this plan allows companies
@@ -100,9 +101,9 @@
                             </p>
                             <div class="all_button">
                                 <a href="./matrix_plan.php"
-                                    class="btn btn-secondary hov-effect rounded-pill px-3 py-2 text-white">Know More</a>
+                                    class="btn btn-secondary hov-effect rounded-pill px-3 py-2 ">Know More</a>
                                 <a href="./demo.php"
-                                    class="btn btn-secondary hov-effect rounded-pill px-4 py-2 text-white">Demo</a>
+                                    class="btn btn-secondary hov-effect rounded-pill px-4 py-2 ">Demo</a>
                             </div>
                         </div>
                     </div>
@@ -116,14 +117,14 @@
                 <!-- matrix end -->
                 <!-- unilevel start -->
                 <div class="row border_doo3">
-                    <div class="col-12 col-lg-5 my-2">
+                    <div class="col-12 order-2 order-md-0 col-lg-5 my-2">
                         <div>
                             <img src="./img/uni.png" height="220px" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-lg-7 my-2 d-flex justify-content-center">
                         <div>
-                            <h3 class="text-info">Unilevel Plan</h3>
+                            <h3 class="text-primary">Unilevel Plan</h3>
                             <p class="text-justify">
                                 The <a href="./unilevel_plan.php" title="click me" class="text-secondary">Unilevel Plan</a> stands out for its simplicity and direct earning potential, as it
                                 features just one business level where all downlines are placed directly. With no
@@ -134,9 +135,9 @@
                             </p>
                             <div class="all_button">
                                 <a href="./unilevel_plan.php"
-                                    class="btn btn-secondary hov-effect rounded-pill px-3 py-2 text-white">Know More</a>
+                                    class="btn btn-secondary hov-effect rounded-pill px-3 py-2 ">Know More</a>
                                 <a href="./demo.php"
-                                    class="btn btn-secondary hov-effect rounded-pill px-4 py-2 text-white">Demo</a>
+                                    class="btn btn-secondary hov-effect rounded-pill px-4 py-2 ">Demo</a>
                             </div>
                         </div>
                     </div>
@@ -234,7 +235,7 @@
                    
                     <div class="col-12 col-lg-7 my-2">
                         <div>
-                            <h3 class="text-info">Generation MLM Plan</h3>
+                            <h3 class="text-primary">Generation MLM Plan</h3>
                             <p class="text-justify">
                                 The <a href="./generation.php" title="click me" class="text-secondary">Generation MLM Plan</a>, also known as the Gap Commission Plan or Repurchase Plan,
                                 operates on the principle of profit sharing, making it a potent compensation structure
@@ -246,9 +247,9 @@
                             </p>
                             <div class="all_button">
                                 <a href="./generation.php"
-                                    class="btn btn-secondary hov-effect rounded-pill px-3 py-2 text-white">Know More</a>
+                                    class="btn btn-secondary hov-effect rounded-pill px-3 py-2 ">Know More</a>
                                 <a href="./demo.php"
-                                    class="btn btn-secondary hov-effect rounded-pill px-4 py-2 text-white">Demo</a>
+                                    class="btn btn-secondary hov-effect rounded-pill px-4 py-2 ">Demo</a>
                             </div>
                         </div>
                     </div>
@@ -341,18 +342,18 @@
     </section>
     <!-- All plan explanation end -->
      <!-- MLM Software for Popular Compensation Plans start -->
-      <section class="py-3 py-lg-5 mlm_section2_bg">
+      <section class="py-3 py-lg-5 ">
         <div class="container-flu">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-5 my-3 d-flex justify-content-center">
+                    <div class="col-12 order-2 order-lg-0 col-md-5 my-3 d-flex justify-content-center">
                         <div>
                             <img src="./img/software.png" height="300px" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-md-7 my-3 d-flex align-items-center">
                         <div>
-                           <h3 class="text-warning">MLM Software for Popular Compensation Plans</h3>
+                           <h3 class="text-primary">MLM Software for Popular Compensation Plans</h3>
                            <p class="text-justify">Discover the perfect solution for managing your MLM network effortlessly with Infinite MLM software. No matter the complexity of your compensation plan, our feature-rich and customizable software ensures seamless operations and easy tracking of all activities. With support for all popular compensation plans and extensive customization options, our solutions are tailor-made to suit your specific requirements. Backed by a highly experienced team, we stay abreast of the latest developments in the MLM industry to provide you with cutting-edge solutions.</p>
                         </div>
                     </div>
@@ -360,20 +361,20 @@
                 <div class="row my-4">
                     <div class="col-12 col-lg-6 my-4">
                         <div class="plan_des p-4">
-                        <h5 class="text-white">Binary MLM Software</h5>
+                        <h5 class="">Binary MLM Software</h5>
                         <p class="text-justify">Revolutionize your MLM business with our cutting-edge software designed to effortlessly manage <a href="./binary_plan.php" title="clcik me" class="text-secondary" >binary networks</a>. From tracking downline incomes to monitoring expenditures and beyond, streamline your operations and maximize efficiency with ease.</p>
                         </div>
                     </div>
                    
                     <div class="col-12 col-lg-6 my-4">
                           <div class="plan_des p-4">
-                        <h5 class="text-white">Matrix MLM Software</h5>
+                        <h5 class="">Matrix MLM Software</h5>
                         <p class="text-justify">Experience unparalleled efficiency with our cutting-edge web-based software tailored for <a href="./matrix_plan.php" class="text-secondary">Matrix MLM plans</a>. Seamlessly manage and monitor your network with precision, ensuring optimal performance and growth. Say goodbye to complexity and hello to streamlined success.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 my-4">
                           <div class="plan_des p-4">
-                        <h5 class="text-white">Unilevel MLM Software</h5>
+                        <h5 class="">Unilevel MLM Software</h5>
                         <p class="text-justify"><a href="./unilevel_plan.php" title="click me" class="text-secondary">Unilevel MLM Software</a> is a versatile web-based application designed to streamline every aspect of implementing the renowned Unilevel compensation plan. From managing member networks to tracking commissions and sales, this software offers comprehensive solutions tailored to the specific needs of Unilevel MLM businesses. With intuitive features and seamless integration, it empowers businesses to efficiently navigate the complexities of the Unilevel model, driving growth and success.</p>
                         </div>
                     </div>
@@ -421,7 +422,7 @@
                             How many compensation plans are there in MLM?
                             </h5>
                             <p class="faq-text">
-                            There are several compensations plans in MLM, each with its unique structure and benefits. Some common ones include <a href="./binary_plan.php" class="text-secondary" title="click me">Binary</a>, <a href="./unilevel_plan.php" title="click me" class="text-secondary">Unilevel</a> , <a href="./matrix_plan.php" class="text-secondary" title="click me">Matrix</a>, and <a href="./generation.php" title="click me" class="text-secondary">Generation plans</a>. The choice depends on your business needs and goals.
+                            There are several compensations plans in MLM, each with its unique structure and benefits. Some common ones include <a href="./binary_plan.php" class="text-secondary" title="click me">Binary</a>, <a href="./unilevel_plan.php" title="click me" class="text-secondary">Unilevel</a>, <a href="./matrix_plan.php" class="text-secondary" title="click me">Matrix</a>, and <a href="./generation.php" title="click me" class="text-secondary">Generation plans</a>. The choice depends on your business needs and goals.
                             </p>
                             <button class="faq-toggle">
                                 <i class="fas fa-chevron-down"></i>

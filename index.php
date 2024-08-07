@@ -120,6 +120,7 @@
                     </div>
                 </div>
 
+
             </div>
 
         </div>
@@ -180,7 +181,8 @@
                 <div class="col-lg-7 col-md-6 d-flex align-items-start justify-content-center flex-column col-sm-12 wow fadeInRight"
                     data-wow-delay=".8s">
                     <!-- header_txt_grd -->
-                    <h1 class="mb-4 mainHeadi">Best <span class="text-violet">MLM Software</span> Provider in Patna
+                    
+                    <h1 class="mb-4 mainHeadi text-primary">Best <span class="text-green addsoftBorder">MLM Software</span> Provider in Patna
                     </h1>
                     <p class=" text-justify">Welcome to the leading <a href="./mlm_plan.php" title="click me"
                             class="all_link_color">MLM
@@ -206,7 +208,7 @@
                     <div class="col-12 col-md-6 col-lg-7 my-2 wow bounceInUp d-flex align-items-center"
                         data-wow-delay=".5s">
                         <div>
-                            <h2>Explore the MLM gig Software Solution</h2>
+                            <h2 class="text-primary">Explore the MLM gig Software Solution</h2>
                             <p class="text-justify">Our cutting-edge MLM software is designed to simplify the
                                 complexities
                                 of network marketing management, ensuring continuous growth and streamlined operations.
@@ -236,13 +238,20 @@
         <div class="container-fluid py-2 py-lg-4  About__bg">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 my-2">
-                        <h2 class=" text-center">Key Features</h2>
+                    <div class="col-12 my-2 position-relative">
+                        <h2 class=" text-center text-primary">Key Features</h2>
+                        <div class="jeyidea">
+                            <img src="./img/idea.png" class="" alt="">
+                        </div>
+                        <p class="text-center">
+
+                        Our software offers a user-friendly interface, real-time analytics, customizable solutions, and secure, reliable performance. It's designed to meet your unique needs and ensure smooth, efficient operations for your business.
+                        </p>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12 col-md-6 col-lg-3 my-2">
-                        <div class=" box p-3">
+                        <div class=" box p-3 wow lightSpeedIn" data-wow-delay="500ms">
                             <div class="d-flex justify-content-center">
                                 <img src="./img/user.png" width="60px" class="set_bg_img" alt="">
                             </div>
@@ -254,7 +263,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 my-2">
-                        <div class=" box  p-3">
+                        <div class=" box  p-3 wow lightSpeedIn" data-wow-delay="500ms">
                             <div class="d-flex justify-content-center">
                                 <img src="./img/real.png" width="60px" class="set_bg_img" alt="">
                             </div>
@@ -266,7 +275,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 my-2">
-                        <div class=" box p-3">
+                        <div class=" box p-3 wow lightSpeedIn" data-wow-delay="500ms" >
                             <div class="d-flex justify-content-center">
                                 <img src="./img/flexible.png" width="60px" class="set_bg_img" alt="">
                             </div>
@@ -277,7 +286,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 my-2">
-                        <div class="p-3 box">
+                        <div class="p-3 box wow lightSpeedIn" data-wow-delay="500ms">
                             <div class="d-flex justify-content-center">
                                 <img src="./img/reliability.png" width="60px" class="set_bg_img" alt="">
                             </div>
@@ -302,13 +311,13 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-6 my-2 my-lg-4">
                     <div class="compre_head">
-                        <h2 class="">Comprehensive MLM Structure Support</h2>
+                        <h2 class="text-primary">Comprehensive MLM Structure Support</h2>
                         <div class="about_plan my-3">
                             <div class="plan_box d-flex align-items-center">
                                 <div class="plan_img pe-3">
                                     <img src="./img/binary_svg.svg" width="30px" alt="@dued">
                                 </div>
-                                <div class="about_pl">
+                                <div class="about_pl wow flash " data-wow-delay="200ms">
                                     <p class="mb-0 "><b class="text-violet">Binary Plan:</b> Optimize your <a
                                             href="./binary_plan.php" class="all_link_color">binary plan</a> operations
                                         with real-time tracking
@@ -316,7 +325,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="about_plan ">
+                        <div class="about_plan wow flash" data-wow-delay="200ms">
                             <div class="plan_box d-flex align-items-center">
                                 <div class="plan_img pe-3">
                                     <img src="./img/binary_svg.svg" width="30px" alt="@dued">
@@ -330,12 +339,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="about_plan my-3">
+                        <div class="about_plan my-3" >
                             <div class="plan_box d-flex align-items-center">
                                 <div class="plan_img pe-3">
                                     <img src="./img/binary_svg.svg" width="30px" alt="@dued">
                                 </div>
-                                <div class="about_pl">
+                                <div class="about_pl wow flash " data-wow-delay="200ms">
 
                                     <p class="mb-0 "><b class="text-violet">Unilevel Plan: </b> Enhance your <a
                                             href="./unilevel_plan.php" class="all_link_color">unilevel plan
@@ -363,16 +372,17 @@
                             <img src="./img/why.jpg" class="dued_why" height="400px" alt="">
                         </div>
                     </div>
-                    <div class="col-12 col-md-7 col-lg-7 my-3 d-flex align-items-center">
+                    <div class="col-12 col-md-7 col-lg-7 my-3 d-flex align-items-center position-relative">
                         <div>
-                            <h2 class="">WHY WE <span class="text-green" id="animateX">CHOOSE US</span></h2>
-                            <p class="my-2"><b class="text-dark">Expertise:</b> With years of experience in the MLM
+                            <h2 class="text-primary">WHY WE <span class="text-green" id="animateX">CHOOSE US</span></h2>
+                            <img src="./img/arrow2.png" class="movementArrowww" alt="">
+                            <p class="my-2 wow zoomInUp" data-wow-delay="100ms"><b class="text-dark">Expertise:</b> With years of experience in the MLM
                                 software industry, we understand the unique challenges and opportunities within network
                                 marketing.</p>
-                            <p class="my-2"><b class="text-dark">Support:</b> Our dedicated support team is here to
+                            <p class="my-2 wow zoomInUp" data-wow-delay="200ms"><b class="text-dark">Support:</b> Our dedicated support team is here to
                                 assist you 24/7, ensuring your business runs smoothly without any hitches.</p>
 
-                            <p class="my-2"><b class="text-dark">Affordability:</b> Get the best value for your
+                            <p class="my-2 wow zoomInUp" data-wow-delay="300ms"><b class="text-dark">Affordability:</b> Get the best value for your
                                 investment with our competitively priced software solutions.</p>
 
                         </div>
@@ -387,7 +397,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 px-2 ">
-                    <h2 class="text-center">Drive Your Network Marketing Success</h2>
+               
+                <h5 class="text-summary text-center">NetworkMastery</h5>
+
+                    <h2 class="text-center text-primary">Drive Your Network Marketing Success</h2>
                     <p class="text-center">Mlmgig Software is more than just a tool; it's a partner in your business’s
                         growth and success. By choosing us, you’re taking the first step towards a more efficient,
                         profitable, and manageable network marketing operation.</p>
@@ -397,147 +410,169 @@
 
 
 
-                <div class="col-12 col-md-4 col-xl-3 my-3  hoverUpp">
-                    <div class="w-100 image-container">
-                        <img src="./img/card/1.jpg" class="w-100 " loading="lazy" height="200px" alt="">
+                <div class="col-12 col-md-4 col-xl-3 my-3   wow fadeInUp" data-wow-delay="200ms">
+                   <div class="hoverUpp ">
+                   <div class="w-100 image-container">
+                        <img src="./img/card/1.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-green">Over 15 years of experience in the MLM software industry</h5>
+                        <h5 class="text-heddd">Over 15 years of experience in the MLM software industry</h5>
                         <p>
                             With over 15 years in MLM software, we provide expert solutions, trusted technology, and
                             innovative tools for your business success.
                         </p>
                     </div>
+                   </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/2.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="300ms">
+                 <div class="hoverUpp">
+                 <div class="w-100">
+                        <img src="./img/card/2.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive set-pdd">
 
-                        <h5 class="text-white">Various MLM Business Plan Options</h5>
+                        <h5 class="text-heddd">Various MLM <br> Business Plan <br> Options</h5>
                         <p>
                             Explore diverse MLM business plan options to find the perfect strategy that suits your
                             unique network marketing needs and goals.
                         </p>
                     </div>
+                 </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/3.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="400ms">
+                   <div class="hoverUpp">
+                   <div class="w-100">
+                        <img src="./img/card/3.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">Comprehensive Training on MLM Software Installation</h5>
+                        <h5 class="text-heddd">Comprehensive Training on MLM Software Installation</h5>
                         <p>
 
                             We offer thorough training on MLM software installation, ensuring you understand every step
                             and optimize setup effectively.
                         </p>
                     </div>
+                   </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/4.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="500ms">
+                   <div class="hoverUpp">
+                   <div class="w-100">
+                        <img src="./img/card/4.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">Secure and Reliable MLM Software</h5>
+                        <h5 class="text-heddd">Secure and Reliable MLM <br> Software</h5>
                         <p>
 
                             Our MLM software offers robust security and reliability, ensuring safe transactions and
                             dependable performance for your business.
                         </p>
                     </div>
+                   </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/5.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="600ms">
+                   <div class="hoverUpp">
+                   <div class="w-100">
+                        <img src="./img/card/5.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">Expert Development Team</h5>
+                        <h5 class="text-heddd">Expert Development Team</h5>
                         <p>
                             Our expert development team delivers innovative solutions with precision, ensuring top-notch
                             quality tailored to your unique needs and goals.
                         </p>
                     </div>
+                   </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/6.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="700ms">
+                  <div class="hoverUpp">
+                  <div class="w-100">
+                        <img src="./img/card/6.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">Simple Customization</h5>
+                        <h5 class="text-heddd">Simple <br> Customization</h5>
                         <p>
 
                             Our software offers simple customization options, allowing you to tailor features and
                             settings to perfectly match your business needs.
                         </p>
                     </div>
+                  </div>
                 </div>
 
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/7.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp " data-wow-delay="800ms">
+                   <div class="hoverUpp">
+                   <div class="w-100">
+                        <img src="./img/card/7.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">Global User Base</h5>
+                        <h5 class="text-heddd">Global User <br> Base</h5>
                         <p>
 
                             Our software supports a global user base, seamlessly integrating with diverse markets and
                             industries for widespread accessibility and success.
                         </p>
                     </div>
+                   </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/8.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="900ms">
+                   <div class="hoverUpp">
+                   <div class="w-100">
+                        <img src="./img/card/8.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">Dependable and Robust Platform</h5>
+                        <h5 class="text-heddd">Dependable and Robust Platform</h5>
                         <p>
 
                             Our platform offers reliability and strength, ensuring consistent performance and stability
                             for all your needs.
                         </p>
                     </div>
+                   </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/9.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="1000ms">
+                  <div class="hoverUpp">
+                  <div class="w-100">
+                        <img src="./img/card/9.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">Stable and Scalable Solutions</h5>
+                        <h5 class="text-heddd">Stable and Scalable Solutions</h5>
                         <p>
 
                             Discover solutions that offer both stability and scalability, ensuring your business can
                             grow seamlessly and reliably.
                         </p>
                     </div>
+                  </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/10.jpg" class="w-100" loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="1100ms">
+                  <div class="hoverUpp">
+                  <div class="w-100">
+                        <img src="./img/card/10.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">User-Friendly Interface</h5>
+                        <h5 class="text-heddd">User-Friendly Interface</h5>
                         <p>
 
                             A user-friendly interface ensures effortless navigation and smooth interactions, making your
                             experience intuitive and enjoyable.
                         </p>
                     </div>
+                  </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3">
-                    <div class="w-100">
-                        <img src="./img/card/11.jpg" class="w-100 " loading="lazy" height="200px" alt="">
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="1200ms">
+                   <div class="hoverUpp">
+                   <div class="w-100">
+                        <img src="./img/card/11.jpg" class="w-100 objectCoverImg " loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-white">Utilizes the Latest Technologies</h5>
+                        <h5 class="text-heddd">Utilizes the Latest Technologies</h5>
                         <p>
 
                             Our software leverages the latest technologies to ensure high performance, security, and
                             innovation, keeping you ahead in the competitive market.
                         </p>
                     </div>
+                   </div>
                 </div>
             </div>
         </div>
@@ -551,17 +586,18 @@
     <!-- Testimonial Start -->
     <div class="container-fluid testimonial  About__bg  py-5 mb-5">
         <div class="container">
-            <div class="text-center  pb-5 wow fadeIn" data-wow-delay=".3s">
+            <div class="text-center  pb-5 wow fadeInUp" data-wow-delay="300ms">
                 <h5 class="text-primary">Features</h5>
-                <h2>What features does MLM Software provides?</h2>
+                <h2 class="text-primary">What features does MLM Software provides?</h2>
                 <p class="text-dark text-center">To be considered the best <a href="./mlm_plan.php" class=""
                         title="click me">multi-level marketing (MLM)
                         software</a>, it must include
                     the following features:</p>
             </div>
-            <div class="owl-carousel testimonial-carousel wow fadeIn" data-wow-delay=".5s">
-                <div class="testiCard border p-4">
-                    <div class="testDib d-flex align-items-center justify-content-center">
+            <div class="owl-carousel testimonial-carousel " >
+                <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="500ms">
+                   <div class="d-flex align-items-center">
+                   <div class="testDib d-flex align-items-center justify-content-center">
                         <img src="./img/tracking.png" class="testImgg" alt="">
                     </div>
                     <div class="d-flex justify-content-center">
@@ -569,13 +605,14 @@
                             <h6 class="text-secondary">Commission Tracking</h6>
                         </div>
                     </div>
+                   </div>
                     <div class=" mt-4 pt-3">
                         <p class="mb-0 text-center text-white">Accurately monitor and calculate commissions for each
                             member using real-time data, detailed reports, automated calculations, and customizable
                             settings.</p>
                     </div>
                 </div>
-                <div class="testiCard border p-4">
+                <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="700ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
                             <img src="./img/genelogy.png" class="testImgg" alt="">
@@ -585,7 +622,7 @@
                         </div>
                     </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center"> Maintain comprehensive records of member hierarchies and
+                        <p class="mb-0 text-center text-white"> Maintain comprehensive records of member hierarchies and
                             relationships, enabling clear visualization of network structures, tracking lineage,
                             ensuring accurate placement, and facilitating seamless management of multi-level marketing
                             team dynamics.
@@ -593,7 +630,7 @@
                     </div>
                 </div>
 
-                <div class="testiCard border p-4">
+                <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="900ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
                             <img src="./img/report.png" class="testImgg" alt="">
@@ -604,11 +641,11 @@
                         </div>
                     </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center">Generate comprehensive reports for
-                            performance analysis and business insights.</p>
+                        <p class="mb-0 text-center text-white">
+                        Generate detailed performance and business insights reports to analyze metrics, track growth, and identify trends. These reports facilitate strategic decision-making and optimize business operations.</p>
                     </div>
                 </div>
-                <div class="testiCard border p-4">
+                <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="1200ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
                             <img src="./img/ecommerce.png" class="testImgg" alt="">
@@ -619,11 +656,11 @@
                         </div>
                     </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center">Generate comprehensive reports for
-                            performance analysis and business insights.</p>
+                        <p class="mb-0 text-center text-white">
+                        Seamless integration with e-commerce platforms optimizes sales processes, enhances transaction efficiency, and streamlines order management, leading to a more fluid and effective online retail experience.</p>
                     </div>
                 </div>
-                <div class="testiCard border p-4">
+                <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="1300ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
                             <img src="./img/member.png" class="testImgg" alt="">
@@ -634,11 +671,10 @@
                         </div>
                     </div>
                     <div class="  mt-4 pt-3">
-                        <p class="mb-0 text-center">Efficiently manage member data and <br>
-                            activities.</p>
+                        <p class="mb-0 text-center text-white">Efficiently manage member data and activities by utilizing integrated tools for tracking performance, streamlining communications, and automating tasks, ensuring seamless operations and enhanced productivity.</p>
                     </div>
                 </div>
-                <div class="testiCard border p-4">
+                <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="1500ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
                             <img src="./img/marketing.png" class="testImgg" alt="">
@@ -649,7 +685,7 @@
                         </div>
                     </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center">
+                        <p class="mb-0 text-center text-white">
                             Marketing tools accurately monitor and calculate commissions for each member, ensuring
                             transparent, precise tracking, and fostering trust within your multi-level marketing
                             network.</p>
@@ -754,7 +790,7 @@
                 <div class="row">
                     <div class="col-12 col-lg-7 my-2">
                         <div class="head_strttt">
-                            <h2 class="fw-bolder">Can I Start My Own MLM ?</h2>
+                            <h2 class="fw-bolder text-primary">Can I Start My Own MLM ?</h2>
                         </div>
                         <div>
                             <P class="text-justify text-dark">Yes, you can establish your own MLM business, provided you
@@ -767,13 +803,13 @@
                             <div class="col-lg-6 col-12">
                                 <span class="fw-bolder text-dark">Legal Requirements and Regulations</span>
                                 <div class="text-dark">
-                                    <p class="my-2 "> <i class=" fa fa-arrow-right me-2 text-danger fw-boldelex"></i>
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="200ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-boldelex"></i>
                                         Consumer Protection Laws</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Data
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="400ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Data
                                         Privacy and Security Laws</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="600ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
                                         Financial Reporting Requirements</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="800ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
                                         Network Marketing Registration</p>
                                 </div>
                             </div>
@@ -787,9 +823,9 @@
                                         <p class="mb-0">A
                                             dedicated team of developers and support staff</p>
                                     </div>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="200ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
                                         robust server infrastructure</p>
-                                    <p class="my-2"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> An
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="400ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> An
                                         adequate budget to cover initial costs</p>
 
                                 </div>
@@ -804,7 +840,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
-                        <div class="set_bg_coor">
+                        <div class="set_bg_coor wow fadeInRight" data-wow-delay="200ms">
                             <img src="./img/think.png" class="img_radius" alt="">
                         </div>
                     </div>
@@ -820,14 +856,14 @@
     <div class="container-fluid mlmServices py-5 mb-5">
         <div class="container">
             <div class="text-center pb-5 wow fadeIn" data-wow-delay=".3s">
-                <h2 class="text-center">How do I choose the best MLM Software?</h2>
+                <h2 class="text-center text-primary">How do I choose the best MLM Software?</h2>
                 <h5 class="text-center">Selecting the optimal <a href="./mlm_plan.php" class="fw-bolder">multi-level
                         marketing
                         software</a>
                     hinges on various factors</h5>
             </div>
             <div class="row g-5 services-inner">
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                     <div class="services-item bg-light">
                         <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
@@ -847,7 +883,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".5s">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="400ms">
                     <div class="services-item bg-light">
                     <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
@@ -868,7 +904,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="600ms">
                     <div class="services-item bg-light">
                     <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
@@ -889,7 +925,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="700ms">
                     <div class="services-item bg-light">
                     <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
@@ -935,7 +971,8 @@
                 <div class="row">
                     <div class="col-12 col-lg-7 my-2 d-flex align-items-center">
                         <div class="head_gig">
-                            <h3>Is MLM gig software customizable?</h3>
+                      
+                            <h3 class="text-primary">Is MLM gig software customizable?</h3>
                             <p class="text-justify">Certainly, <a href="./index.php" class="fw-bolder">MLM software</a>
                                 can be tailored to suit the needs of your
                                 network marketing business. However, the extent of customization possible might differ
@@ -959,17 +996,17 @@
     <!-- Is MLM gig software customizable? end -->
     <!-- What is MLM migration? start -->
     <section>
-        <div class="container-fluid About__bg">
+        <div class="container-fluid About__bg py-3">
             <div class="container">
                 <div class="row">
                     <div class="col-12 order-2 order-lg-0 col-md-6 col-lg-5 d-flex ">
                         <div>
-                            <img src="./img/software.jpg" class="softwareHHome" alt="">
+                            <img src="./img/software1.png" class="softwareHHome" alt="">
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-7 d-flex align-items-center">
                         <div class="head_migration">
-                            <h3>What is MLM migration?</h3>
+                            <h3 class="text-primary">What is MLM migration?</h3>
                             <p class="text-justify">MLM migration involves moving an existing <a href="./mlm_plan.php"
                                     class="fw-bolder">multi-level marketing</a> company to a new software platform. Our
                                 MLM gig software demo provides a glimpse into how our platform can streamline and
@@ -988,7 +1025,7 @@
                 <div class="row">
                     <div class="col-12 col-lg-7 my-2 d-flex align-items-center">
                         <div class="head_gig">
-                            <h3>Does MLM Software integrate with other tools or systems?</h3>
+                            <h3 class="text-primary">Does MLM Software integrate with other tools or systems?</h3>
                             <p class="text-justify">Network marketing software integrates with other tools and systems,
                                 such as e-commerce platforms, CRM software, and payment gateways. MLM gig Software can
                                 be integrated with E-commerce, E-wallet, Cryptocurrency software, CRM integration,

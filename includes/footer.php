@@ -37,7 +37,7 @@
         <div class="row g-5">
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.8s">
                 <a href="index.php">
-                    <img src="./img/logo.png" width="150px" alt="">
+                    <img src="./img/logo.png" loading="lazy" width="150px" alt="">
                 </a>
                 <p class="mt-4 text_slate">We provide reliable MLM Software Development Solutions like <a href="./unilevel_plan.php" class="text-secondary">Single Leg MLM</a>,
                     <a href="./binary_plan.php" class="text-secondary">Binary MLM</a>, <a href="./matrix_plan.php"
@@ -107,7 +107,7 @@
     <div class="row">
         <div class="col-12">
             <div class="whatsfixed">
-                <a href="https://wa.me/9028388889" target="_blank"> <img src="./img/whats.png" height="40px"
+                <a href="https://wa.me/9028388889" target="_blank"> <img src="./img/whats.png" loading="lazy" height="40px"
                         width="40px" alt=""></a>
             </div>
         </div>
