@@ -2957,14 +2957,14 @@ fieldset:disabled .btn {
 
 .btn-secondary {
     color: #000;
-    background-color: #26d48c;
-    border-color: #26d48c
+    background-color: #007f01;
+    border-color: #007f01;
 }
 
 .btn-secondary:hover {
     color: #000;
-    background-color: #47da9d;
-    border-color: #3cd898
+    background-color: #006201;
+   
 }
 
 .btn-check:focus+.btn-secondary,
@@ -8041,7 +8041,8 @@ fieldset:disabled .btn {
 }
 
 .text-secondary {
-    color: #26d48c !important
+    color: #006201 !important;
+    font-weight: 800;
 }
 
 .text-success {

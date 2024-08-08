@@ -361,20 +361,20 @@
                 <div class="row my-4">
                     <div class="col-12 col-lg-6 my-4">
                         <div class="plan_des p-4">
-                        <h5 class="">Binary MLM Software</h5>
+                        <h5 class="text-primary">Binary MLM Software</h5>
                         <p class="text-justify">Revolutionize your MLM business with our cutting-edge software designed to effortlessly manage <a href="./binary_plan.php" title="clcik me" class="text-secondary" >binary networks</a>. From tracking downline incomes to monitoring expenditures and beyond, streamline your operations and maximize efficiency with ease.</p>
                         </div>
                     </div>
                    
                     <div class="col-12 col-lg-6 my-4">
                           <div class="plan_des p-4">
-                        <h5 class="">Matrix MLM Software</h5>
+                        <h5 class="text-primary">Matrix MLM Software</h5>
                         <p class="text-justify">Experience unparalleled efficiency with our cutting-edge web-based software tailored for <a href="./matrix_plan.php" class="text-secondary">Matrix MLM plans</a>. Seamlessly manage and monitor your network with precision, ensuring optimal performance and growth. Say goodbye to complexity and hello to streamlined success.</p>
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 my-4">
                           <div class="plan_des p-4">
-                        <h5 class="">Unilevel MLM Software</h5>
+                        <h5 class="text-primary">Unilevel MLM Software</h5>
                         <p class="text-justify"><a href="./unilevel_plan.php" title="click me" class="text-secondary">Unilevel MLM Software</a> is a versatile web-based application designed to streamline every aspect of implementing the renowned Unilevel compensation plan. From managing member networks to tracking commissions and sales, this software offers comprehensive solutions tailored to the specific needs of Unilevel MLM businesses. With intuitive features and seamless integration, it empowers businesses to efficiently navigate the complexities of the Unilevel model, driving growth and success.</p>
                         </div>
                     </div>

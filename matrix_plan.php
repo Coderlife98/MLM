@@ -138,7 +138,7 @@
     </section>
     <!-- Advantages and features of Matrix plan end -->
 <!-- last section matrix plan start -->
- <div class="container-fluid py-2 py-lg-5 set_bg_matrix_img">
+ <!-- <div class="container-fluid py-2 py-lg-5 set_bg_matrix_img">
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-5">
@@ -149,7 +149,7 @@
             </div>
         </div>
     </div>
- </div>
+ </div> -->
 <!-- last section matrix plan end -->
 
 

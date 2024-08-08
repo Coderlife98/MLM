@@ -63,7 +63,7 @@
     <!-- Try MLM Software Demo for Your MlM Plans End -->
 
     <!-- Why Choose MLM Gig for Your Web Development Needs? start -->
-    <section class="p-2 p-lg-5 set_matr_bg ">
+    <section class=" set_matr_bg ">
      <div class="container-fluid">
         <div class="container">
             <div class="row">
@@ -86,7 +86,7 @@
                 <div class="col-12 col-lg-8 py-2 order-2 order-lg-0 my-4 set-dotted_2 " data-wow-delay=".3s">
                     <div>
                         <h5 class="text-primary">User-Friendly Interfaces</h5>
-                        <p class="text-justify wow shake">A great website isn't just about aesthetics; it's also about functionality. Our designs focus on creating user-friendly interfaces that provide a seamless experience for your visitors. Easy navigation, quick load times, and mobile responsiveness are key elements we prioritize to ensure your clients have a positive experience on your site.</p>
+                        <p class="text-justify wow shake">A great website isn't just about aesthetics, it's also about functionality. Our designs focus on creating user-friendly interfaces that provide a seamless experience for your visitors. Easy navigation, quick load times, and mobile responsiveness are key elements we prioritize to ensure your clients have a positive experience on your site.</p>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 my-2 set-dotted_img  d-flex justify-content-center" data-wow-delay=".5s">
@@ -135,10 +135,13 @@
     <!-- Benefits of a Strong Online Presence start -->
 
 
-    <div class="container-fluid mlmServices py-5 mb-5">
+    <div class="container-fluid mlmServices py-5 ">
         <div class="container">
             <div class="text-center pb-5 wow fadeIn" data-wow-delay=".3s">
                 <h2 class="text-center text-primary">Benefits of a Strong Online Presence</h2>
+            <p class="text-center">
+            A strong online presence expands your reach, enables efficient marketing, boosts sales and revenue, and enhances credibility, ultimately fostering greater trust and engagement with your target audience.
+            </p>
                
             </div>
             <div class="row g-5 services-inner">
@@ -177,7 +180,7 @@
                               <div class="py-3">
                                 <h5>Efficient Marketing</h5>
                               </div>
-                              <p class="text-justify">Your website serves as a central hub for all your <a href="./digital.php" class="fw-bolder text-secondary">digital marketing</a> efforts. From social media integration to email marketing and online advertising, it allows you to efficiently manage and track your campaigns, driving better results.</p>
+                              <p class="text-justify">Your website serves as a central hub for all your <a href="./digital.php" class="fw-bolder text-black">digital marketing</a> efforts. From social media integration to email marketing and online advertising, it allows you to efficiently manage and track your campaigns, driving better results.</p>
                             </div>
                         </div>
                     </div>
@@ -227,17 +230,15 @@
         </div>
     </div>
 
-
-
     <!-- Benefits of a Strong Online Presence end -->
    <!-- Start Your Journey with MLM Gig start -->
-   <section class="p-2 p-lg-3 journey_bg">
+   <section class=" journey_bg">
     <div class="contaier-fluid">
         <div class="container">
             <div class="row wow fadeInUp" data-wow-delay=".3s" >
                 <div class="col-12 col-lg-8 my-2 d-flex align-items-center">
                     <div>
-                        <h4>Start Your Journey with MLM Gig</h4>
+                        <h4 class="text-primary">Start Your Journey with MLM Gig</h4>
                         <p class="text-justify">Ready to take your business to the next level? Partner with <a href="./mlm_plan.php" class="fw-bolder text-secondary">MLM Gig</a>, Patna’s top-rated web development company, and watch your online presence soar. Our comprehensive web development services are designed to help you attract more clients, boost sales, and achieve long-term success. <a href="./contact.php" class="fw-bolder">Contact us</a> today to get started on creating a custom website that truly represents your brand and drives your business forward.</p>
                     </div>
                 </div>

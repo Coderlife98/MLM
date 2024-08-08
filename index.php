@@ -10,7 +10,6 @@
     <meta
         content="Unleash the power of the ultimate MLM software provider in Patna and boost your sales like never before. Energize your team with top-notch solutions now!"
         name="description">
-
     <?php include ("./includes/link.php"); ?>
 </head>
 
@@ -45,10 +44,7 @@
                                 network marketing to improve your business and reach new levels of achievement. Gain a
                                 competitive edge and maximize your potential today.</p>
 
-                            <!-- <a href="./mlm_plan.php" class="ms-2 "><button type="button"
-                                    class="px-3 py-sm-2 px-sm-3 btn btn-primary rounded-pill carousel-content-btn2 animated fadeInRight">Mlm
-                                    Software</button></a> -->
-                            <h5 class="d-none d-lg-flex">Our Services</h5>
+                            <h5 class="d-none d-lg-flex">Our Plan</h5>
                             <div class="container">
                                 <div class="row" id="mobileNn">
                                     <div class="col-12 col-lg-4  my-2 px-0 wow fadeInUp" data-wow-delay="500ms">
@@ -156,7 +152,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeIn " data-wow-delay=".7s">
-                    <div class=" counter">
+                    <div class="d-flex flex-column align-items-center">
                         <img src="./img/target.png" width="60px" alt="">
                         <div class="d-flex">
                             <h2 class="counter-value">300</h2>
@@ -214,7 +210,7 @@
                                 of network marketing management, ensuring continuous growth and streamlined operations.
                                 Here’s why <a href="./mlm_plan.php" class="all_link_color">MLM gig Software</a> is the
                                 best choice for
-                                your business:</p>
+                                your business.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-5 my-2 d-flex justify-content-center">
@@ -416,7 +412,7 @@
                         <img src="./img/card/1.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Over 15 years of experience in the MLM software industry</h5>
+                        <h5 class="text-heddd2">Over 15 years of experience in the MLM software industry</h5>
                         <p>
                             With over 15 years in MLM software, we provide expert solutions, trusted technology, and
                             innovative tools for your business success.
@@ -431,7 +427,7 @@
                     </div>
                     <div class="box_drive set-pdd">
 
-                        <h5 class="text-heddd">Various MLM <br> Business Plan <br> Options</h5>
+                        <h5 class="text-heddd2">Various MLM <br> Business Plan <br> Options</h5>
                         <p>
                             Explore diverse MLM business plan options to find the perfect strategy that suits your
                             unique network marketing needs and goals.
@@ -445,7 +441,7 @@
                         <img src="./img/card/3.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Comprehensive Training on MLM Software Installation</h5>
+                        <h5 class="text-heddd2">Comprehensive Training on MLM Software Installation</h5>
                         <p>
 
                             We offer thorough training on MLM software installation, ensuring you understand every step
@@ -460,7 +456,7 @@
                         <img src="./img/card/4.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Secure and Reliable MLM <br> Software</h5>
+                        <h5 class="text-heddd2">Secure and Reliable MLM <br> Software</h5>
                         <p>
 
                             Our MLM software offers robust security and reliability, ensuring safe transactions and
@@ -475,7 +471,7 @@
                         <img src="./img/card/5.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Expert Development Team</h5>
+                        <h5 class="text-heddd2">Expert Development Team</h5>
                         <p>
                             Our expert development team delivers innovative solutions with precision, ensuring top-notch
                             quality tailored to your unique needs and goals.
@@ -489,7 +485,7 @@
                         <img src="./img/card/6.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Simple <br> Customization</h5>
+                        <h5 class="text-heddd2">Simple <br> Customization</h5>
                         <p>
 
                             Our software offers simple customization options, allowing you to tailor features and
@@ -505,7 +501,7 @@
                         <img src="./img/card/7.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Global User <br> Base</h5>
+                        <h5 class="text-heddd2">Global User <br> Base</h5>
                         <p>
 
                             Our software supports a global user base, seamlessly integrating with diverse markets and
@@ -520,7 +516,7 @@
                         <img src="./img/card/8.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Dependable and Robust Platform</h5>
+                        <h5 class="text-heddd2">Dependable and Robust Platform</h5>
                         <p>
 
                             Our platform offers reliability and strength, ensuring consistent performance and stability
@@ -535,7 +531,7 @@
                         <img src="./img/card/9.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Stable and Scalable Solutions</h5>
+                        <h5 class="text-heddd2">Stable and Scalable Solutions</h5>
                         <p>
 
                             Discover solutions that offer both stability and scalability, ensuring your business can
@@ -550,7 +546,7 @@
                         <img src="./img/card/10.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">User-Friendly Interface</h5>
+                        <h5 class="text-heddd2">User-Friendly Interface</h5>
                         <p>
 
                             A user-friendly interface ensures effortless navigation and smooth interactions, making your
@@ -565,7 +561,7 @@
                         <img src="./img/card/11.jpg" class="w-100 objectCoverImg " loading="lazy" height="200px" alt="">
                     </div>
                     <div class="box_drive p-3">
-                        <h5 class="text-heddd">Utilizes the Latest Technologies</h5>
+                        <h5 class="text-heddd2">Utilizes the Latest Technologies</h5>
                         <p>
 
                             Our software leverages the latest technologies to ensure high performance, security, and
@@ -607,7 +603,7 @@
                     </div>
                    </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center text-white">Accurately monitor and calculate commissions for each
+                        <p class="mb-0 text-center ">Accurately monitor and calculate commissions for each
                             member using real-time data, detailed reports, automated calculations, and customizable
                             settings.</p>
                     </div>
@@ -622,7 +618,7 @@
                         </div>
                     </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center text-white"> Maintain comprehensive records of member hierarchies and
+                        <p class="mb-0 text-center "> Maintain comprehensive records of member hierarchies and
                             relationships, enabling clear visualization of network structures, tracking lineage,
                             ensuring accurate placement, and facilitating seamless management of multi-level marketing
                             team dynamics.
@@ -641,7 +637,7 @@
                         </div>
                     </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center text-white">
+                        <p class="mb-0 text-center ">
                         Generate detailed performance and business insights reports to analyze metrics, track growth, and identify trends. These reports facilitate strategic decision-making and optimize business operations.</p>
                     </div>
                 </div>
@@ -656,7 +652,7 @@
                         </div>
                     </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center text-white">
+                        <p class="mb-0 text-center ">
                         Seamless integration with e-commerce platforms optimizes sales processes, enhances transaction efficiency, and streamlines order management, leading to a more fluid and effective online retail experience.</p>
                     </div>
                 </div>
@@ -671,7 +667,7 @@
                         </div>
                     </div>
                     <div class="  mt-4 pt-3">
-                        <p class="mb-0 text-center text-white">Efficiently manage member data and activities by utilizing integrated tools for tracking performance, streamlining communications, and automating tasks, ensuring seamless operations and enhanced productivity.</p>
+                        <p class="mb-0 text-center ">Efficiently manage member data and activities by utilizing integrated tools for tracking performance, streamlining communications, and automating tasks, ensuring seamless operations and enhanced productivity.</p>
                     </div>
                 </div>
                 <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="1500ms">
@@ -685,7 +681,7 @@
                         </div>
                     </div>
                     <div class=" mt-4 pt-3">
-                        <p class="mb-0 text-center text-white">
+                        <p class="mb-0 text-center ">
                             Marketing tools accurately monitor and calculate commissions for each member, ensuring
                             transparent, precise tracking, and fostering trust within your multi-level marketing
                             network.</p>
@@ -741,7 +737,7 @@
 
                     <div class="faqs-container">
                         <div class="faq active">
-                            <h5 class="faq-title">
+                            <h5 class="faq-title text-primary">
                                 What is MLM software?
                             </h5>
                             <p class="faq-text">
@@ -757,7 +753,7 @@
                         </div>
 
                         <div class="faq">
-                            <h5 class="faq-title">
+                            <h5 class="faq-title text-primary">
                                 How much does MLM Software cost?
                             </h5>
                             <p class="faq-text">
@@ -775,12 +771,10 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
     <!-- faq end -->
-
 
 
     <!-- can i started section start -->
@@ -870,7 +864,6 @@
                               <div class="d-flex justify-content-center align-items-center">
                               <div class=" rotateBox p-2 ">
                                 </div>
-
                                 <div class="img-rotate d-flex justify-content-center align-items-center">
                                     <img src="./img/business_growth.png" width="70px" alt="@dued">
                                 </div>
@@ -950,15 +943,6 @@
         </div>
     </div>
     <!-- How do I choose the best MLM Software? End -->
-
-
-
-
-
-
-
-
-
 
 
 

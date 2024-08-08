@@ -70,7 +70,7 @@
         <div class="container-fluid fffffbg">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-6 my-2 d-flex align-items-center">
+                    <div class="col-12 col-md-6 my-2 d-flex align-items-center wow fadeInLeft" data-wow-delay="250ms">
                         <div>
                             <h2 class="text-primary">What is Binary MLM Plan?</h2>
                             <p class="text-justify">The <a href="./binary_plan.php" class="fw-bolder">Binary MLM
@@ -81,7 +81,7 @@
                                 fosters teamwork and collaboration.</p>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 my-2 d-flex justify-content-center">
+                    <div class="col-12 col-md-6 my-2 d-flex justify-content-center wow fadeInRight" data-wow-delay="300ms">
                         <div>
                             <img src="./img/binary.png" loading="lazy" alt="@dued">
                         </div>
@@ -93,7 +93,7 @@
     <!-- What is Binary MLM Plan? end -->
     <!-- Remarkable Surprising Secrets of MLM Gig Software with Binary MLM Plan start -->
     <section>
-        <div class="container-fluid p-2 p-lg-5 set_remark_bg">
+        <div class="container-fluid p-2 p-lg-5 set_remark_bg wow fadeInUp" data-wow-delay="250ms">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -115,12 +115,12 @@
         <div class="container-fluid py-2 py-lg-5 fffffbg">
             <div class="container py-3">
                 <div class="row">
-                    <div class="col-12 col-md-5 my-2 smaboutimg">
+                    <div class="col-12 col-md-5 my-2 wow fadeInUp smaboutimg" data-wow-delay="250ms">
                         <div>
                             <img src="./img/Binary_stru.png" loading="lazy" alt="@dued">
                         </div>
                     </div>
-                    <div class="col-12 col-md-7 my-2 d-flex align-items-center">
+                    <div class="col-12 col-md-7 my-2 d-flex align-items-center wow fadeInUp" data-wow-delay="250ms">
                         <div>
                             <h3 class="text-primary">Structure of Binary MLM Plan</h3>
                             <p class="text-justify">
@@ -142,7 +142,7 @@
         <div class="container-fluid py-4 py-lg-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-7 order-2 order-md-0 my-2 d-flex align-items-center">
+                    <div class="col-12 col-md-7 order-2 order-md-0 wow fadeInUp my-2 d-flex align-items-center" data-wow-delay="300ms">
                         <div>
                             <h3 class="text-primary">Working of Binary MLM Plan</h3>
                             <p class="text-justify">
@@ -174,7 +174,7 @@
                 </h3>
             </div>
             <div class="row g-5 services-inner">
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay=".3s">
                     <div class="services-item bg-light">
                         <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
@@ -197,7 +197,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".7s">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay=".7s">
                     <div class="services-item bg-light">
                         <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
@@ -220,7 +220,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay=".3s">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay=".3s">
                     <div class="services-item bg-light">
                         <div class="p-4 text-center services-content">
                             <div class="services-content-icon">

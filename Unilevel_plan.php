@@ -99,7 +99,7 @@
                     </div>
                     <div class="col-12 col-lg-7 my-2 wow zoomIn" data-wow-delay="0.8">
                         <div>
-                            <h3 class="border_bb text-primary">Advantages of Unilevel plan</h3>
+                            <h3 class="border_b text-primary">Advantages of Unilevel plan</h3>
                             <p class="text-justify">Embark on your journey to earning commissions with the Unilevel
                                 Compensation plan, where simplicity meets opportunity. Unlike other compensation plans,
                                 the Unilevel plan demands only a minimal personal volume to kickstart your earnings,

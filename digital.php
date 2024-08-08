@@ -134,7 +134,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h3 class="text-center text-primary animiiiHead">Why Choose MLM Gig?</h3>
+                        <h3 class="text-center text-primary animiiiHead wow fadeInUp" data-wow-delay="300ms">Why Choose MLM Gig?</h3>
                         <p class="text-center"><a href="./mlm_plan.php" class="text-secondary">MLM Gig</a> is renowned
                             for its comprehensive and customized digital marketing solutions designed to meet the unique
                             needs of every business. Here are some compelling reasons why <a href="./mlm_plan.php"
@@ -143,7 +143,7 @@
                 </div>
 
                 <div class="row">
-                <div class="col-12 col-md-6 col-lg-4 ">
+                <div class="col-12 col-md-6 col-lg-4 wow fadeInLeft" data-wow-delay="200ms">
                         <div class="appclick p-4">
                             <h5 class="text-info">Proven Track Record</h5>
                             <p class="text-justify">
@@ -181,7 +181,7 @@
                         </div>
                     </div>
                   
-                    <div class="col-12 col-md-6 col-lg-4  ">
+                    <div class="col-12 col-md-6 col-lg-4 wow fadeInUp " data-wow-delay="200ms">
                         <div class="appclick p-4">
                             <h5 class="text-info">Tailored Marketing Plans</h5>
                             <p class="text-justify">
@@ -220,7 +220,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4 ">
+                    <div class="col-12 col-md-6 col-lg-4 wow fadeInRight" data-wow-delay="300ms">
                         <div class="appclick p-4">
                             <h5 class="text-info">Cutting-Edge Tools and Technologies</h5>
                             <p class="text-justify">
@@ -258,7 +258,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4  my-4 ">
+                    <div class="col-12 col-md-6 col-lg-4  my-4 wow fadeInRight" data-wow-delay="200ms">
                         <div class="appclick p-4">
                             <h5 class="text-info">Expertise in Diverse Digital Marketing Strategies</h5>
                             <p class="text-justify">
@@ -305,7 +305,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h4 class="fw-bolder text-center text-primary">Services Offered by MLM Gig</h4>
+                    <h4 class="fw-bolder text-center text-primary wow fadeInUp" data-wow-delay="300ms">Services Offered by MLM Gig</h4>
                     <p class="text-center py-3">
                         MLM Gig offers a comprehensive suite of services including SEO to boost your online visibility,
                         SMM for engaging social media campaigns, PPC for targeted ads, content marketing to drive
@@ -314,7 +314,7 @@
                 </div>
             </div>
             <div class="row my-4">
-                <div class="col-12 col-md-6 col-lg-4 my-3 sm_flex position-relative" id="lgMarginsm">
+                <div class="col-12 col-md-6 col-lg-4 my-3 sm_flex position-relative wow fadeInLeft" data-wow-delay="350ms" id="lgMarginsm">
 
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
@@ -332,7 +332,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 my-3 sm_flex position-relative" id="lgMarginsm">
+                <div class="col-12 col-md-6 col-lg-4 my-3 sm_flex position-relative wow fadeInUp" data-wow-delay="300ms" id="lgMarginsm">
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
                             <img src="./img/socialsm.png" height="60px" loading="lazy" alt="@dued">
@@ -347,7 +347,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 my-3 sm_flex position-relative" id="lgMarginsm">
+                <div class="col-12 col-md-6 col-lg-4 my-3 wow fadeInRight sm_flex position-relative" id="lgMarginsm" data-wow-delay="350ms">
 
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
@@ -362,7 +362,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4  sm_flex position-relative" id="lgMargin">
+                <div class="col-12 col-md-6 col-lg-4 wow fadeInLeft sm_flex position-relative" id="lgMargin" data-wow-delay="350ms">
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
                             <img src="./img/cc.png" height="60px" loading="lazy" alt="@dued">
@@ -377,7 +377,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4  sm_flex position-relative" id="lgMargin">
+                <div class="col-12 col-md-6 col-lg-4 wow fadeInUp  sm_flex position-relative" id="lgMargin" data-wow-delay="250ms">
                     <div class="new_look p-4">
                         <div class="imgBorderRounded">
                             <img src="./img/email.png" height="60px" loading="lazy" alt="@dued">
@@ -400,7 +400,7 @@
         <div class="container-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 wow fadeInUp" data-wow-delay="300ms">
                         <!-- <div class="add_curve">
 
                     </div> -->
@@ -412,7 +412,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-12 col-lg-12 p-2 my-3 set_color ">
+                    <div class="col-12 col-lg-12 p-2 my-3 set_color wow fadeInUp" data-wow-delay="150ms">
                         <div class="lg_flex">
                             <div class="color lg_center">
                                 <img src="./img/increase.png" width="55px" loading="lazy" height="55px" alt="@dued">
@@ -424,7 +424,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-12 p-2 my-3 set_color ">
+                    <div class="col-12 col-lg-12 p-2 my-3 set_color wow fadeInUp" data-wow-delay="150ms">
                         <div class="lg_flex">
                             <div class="color lg_center">
                                 <img src="./img/enhance.png" width="55px" loading="lazy" height="55px" alt="@dued">
@@ -436,7 +436,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-12 p-2 my-3 set_color ">
+                    <div class="col-12 col-lg-12 p-2 my-3 set_color wow fadeInUp" data-wow-delay="150ms">
                         <div class="lg_flex">
                             <div class="color lg_center">
                                 <img src="./img/improve.png" width="55px" loading="lazy" height="55px" alt="@dued">
@@ -448,7 +448,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-12 p-2 my-3 set_color ">
+                    <div class="col-12 col-lg-12 p-2 my-3 set_color wow fadeInUp" data-wow-delay="150ms">
                         <div class="lg_flex">
                             <div class="color lg_center">
                                 <img src="./img/roi.png" width="55px" loading="lazy" height="55px" alt="@dued">
@@ -466,11 +466,14 @@
     </section>
     <!-- How MLM Gig Can Transform Your Business? end -->
     <!-- conclusion start-->
-    <div class="container-fluid py-2 py-lg-5">
+    <div class="container-fluid py-2 ">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <p class="text-center">
+                    <h4 class="text-primary">
+                    Boost Your Business Growth with Patna's Top Digital Marketing Agency, MLM Gig
+                    </h4>
+                    <p class="text-justify">
                         In today's competitive market, having a strong digital presence is essential for business
                         growth. <a href="./mlm_plan.php" class="text-secondary">MLM Gig</a>, Patna's top digital
                         marketing agency, provides the expertise, tools, and strategies you need to attract more leads

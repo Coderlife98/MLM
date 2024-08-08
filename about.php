@@ -22,7 +22,7 @@
 
     <!-- Page Header Start -->
     <div class="container-fluid px-0 position-relative">
-        <img src="./img/about_us.png" loading="lazy" alt="" style="width:100%">
+        <img src="./img/about_us.png" loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">About Us</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -115,12 +115,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 wow fadeInLeft py-4 py-md-0" data-wow-delay="0.2">
-                    <h5 class="text-summary  text-center">Quality Applications</h5>
+                        <h5 class="text-summary  text-center">Quality Applications</h5>
                         <h3 class="text-primary text-center"> Quality Policy : &quot;Deliver Best Solution In Given Time
                             Frame.&quot;</h3>
                     </div>
                     <div class="col-12 my-1 wow fadeInRight" data-wow-delay="0.5">
-                       
+
                         <p class="text-justify text-lg-center">Our applications are developed using the highest
                             standards in applications development.
                             Stringent quality control Measures and quality tests ensures that the applications are at of
@@ -130,53 +130,93 @@
                             of the Internet, new aspects may emerge. For typical commercial Websites, the basic aspects
                             of design are:</p>
                     </div>
+<!-- 11111111111111111111111 -->
+                    <div class="col-12 my-3 d-lg-flex">
+                        <div class="col-12 col-lg-5 my-3">
+                            <div class="p-3 pdfde d-flex justify-content-center">
+                                <img src="./img/con1.jpg" height="320px" loading="lazy" alt="@dued">
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-7 my-3 d-flex align-items-center">
+                            <div class="leftPdf p-md-4 d-flex align-items-center">
+                                <div>
+                                    <h4 class="text-primary">Content</h4>
+                                    <p class="my-3 text-justify">
 
+                                        The content and information on the website must be highly relevant and tailored
+                                        to the target audience's needs and interests, aligning with the business
+                                        objectives the site aims to fulfill. It's essential to ensure that every piece
+                                        of content, from blog posts to product descriptions, resonates with potential
+                                        customers and addresses their specific concerns and desires. This targeted
+                                        approach not only enhances user engagement but also boosts search engine
+                                        rankings, driving more organic traffic. Incorporating keywords naturally,
+                                        providing valuable insights, and maintaining a user-friendly design are critical
+                                        components. Regular updates and quality assurance are necessary to keep the
+                                        website current and authoritative in its niche.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 2222222222222222222222222222222 -->
+                    <div class="col-12 my-3  order-2 order-lg-0 d-lg-flex">
+                    <div class="col-12 col-lg-7 my-3 d-flex align-items-center">
+                            <div class=" rightPdf p-md-4 d-flex align-items-center">
+                                <div>
+                                    <h4 class="text-primary">Usability</h4>
+                                    <p class="my-3 text-justify">
+                                    The site must be user-friendly, featuring a simple and reliable interface and navigation to ensure ease of use for all visitors. It should be intuitive, allowing users to find information quickly and effortlessly. A clean, uncluttered design with consistent layout and clear calls to action enhances usability. Accessibility features should be integrated to support users with disabilities, ensuring inclusivity. Fast loading times, responsive design for various devices, and a logical structure further contribute to a positive user experience. Regular updates and maintenance keep the site secure and functional. Overall, a user-centric approach prioritizes the needs and satisfaction of all visitors.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-5 my-3 d-flex justify-content-center">
+                            <div class="p-3 pdfde d-flex justify-content-center">
+                                <img src="./img/con3.jpg" height="320px" loading="lazy" alt="@dued">
+                            </div>
+                        </div>
+                       
+                    </div>
+                    <!-- 333333333333333333333333333333333333333333 -->
+                    <div class="col-12 my-3 d-lg-flex">
+                        <div class="col-12 col-lg-5 my-3">
+                            <div class="p-3 pdfde d-flex justify-content-center">
+                                <img src="./img/con2.jpg" height="320px" loading="lazy" alt="@dued">
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-7 my-3 d-flex align-items-center">
+                            <div class="leftPdf p-md-4 d-flex align-items-center">
+                                <div>
+                                    <h4 class="text-primary">Appearance</h4>
+                                    <p class="my-3 text-justify">
+                                    Ensuring that graphics and text are consistent throughout a website or document is crucial for creating a cohesive and professional appearance. This consistency should encompass fonts, colors, image styles, and layout structures. A unified design helps in reinforcing brand identity and enhances readability. The style should be professional, appealing, and relevant to the target audience, reflecting the brand’s values and message. Visual elements should complement the text, not overpower it, and should be strategically placed to guide the reader's attention. Consistent use of design elements fosters familiarity and trust, making the content more engaging and memorable. This approach enhances user experience and supports effective communication.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 444444444444444444444444444 -->
+                    <div class="col-12 my-3 d-lg-flex">
+                    <div class="col-12 col-lg-7 my-3 d-flex align-items-center">
+                            <div class=" rightPdf p-md-4  d-flex align-items-center">
+                                <div>
+                                    <h4 class="text-primary">Visibility</h4>
+                                    <p class="my-3 text-justify">
+                                    MLM Gig offers bespoke solutions tailored to any industry, significantly enhancing productivity and accessibility from any device, anywhere in the world. Our platform is designed to streamline operations, facilitate seamless communication, and support robust data management. By leveraging advanced technology, MLM Gig ensures that your team can collaborate efficiently, access vital information in real-time, and make informed decisions promptly. Whether you’re in retail, healthcare, finance, or any other sector, our customizable solutions are built to meet your unique needs, driving growth and success. Trust MLM Gig to provide the tools and support necessary for your business to thrive in a global market.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-5 my-3 d-flex justify-content-center">
+                            <div class="p-3 pdfde d-flex justify-content-center">
+                                <img src="./img/con4.jpg" height="320px" loading="lazy" alt="@dued">
+                            </div>
+                        </div>
+                       
+                    </div>
 
-                <div class="col-12 col-md-4 my-3">
-                    <div class="newHover">
-                       <div class="d-flex justify-content-center ">
-                        <img src="./img/con1.jpg" loading="lazy" class="suuyy" alt="@dued">
-                       </div>
-                       <div class=" p-3 contentAArea">
-                        <h5 class="text-center text-heddd">Content</h5>
-                        <p class="text-center text-white">The substances and information on the site should be relevant to the website and should target the public around the business needs that the website is concerned with.</p>
-                       </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 my-3">
-                    <div class="newHover">
-                       <div class="d-flex justify-content-center">
-                        <img src="./img/con2.jpg" loading="lazy" class="suuyy" alt="@dued">
-                       </div>
-                       <div class="p-3 contentAArea">
-                        <h5 class="text-center text-heddd">Usability</h5>
-                        <p class="text-center text-white">
-                        The site must be user-friendly, featuring a simple and reliable interface and navigation to ensure ease of use for all visitors.</p>
-                       </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 my-3">
-                    <div class="newHover">
-                       <div class="d-flex justify-content-center ">
-                        <img src="./img/con3.jpg" loading="lazy" class="suuyy" alt="@dued">
-                       </div>
-                       <div class="p-3 contentAArea">
-                        <h5 class="text-center text-heddd">Appearance</h5>
-                        <p class="text-center text-white">The graphics and text should be consistent and include a single style that flows throughout. The style should be professional, appealing and relevant.</p>
-                       </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 my-3">
-                    <div class="newHover">
-                       <div class="d-flex justify-content-center ">
-                        <img src="./img/con4.jpg" loading="lazy" class="suuyy" alt="@dued">
-                       </div>
-                       <div class="p-3 contentAArea">
-                        <h5 class="text-center text-heddd">Visibility</h5>
-                        <p class="text-center text-white">MLM Gig customizes solutions for any industry, enhancing productivity and accessibility from any device globally.</p>
-                       </div>
-                    </div>
-                </div>
+                   
+                
 
                 </div>
             </div>
@@ -194,8 +234,10 @@
                             <h3 class="text-info">Technologies, we work on</h3>
                             <p><a href="./index.php" class="fw-bolder">Mlmgig</a> is not specifically tied down to any
                                 specific technology, as we offer end-to-end solutions based on technologies that are the
-                                most appropriate to our clients. Currently, Mlmgig is working on <b class="fw-bolder text-dark">PHP, </b><b class="fw-bolder text-dark">Microsoft .NET, </b><b class="fw-bolder text-dark">MS
-                                SQL</b> the present generation of web services based programming platforms.</p>
+                                most appropriate to our clients. Currently, Mlmgig is working on <b
+                                    class="fw-bolder text-dark">PHP, </b><b class="fw-bolder text-dark">Microsoft .NET,
+                                </b><b class="fw-bolder text-dark">MS
+                                    SQL</b> the present generation of web services based programming platforms.</p>
                         </div>
                         <div class="imgaeWrapperstart">
                             <div class="col-12 d-md-flex">
@@ -234,7 +276,7 @@
                                         <img src="./img/techno8.png" loading="lazy" width="70px" alt="@dued">
                                     </div>
                                 </div>
-                               
+
                             </div>
                         </div>
                     </div>
@@ -256,6 +298,5 @@
     <?php include ("./includes/script.php"); ?>
 
 </body>
-
 
 </html>

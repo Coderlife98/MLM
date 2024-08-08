@@ -43,7 +43,7 @@
             <div class="row g-5">
                 <div class="col-lg-5 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay=".3s">
                     <div>
-                        <img src="./img/helping.png" class="caller_img" alt="">
+                        <img src="./img/helping.png" class="caller_img" width="350px" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6 col-sm-12 wow fadeInUp d-flex flex-column justify-content-center"

@@ -52,37 +52,37 @@
                                     <h2 class="text-white mb-2">Get in <span class="text-info">Touch.</span></h2>
                                     <p>We'd love to hear from you! Whether you have a question, feedback, or need
                                         support,
-                                        our team is here to help. Please reach out to us via email a</p>
+                                        our team is here to help. Please reach out to us via email.</p>
                                 </div>
                                 <div class="alldetails">
                                     <div class="d-flex py-2">
                                         <div class="icon-map">
-                                            <i class="fas fa-map-marker-alt dudecontact text-secondary me-2"></i>
+                                            <i class="fas fa-map-marker-alt dudecontact text-secondary22 me-2"></i>
                                         </div>
                                         <div class="address">
                                             <h4 class="text-white">Office Address</h4>
-                                            <p class="text-secondary">Janki Market, Bhagwat nagar Chauraha
+                                            <p class="text-secondary22">Janki Market, Bhagwat nagar Chauraha
                                                 Bhagwat Nagar, Kumhrar, Patna - 800026.
                                                 Landmark:- Near Singh Cement</p>
                                         </div>
                                     </div>
                                     <div class="d-flex ">
                                         <div class="icon-map">
-                                            <i class="fas fa-phone-alt dudecontact text-secondary me-2"></i>
+                                            <i class="fas fa-phone-alt dudecontact text-secondary22 me-2"></i>
                                         </div>
                                         <div class="address">
                                             <h4 class="text-white">Call Us</h4>
-                                            <a href="tel:+91 9570444888" class="text-secondary">+91 9570444888</a>
+                                            <a href="tel:+91 9570444888" class="text-secondary22">+91 9570444888</a>
                                         </div>
                                     </div>
                                     <div class="d-flex py-2">
                                         <div class="icon-map">
-                                            <i class="fas fa-envelope  dudecontact text-secondary me-2"></i>
+                                            <i class="fas fa-envelope  dudecontact text-secondary22 me-2"></i>
                                         </div>
                                         <div class="address">
                                             <h4 class="text-white">Mail Us</h4>
                                             <a href="mailto:mlmgigsoftware@gmail.com"
-                                                class="text-secondary">mlmgigsoftware@gmail.com</a>
+                                                class="text-secondary22">mlmgigsoftware@gmail.com</a>
                                         </div>
                                     </div>
                                 </div>
@@ -129,7 +129,7 @@
                                     </div>
                                 </div>
                                 <div class="mb-4 add_borrrrr">
-                                    <input type="text" id="numinput" placeholder="Enter Captcha Here"
+                                    <input type="text" id="numinput" oninput="this.value = this.value.toUpperCase().replace(/[^0-9]/g, '').replace(/(\  *?)\  */g, '$1')"  placeholder="Enter Captcha Here"
                                         class="form-control input-transparent border-0 py-2set-sum " />
                                     <!-- onkeyup="myFunction()" -->
                                 </div>

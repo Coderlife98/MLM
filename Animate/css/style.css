@@ -687,7 +687,7 @@
     }
 
     .testimonial-carousel .owl-item.center .testiCard {
-        background-image: url("../../img/test2.png");
+        /* background-image: url("../../img/test2.png"); */
         background-position: center;
         /* box-shadow: 0 0 30px #DDDDDD; */
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -778,8 +778,12 @@
     }
 
     .dued-up:hover {
-        background-color: #007f01 !important;
-        border: 1px dotted black;
+        background-color: red !important;
+        /* border: 1px dotted black; */
+    }
+
+    .dued-up:hover i{
+        color: white!important;
     }
 
 
@@ -890,8 +894,16 @@
         color: #007f01;
     }
 
+    .text-secondary22{
+        color:#69e36b;
+    }
+
     .text-heddd {
-        color: #00ff6e;
+        color: #007f01;
+    }
+
+    .text-heddd2 {
+        color: #6cdf6d;
     }
 
     .descri {
@@ -901,12 +913,14 @@
     .box {
         border-radius: 15px;
         height: 240px;
-        border: 0.5px solid black;
+        border: 0.5px solid #00000052;
         transition: 0.9s;
     }
 
     .box:hover {
         background: #f7f7f7;
+        transform: translateY(-10px);
+        border: 0.5px solid #000000;
     }
 
     .box:hover .set_bg_img {
@@ -925,7 +939,7 @@
         margin: 5px 0px;
     }
 
-  
+
 
     .image-container img {
         position: relative;
@@ -948,14 +962,6 @@
         box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     }
 
-    .newHover {
-        max-height: 250px;
-        background-color: #2c2ca1;
-        transition: min-height 0.3s ease-in-out;
-        position: relative;
-        border-radius: 10px 10px 0px 0px;
-        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    }
 
 
 
@@ -1341,7 +1347,7 @@
     }
 
     .faq.active {
-        background-color: #dce4f6;
+        background-color: #f7f7f7;
         box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
     }
 
@@ -1400,9 +1406,7 @@
         outline: none;
     }
 
-    .faq.active .faq-toggle {
-        /* background-color: #9FA4A8; */
-    }
+
 
     .faq-toggle .fa-times {
         display: none;
@@ -1542,8 +1546,12 @@
         border-radius: 50%;
     }
 
-    .set_transform {
-        /* background-color: #000000; */
+    #iconNavg {
+        transition: all 0.9s;
+    }
+
+    #iconNavg:hover {
+        transform: translateY(-5px);
     }
 
     .set_color {
@@ -1588,7 +1596,7 @@
         height: 70px;
         width: 70px;
         padding: 8px;
-        background-color: #5500ff;
+        background-color: #3744d685;
         border-radius: 50px;
     }
 
@@ -1617,7 +1625,7 @@
 
     /* mlm plan start */
     .mlm_plan_bg {
-        
+
         color: black;
     }
 
@@ -1672,14 +1680,21 @@
 
 
     .plan_des {
-        border-left: 2px solid #3ebdf2;
+        border-left: 2px solid #005018;
         border-top-left-radius: 15px;
-        border-top: 1px solid #f76dff;
-        border-right: 1px solid #f76dff;
+        border-top: 1px solid #005018;
+        border-right: 1px solid #005018;
         border-bottom-left-radius: 0px;
-        border-bottom: 1px solid #f76dff;
+        border-bottom: 1px solid #005018;
         border-bottom-right-radius: 15px;
         transition: 0.9s;
+    }
+
+    .text-sny {
+        color: #9ab1f1;
+    }
+    .text-sny:hover {
+        color: #07b3ff !important;
     }
 
     .plan_des:hover {
@@ -1688,7 +1703,7 @@
         border-bottom-left-radius: 20px;
         border-top-right-radius: 20px;
         border-radius: 0px;
-        border-left: 1px solid #f76dff;
+        border-left: 1px solid #000000;
 
     }
 
@@ -1706,8 +1721,10 @@
 
     #btnEffectt {
         transition: all 0.9s;
-        filter: drop-shadow(8px 8px 2px #000000);
+        /* filter: drop-shadow(8px 8px 2px #000000); */
     }
+
+
 
     #btnEffectt:hover {
         filter: none;
@@ -1729,7 +1746,8 @@
     }
 
     #paddt {
-        color: #2c2ca1;
+        color: #0930dd;
+        /* color: #2c2ca1; */
     }
 
     .objectCoverImg {
@@ -1757,7 +1775,7 @@
         animation: arrtt 2.5s linear infinite;
     }
 
-  
+
 
     @keyframes arrtt {
         0% {
@@ -1820,7 +1838,8 @@
 
 
         }
-        .jeyidea{
+
+        .jeyidea {
             display: none;
         }
 
@@ -1958,30 +1977,26 @@
             margin-top: 65px !important;
         }
 
-        .newHover {
-            max-height: 382px;
-            background-color: #2c2ca1;
-            transition: min-height 0.3s ease-in-out;
-            position: relative;
-            border-radius: 10px 10px 0px 0px;
-            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-        }
+
         .box_drive {
             background-color: #2c2ca1;
             color: white;
             height: 200px;
             text-align: center;
             border-radius: 0px 0px 15px 15px;
-    
+
         }
+
         .movementArrowww {
-          display: none;
+            display: none;
         }
+
         .testiCard {
             height: 350px;
-            background-image: url("../../img/testiBox.png");
-            background-color: #000000;
+            /* background-image: url("../../img/testiBox.png"); */
+            /* background-color: #000000; */
             border-radius: 10px;
+            border: 0.5px solid rgba(0, 0, 0, 0.473) !important;
         }
 
     }
@@ -2002,8 +2017,9 @@
         .sm_none {
             display: none;
         }
+
         .movementArrowww {
-          display: none;
+            display: none;
         }
 
         .ho-img1 {
@@ -2013,7 +2029,8 @@
         .dued_why {
             width: 350px;
         }
-        .jeyidea{
+
+        .jeyidea {
             display: none;
         }
 
@@ -2067,27 +2084,23 @@
             border-right: none;
         }
 
-        .newHover {
-            max-height: 382px;
-            background-color: #2c2ca1;
-            transition: min-height 0.3s ease-in-out;
-            position: relative;
-            border-radius: 10px 10px 0px 0px;
-            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-        }
+
         .box_drive {
             background-color: #2c2ca1;
             color: white;
             height: 200px;
             text-align: center;
             border-radius: 0px 0px 15px 15px;
-    
+
         }
+
         .testiCard {
             height: 350px;
-            background-image: url("../../img/testiBox.png");
-            background-color: #000000;
+            /* background-image: url("../../img/testiBox.png"); */
+            /* background-color: #000000; */
             border-radius: 10px;
+            border: 0.5px solid rgba(0, 0, 0, 0.308) !important;
+            margin: 0px 4px;
         }
     }
 
@@ -2107,16 +2120,19 @@
         .lg_center {
             display: none;
         }
-        .jeyidea{
+
+        .jeyidea {
             display: none;
         }
+
         .exp-img {
             width: 300px;
         }
 
         .movementArrowww {
-           display: none;
+            display: none;
         }
+
         .box_drive {
             background-color: #2c2ca1;
             color: white;
@@ -2174,28 +2190,22 @@
             border-right: none;
         }
 
-        .newHover {
-            max-height: 382px;
-            background-color: #2c2ca1;
-            transition: min-height 0.3s ease-in-out;
-            position: relative;
-            border-radius: 10px 10px 0px 0px;
-            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-        }
         .box_drive {
             background-color: #2c2ca1;
             color: white;
             height: 200px;
             text-align: center;
             border-radius: 0px 0px 15px 15px;
-    
+
         }
 
         .testiCard {
             height: 350px;
-            background-image: url("../../img/testiBox.png");
-            background-color: #000000;
+            /* background-image: url("../../img/testiBox.png"); */
+            /* background-color: #000000; */
             border-radius: 10px;
+            border: 0.5px solid rgba(0, 0, 0, 0.473) !important;
+            margin: 0px 4px;
         }
     }
 
@@ -2215,9 +2225,11 @@
         .unilevel-img {
             width: 350px;
         }
-        .jeyidea{
+
+        .jeyidea {
             display: none;
         }
+
         .counter {
             display: flex;
             flex-direction: column;
@@ -2225,8 +2237,9 @@
             align-items: center;
             border-right: none;
         }
+
         .movementArrowww {
-          display: none;
+            display: none;
         }
 
         .display-2 {
@@ -2252,27 +2265,27 @@
             z-index: -10000 !important;
         }
 
-        .newHover {
-            max-height: 382px;
-            background-color: #2c2ca1;
-            transition: min-height 0.3s ease-in-out;
-            position: relative;
-            border-radius: 10px 10px 0px 0px;
-            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-        }
+
         .box_drive {
             background-color: #2c2ca1;
             color: white;
             height: 200px;
             text-align: center;
             border-radius: 0px 0px 15px 15px;
-    
+
         }
+
         .testiCard {
             height: 350px;
-            background-image: url("../../img/testiBox.png");
-            background-color: #000000;
+            /* background-image: url("../../img/testiBox.png"); */
+            /* background-color: #000000; */
             border-radius: 10px;
+            border: 0.5px solid rgba(0, 0, 0, 0.466) !important;
+            margin: 0px 4px;
+        }
+
+        .exp-img {
+            width: 350px !important;
         }
 
     }
@@ -2299,7 +2312,7 @@
             margin-top: -70px !important;
             z-index: -10000 !important;
         }
-     
+
 
         #paddt {
             padding-top: 75px;
@@ -2324,6 +2337,23 @@
         #sliderFont {
             font-size: 15px !important;
         }
+
+        .leftPdf {
+            height: 350px;
+            margin-left: -63px;
+            border-top: 1px dashed black;
+            border-right: 1px dashed black;
+            border-bottom: 1px dashed black;
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
+
+        .pdfde {
+            border: 1px dashed black;
+            width: 400px;
+            height: 420px;
+        }
+
         .movementArrowww {
             height: 95px;
             rotate: 119deg;
@@ -2349,9 +2379,11 @@
 
         .testiCard {
             height: 350px;
-            background-image: url("../../img/testiBox.png");
-            background-color: #000000;
+            /* background-image: url("../../img/testiBox.png"); */
+            /* background-color: #000000; */
             border-radius: 10px;
+            border: 0.5px solid rgba(0, 0, 0, 0.479) !important;
+            margin: 0px 4px;
         }
 
         .slide_button {
@@ -2388,41 +2420,43 @@
             border-right: 1px solid black;
         }
 
-        .newHover .contentAArea {
-            transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
-        }
 
-        .newHover:hover {
-            min-height: 350px;
-            box-shadow: none;
-        }
         .jeyidea {
             position: absolute;
             top: -28px;
             right: 36%;
             rotate: 69deg;
         }
-        .jeyidea img{
+
+        .jeyidea img {
             height: 60px;
         }
 
-        .newHover:hover .contentAArea {
-            opacity: 1;
-            transform: translateY(200px);
-        }
+
 
         .contentAArea {
             position: absolute;
             top: 0px;
             opacity: 0;
         }
+
         .box_drive {
             background-color: #2c2ca1;
             color: white;
             height: 220px;
             text-align: center;
             border-radius: 0px 0px 15px 15px;
-    
+
+        }
+
+        .rightPdf {
+            height: 350px;
+            margin-right: -32px;
+            border-top: 1px dashed black;
+            border-left: 1px dashed black;
+            border-bottom: 1px dashed black;
+            border-top-left-radius: 10px;
+            border-bottom-left-radius: 10px;
         }
     }
 
@@ -2447,6 +2481,7 @@
         .exp-img {
             width: 350px !important;
         }
+
         .movementArrowww {
             height: 100px;
             rotate: 119deg;
@@ -2456,41 +2491,60 @@
             animation: arrtt 2.5s linear infinite;
         }
 
-        .newHover .contentAArea {
-            transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+
+
+        .leftPdf {
+            height: 350px;
+            margin-left: -140px;
+            border-top: 1px dashed black;
+            border-right: 1px dashed black;
+            border-bottom: 1px dashed black;
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
         }
 
-        .newHover:hover {
-            min-height: 400px;
-            box-shadow: none;
+        .pdfde {
+            border: 1px dashed black;
+            width: 400px;
+            height: 420px;
         }
 
-        .newHover:hover .contentAArea {
-            opacity: 1;
-            transform: translateY(235px);
+        .rightPdf {
+            height: 350px;
+            margin-right: -70px;
+            border-top: 1px dashed black;
+            border-left: 1px dashed black;
+            border-bottom: 1px dashed black;
+            border-top-left-radius: 10px;
+            border-bottom-left-radius: 10px;
         }
+
+
 
         .contentAArea {
             position: absolute;
             top: 0px;
             opacity: 0;
         }
+
         .jeyidea {
             position: absolute;
             top: -28px;
             right: 38%;
             rotate: 69deg;
         }
-        .jeyidea img{
+
+        .jeyidea img {
             height: 60px;
         }
+
         .box_drive {
             background-color: #2c2ca1;
             color: white;
             height: 200px;
             text-align: center;
             border-radius: 0px 0px 15px 15px;
-    
+
         }
 
     }
@@ -2500,4 +2554,8 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
+    }
+
+    .testiCard:hover {
+        border: 1px solid black !important;
     }

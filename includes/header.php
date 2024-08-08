@@ -4,7 +4,8 @@
         top: 0 !important;
         width: 100% !important;
         z-index: 10000;
-        background: linear-gradient(0deg, rgb(34 195 101 / 74%) 0%, rgb(45 74 253 / 52%) 100%);
+        background: white!important;
+        /* background: linear-gradient(0deg, rgb(34 195 101 / 74%) 0%, rgb(45 74 253 / 52%) 100%); */
         box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
         backdrop-filter: blur(4px);
         -webkit-backdrop-filter: blur(4px);
@@ -15,8 +16,9 @@
     .navbar .navbar-nav .nav-link {
     padding: 10px;
     /* color: var(--bs-white); */
-    color: white;
+    color: black;
     font-size: 16px;
+    font-weight: 700;
     outline: none;
     position: relative;
 }
@@ -85,16 +87,24 @@
             </button>
             <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                 <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                <i class="fa-solid fa-house"></i> <a href="index.php" class="nav-item nav-link  ">Home</a>
+                <div id="iconNavg" class="d-flex align-items-center">
+                        <i class="bi bi-house text-dark"></i><a href="index.php" class="nav-item nav-link ">Home</a>
+                    </div>
 
-                    <a href="./about.php" class="nav-item nav-link  ">About Us</a>
-                    <a href="./demo.php" class="nav-item nav-link ">Demo</a>
+                    <div id="iconNavg" class="d-flex align-items-center">
+                        <i class="bi bi-building text-dark"></i> <a href="./about.php" class="nav-item nav-link  ">About Us</a>
+                    </div>
+                    <div id="iconNavg" class="d-flex align-items-center">
+                    <i class="bi bi-display text-dark"></i>  <a href="./demo.php" class="nav-item nav-link ">Demo</a>
+                    </div>
 
 
                     <div class="nav-item dropdown">
                         <a href="javascript:void(0);" class="nav-link dropdown-toggle " data-bs-toggle="dropdown">
-                            <span class="droplink" data-id="snyOpen---mlm_plan.php">MLM Plan
-                            </span></a>
+                        <div id="iconNavg" class="d-flex align-items-center">
+                       <i class="bi bi-bezier text-dark pe-2"></i> <span class="droplink" data-id="snyOpen---mlm_plan.php">MLM Plan
+                       </span>
+                       </div></a>
                         <div class="dropdown-menu rounded">
                             <a href="./binary_plan.php" class="dropdown-item">Binary Plan</a>
                             <a href="./matrix_plan.php" class="dropdown-item">Matrix Plan</a>
@@ -106,8 +116,8 @@
                         </div>
                     </div>
 
-                    <div class="nav-item dropdown">
-                        <a href="javascript:void(0);" class="nav-link dropdown-toggle"
+                    <div class="nav-item dropdown d-flex align-items-center" id="iconNavg">
+                    <i class="bi bi-gear text-dark" ></i> <a href="javascript:void(0);" class="nav-link dropdown-toggle"
                             data-bs-toggle="dropdown">Services</a>
                         <div class="dropdown-menu rounded">
                             <a href="./website_dev.php" class="dropdown-item">Website Development</a>
