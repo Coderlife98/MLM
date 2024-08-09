@@ -18,7 +18,7 @@
 
 <!-- Customized Bootstrap Stylesheet -->
 <link href="./Animate/css/bootstrap.min.css" rel="stylesheet">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 <!-- Template Stylesheet -->
 <link href="./Animate/css/style.css" rel="stylesheet">
 <script src="./jquery/jquery.min.js"></script>

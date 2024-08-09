@@ -35,7 +35,7 @@
     <div class="container-fluid px-0">
         <div class="row">
             <div class="txt-th ">
-                <img src="./img/thank.jpg" class="set-this" alt="@dued">
+                <img src="./img/thank.jpg" loading="lazy" class="set-this" alt="@dued">
             </div>
         </div>
     </div>
@@ -59,7 +59,7 @@
                     </div>
                     <div class="col-12 col-md-6 d-flex  justify-content-center ">
                         <div class="thimg">
-                            <img src="./img/th.svg" height="300px" width="350px" alt="">
+                            <img src="./img/th.svg" loading="lazy" height="300px" width="350px" alt="@dued">
                         </div>
                     </div>
 

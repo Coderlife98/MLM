@@ -22,7 +22,7 @@
      <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid position-relative px-0">
-    <img src="./img/web_hero2.png" alt="" style="width:100%">
+    <img src="./img/matrix_hero.png" loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h2 class="display-2 text-white mb-4 animated slideInDown">Matrix Plan</h2>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -67,7 +67,7 @@
                 <div class="row">
                     <div class="col-12 col-lg-4 my-2">
                         <div>
-                            <img src="./img/matrix.png" class="matrix-img"  alt="">
+                            <img src="./img/matrix.png" loading="lazy" class="matrix-img"  alt="@dued">
                         </div>
                     </div>
                     <div class="col-12 col-lg-8 my-2 wow fadeInRight" data-wow-delay="1s" data-wow-duration="0.5">

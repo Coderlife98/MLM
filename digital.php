@@ -86,7 +86,7 @@
     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid page-header w-100 position-relative px-0 ">
-        <img src="./img/web_hero2.png" loading="lazy" alt="@dued" style="width:100%">
+        <img src="./img/digital_hero.png" loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Digital Marketing</h1>
             <nav aria-label="breadcrumb animated slideInDown">

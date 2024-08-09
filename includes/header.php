@@ -87,22 +87,22 @@
             </button>
             <div class="collapse navbar-collapse bg-transparent" id="navbarCollapse">
                 <div class="navbar-nav ms-auto mx-xl-auto p-0">
-                <div id="iconNavg" class="d-flex align-items-center">
-                        <i class="bi bi-house text-dark"></i><a href="index.php" class="nav-item nav-link ">Home</a>
+                <div id="" class="d-flex align-items-center">
+                <i class="fa-solid fa-house text-dark"></i><a href="index.php" class="nav-item nav-link ">Home</a>
+                    </div>
+<!--id="iconNavg"  -->
+                    <div id="" class="d-flex align-items-center">
+                    <i class="fa-solid fa-building text-dark"></i> <a href="./about.php" class="nav-item nav-link  ">About Us</a>
+                    </div>
+                    <div id="" class="d-flex align-items-center">
+                    <i class="fa-solid fa-desktop text-dark"></i>  <a href="./demo.php" class="nav-item nav-link ">Demo</a>
                     </div>
 
-                    <div id="iconNavg" class="d-flex align-items-center">
-                        <i class="bi bi-building text-dark"></i> <a href="./about.php" class="nav-item nav-link  ">About Us</a>
-                    </div>
-                    <div id="iconNavg" class="d-flex align-items-center">
-                    <i class="bi bi-display text-dark"></i>  <a href="./demo.php" class="nav-item nav-link ">Demo</a>
-                    </div>
 
-
-                    <div class="nav-item dropdown">
-                        <a href="javascript:void(0);" class="nav-link dropdown-toggle " data-bs-toggle="dropdown">
-                        <div id="iconNavg" class="d-flex align-items-center">
-                       <i class="bi bi-bezier text-dark pe-2"></i> <span class="droplink" data-id="snyOpen---mlm_plan.php">MLM Plan
+                    <div class="nav-item dropdown d-flex align-items-center">
+                    <i class="fa-solid fa-network-wired text-dark "></i><a href="javascript:void(0);" class="nav-link dropdown-toggle " data-bs-toggle="dropdown">
+                        <div id="" class="d-flex align-items-center">
+                         <span class="droplink" data-id="snyOpen---mlm_plan.php">MLM Plan
                        </span>
                        </div></a>
                         <div class="dropdown-menu rounded">
@@ -116,8 +116,8 @@
                         </div>
                     </div>
 
-                    <div class="nav-item dropdown d-flex align-items-center" id="iconNavg">
-                    <i class="bi bi-gear text-dark" ></i> <a href="javascript:void(0);" class="nav-link dropdown-toggle"
+                    <div class="nav-item dropdown d-flex align-items-center" id="">
+                    <i class="fa-solid fa-gear text-dark "></i><a href="javascript:void(0);" class="nav-link dropdown-toggle"
                             data-bs-toggle="dropdown">Services</a>
                         <div class="dropdown-menu rounded">
                             <a href="./website_dev.php" class="dropdown-item">Website Development</a>
@@ -128,7 +128,7 @@
             </div>
             <div class="d-none d-xl-flex flex-shirink-0">
                 <div id="phone-tada" class="d-flex align-items-center justify-content-center me-4">
-                    <a href="./contact.php" class="position-relative animated tada infinite">
+                    <a href="./contact.php" class="position-relative  tada infinite">
                         <button class="text-white bg_button_gradient">Contact Us</button>
                     </a>
                 </div>

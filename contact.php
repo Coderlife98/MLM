@@ -18,7 +18,7 @@
 
     <!-- Page Header Start -->
     <div class="container-fluid position-relative px-0 ">
-    <img src="./img/web_hero2.png" alt="@dued" style="width:100%">
+    <img src="./img/contact_hero.png" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Contact Us</h1>
             <nav aria-label="breadcrumb animated slideInDown">

@@ -21,17 +21,17 @@
     <!-- slide contact end -->
 
     <!-- Page Header Start -->
-    <div class="container-fluid px-0 position-relative">
+    <div class="container-fluid px-0 position-relative w-100">
         <img src="./img/about_us.png" loading="lazy" alt="@dued" style="width:100%">
-        <!-- <div class="container text-center py-5">
-            <h1 class="display-2 text-white mb-4 animated slideInDown">About Us</h1>
+        <div class="container  " id="textBannerSet">
+            <h1 class="display-2  mb-4 animated slideInDown text-dark">About Us</h1>
             <nav aria-label="breadcrumb animated slideInDown">
-                <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="./index.php">Home /</a></li>
-                    <li class="breadcrumb-item" aria-current="page">About</li>
+                <ol class="breadcrumb  mb-0" id="subTextBanner">
+                    <li class="breadcrumb-item"><a href="./index.php " class="text-dark">Home /</a></li>
+                    <li class="breadcrumb-item text-dark" aria-current="page">About</li>
                 </ol>
             </nav>
-        </div> -->
+        </div>
     </div>
     <!-- Page Header End -->
 

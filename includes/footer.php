@@ -22,6 +22,23 @@
         border-radius: 100%;
     }
 
+    #myBtn::after{
+        z-index: -1;
+        content: "";
+        position: absolute;
+        left: 2px;
+        top: 0px;
+        width: 45px;
+        height: 45px;
+        -webkit-animation: ripple 1.6s ease-out infinite;
+        -moz-animation: ripple 1.6s ease-out infinite;
+        animation: ripple 1.6s ease-out infinite;
+        opacity: 0;
+        background-image: -moz-linear-gradient(0deg, #69DDCC 0%, #69DDCC 100%);
+        background-image: -webkit-linear-gradient(0deg, #4242fb 0%, #4242fb 100%);
+        border-radius: 100%;
+    }
+
     @keyframes ripple {
 
         0%,
@@ -58,6 +75,30 @@
             position: fixed;
             bottom: 10%;
             left: 5%;
+        }
+    }
+
+    @media (min-width:576px) and (max-width:768px) {
+        .whatsfixed {
+            position: fixed;
+            bottom: 10%;
+            left: 3%;
+        }
+    }
+
+    @media (min-width:768px) and (max-width:992px) {
+        .whatsfixed {
+            position: fixed;
+            bottom: 10%;
+            left: 3%;
+        }
+    }
+
+    @media (min-width:992px) and (max-width:1200px) {
+        .whatsfixed {
+            position: fixed;
+            bottom: 5%;
+            left: 3%;
         }
     }
 

@@ -177,8 +177,9 @@
                 <div class="col-lg-7 col-md-6 d-flex align-items-start justify-content-center flex-column col-sm-12 wow fadeInRight"
                     data-wow-delay=".8s">
                     <!-- header_txt_grd -->
-                    
-                    <h1 class="mb-4 mainHeadi text-primary">Best <span class="text-green addsoftBorder">MLM Software</span> Provider in Patna
+
+                    <h1 class="mb-4 mainHeadi text-primary">Best <span class="text-green addsoftBorder">MLM
+                            Software</span> Provider in Patna
                     </h1>
                     <p class=" text-justify">Welcome to the leading <a href="./mlm_plan.php" title="click me"
                             class="all_link_color">MLM
@@ -241,7 +242,9 @@
                         </div>
                         <p class="text-center">
 
-                        Our software offers a user-friendly interface, real-time analytics, customizable solutions, and secure, reliable performance. It's designed to meet your unique needs and ensure smooth, efficient operations for your business.
+                            Our software offers a user-friendly interface, real-time analytics, customizable solutions,
+                            and secure, reliable performance. It's designed to meet your unique needs and ensure smooth,
+                            efficient operations for your business.
                         </p>
                     </div>
                 </div>
@@ -271,7 +274,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3 my-2">
-                        <div class=" box p-3 wow lightSpeedIn" data-wow-delay="500ms" >
+                        <div class=" box p-3 wow lightSpeedIn" data-wow-delay="500ms">
                             <div class="d-flex justify-content-center">
                                 <img src="./img/flexible.png" width="60px" class="set_bg_img" alt="">
                             </div>
@@ -335,7 +338,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="about_plan my-3" >
+                        <div class="about_plan my-3">
                             <div class="plan_box d-flex align-items-center">
                                 <div class="plan_img pe-3">
                                     <img src="./img/binary_svg.svg" width="30px" alt="@dued">
@@ -372,13 +375,16 @@
                         <div>
                             <h2 class="text-primary">WHY WE <span class="text-green" id="animateX">CHOOSE US</span></h2>
                             <img src="./img/arrow2.png" class="movementArrowww" alt="">
-                            <p class="my-2 wow zoomInUp" data-wow-delay="100ms"><b class="text-dark">Expertise:</b> With years of experience in the MLM
+                            <p class="my-2 wow zoomInUp" data-wow-delay="100ms"><b class="text-dark">Expertise:</b> With
+                                years of experience in the MLM
                                 software industry, we understand the unique challenges and opportunities within network
                                 marketing.</p>
-                            <p class="my-2 wow zoomInUp" data-wow-delay="200ms"><b class="text-dark">Support:</b> Our dedicated support team is here to
+                            <p class="my-2 wow zoomInUp" data-wow-delay="200ms"><b class="text-dark">Support:</b> Our
+                                dedicated support team is here to
                                 assist you 24/7, ensuring your business runs smoothly without any hitches.</p>
 
-                            <p class="my-2 wow zoomInUp" data-wow-delay="300ms"><b class="text-dark">Affordability:</b> Get the best value for your
+                            <p class="my-2 wow zoomInUp" data-wow-delay="300ms"><b class="text-dark">Affordability:</b>
+                                Get the best value for your
                                 investment with our competitively priced software solutions.</p>
 
                         </div>
@@ -393,8 +399,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 px-2 ">
-               
-                <h5 class="text-summary text-center">NetworkMastery</h5>
+                    <h5 class="text-summary text-center">NetworkMastery</h5>
 
                     <h2 class="text-center text-primary">Drive Your Network Marketing Success</h2>
                     <p class="text-center">Mlmgig Software is more than just a tool; it's a partner in your business’s
@@ -403,172 +408,158 @@
                 </div>
             </div>
             <div class="row">
-
-
-
                 <div class="col-12 col-md-4 col-xl-3 my-3   wow fadeInUp" data-wow-delay="200ms">
-                   <div class="hoverUpp ">
-                   <div class="w-100 image-container">
-                        <img src="./img/card/1.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Over 15 years of experience in the MLM software industry</h5>
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/1.png" width="80px" loading="lazy" alt="@dued">
+                        </div>
+                      <div class="contentNeww">
+                      <h5 class="my-2">Over 15 years of experience in the MLM software industry</h5>
                         <p>
                             With over 15 years in MLM software, we provide expert solutions, trusted technology, and
                             innovative tools for your business success.
                         </p>
+                      </div>
                     </div>
-                   </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="300ms">
-                 <div class="hoverUpp">
-                 <div class="w-100">
-                        <img src="./img/card/2.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive set-pdd">
 
-                        <h5 class="text-heddd2">Various MLM <br> Business Plan <br> Options</h5>
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/2.png" loading="lazy"  width="70px" alt="">
+                        </div>
+                      <div class="contentNeww">
+                      <h5 class="my-2">Various MLM
+                            Business Plan
+                            Options</h5>
                         <p>
-                            Explore diverse MLM business plan options to find the perfect strategy that suits your
-                            unique network marketing needs and goals.
+                        Explore diverse MLM business plan options to find the perfect strategy that suits your unique network marketing needs and goals.
                         </p>
+                      </div>
                     </div>
-                 </div>
                 </div>
                 <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="400ms">
-                   <div class="hoverUpp">
-                   <div class="w-100">
-                        <img src="./img/card/3.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Comprehensive Training on MLM Software Installation</h5>
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/3.png" width="70px" loading="lazy" alt="@dued">
+                        </div>
+                      <div class="contentNeww">
+                      <h5 class="my-2">Comprehensive Training on MLM Software Installation</h5>
                         <p>
-
-                            We offer thorough training on MLM software installation, ensuring you understand every step
-                            and optimize setup effectively.
+                        We offer thorough training on MLM software installation, ensuring you understand every step and optimize setup effectively.
                         </p>
+                      </div>
                     </div>
-                   </div>
                 </div>
                 <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="500ms">
-                   <div class="hoverUpp">
-                   <div class="w-100">
-                        <img src="./img/card/4.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Secure and Reliable MLM <br> Software</h5>
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/4.png" loading="lazy" width="70px" alt="@dued">
+                        </div>
+                       <div class="contentNeww">
+                       <h5 class="my-2">Secure and Reliable MLM
+                        Software</h5>
                         <p>
-
-                            Our MLM software offers robust security and reliability, ensuring safe transactions and
-                            dependable performance for your business.
+                        Our MLM software offers robust security and reliability, ensuring safe transactions and dependable performance for your business.
                         </p>
+                       </div>
                     </div>
-                   </div>
                 </div>
                 <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="600ms">
-                   <div class="hoverUpp">
-                   <div class="w-100">
-                        <img src="./img/card/5.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Expert Development Team</h5>
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/5.png" width="70px" loading="lazy" alt="@dued">
+                        </div>
+                       <div class="contentNeww">
+                       <h5 class="my-2">Expert Development Team</h5>
                         <p>
-                            Our expert development team delivers innovative solutions with precision, ensuring top-notch
-                            quality tailored to your unique needs and goals.
+                        Our expert development team delivers innovative solutions with precision, ensuring top-notch quality tailored to your unique needs and goals.
                         </p>
+                       </div>
                     </div>
-                   </div>
                 </div>
                 <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="700ms">
-                  <div class="hoverUpp">
-                  <div class="w-100">
-                        <img src="./img/card/6.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Simple <br> Customization</h5>
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/6.png" width="70px" loading="lazy" alt="@dued">
+                        </div>
+                      <div class="contentNeww">
+                      <h5 class="my-2">Simple
+                        Customization</h5>
                         <p>
-
-                            Our software offers simple customization options, allowing you to tailor features and
-                            settings to perfectly match your business needs.
+                        Our software offers simple customization options, allowing you to tailor features and settings to perfectly match your business needs.
                         </p>
+                      </div>
                     </div>
-                  </div>
                 </div>
 
                 <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp " data-wow-delay="800ms">
-                   <div class="hoverUpp">
-                   <div class="w-100">
-                        <img src="./img/card/7.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Global User <br> Base</h5>
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/7.png" loading="lazy" width="70px" alt="@dued">
+                        </div>
+                       <div class="contentNeww">
+                       <h5 class="my-2">Global User
+                        Base</h5>
                         <p>
-
-                            Our software supports a global user base, seamlessly integrating with diverse markets and
-                            industries for widespread accessibility and success.
+                        Our software supports a global user base, seamlessly integrating with diverse markets and industries for widespread accessibility and success.
                         </p>
+                       </div>
                     </div>
-                   </div>
                 </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="900ms">
-                   <div class="hoverUpp">
-                   <div class="w-100">
-                        <img src="./img/card/8.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Dependable and Robust Platform</h5>
+               
+               
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="1100ms">
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/8.png" width="70px" loading="lazy" alt="@dued">
+                        </div>
+                       <div class="contentNeww">
+                       <h5 class="my-2">User-Friendly Interface</h5>
                         <p>
-
-                            Our platform offers reliability and strength, ensuring consistent performance and stability
-                            for all your needs.
+                        A user-friendly interface ensures effortless navigation and smooth interactions, making your experience intuitive and enjoyable.
                         </p>
+                       </div>
                     </div>
-                   </div>
                 </div>
                 <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="1000ms">
-                  <div class="hoverUpp">
-                  <div class="w-100">
-                        <img src="./img/card/9.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Stable and Scalable Solutions</h5>
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/9.png" width="70px" loading="lazy" alt="@dued">
+                        </div>
+                       <div class="contentNeww">
+                       <h5 class="my-2">Stable and Scalable Solutions</h5>
                         <p>
-
-                            Discover solutions that offer both stability and scalability, ensuring your business can
-                            grow seamlessly and reliably.
+                        Discover solutions that offer both stability and scalability, ensuring your business can grow seamlessly and reliably.
                         </p>
+                       </div>
                     </div>
-                  </div>
-                </div>
-                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="1100ms">
-                  <div class="hoverUpp">
-                  <div class="w-100">
-                        <img src="./img/card/10.jpg" class="w-100 objectCoverImg" loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">User-Friendly Interface</h5>
-                        <p>
-
-                            A user-friendly interface ensures effortless navigation and smooth interactions, making your
-                            experience intuitive and enjoyable.
-                        </p>
-                    </div>
-                  </div>
                 </div>
                 <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="1200ms">
-                   <div class="hoverUpp">
-                   <div class="w-100">
-                        <img src="./img/card/11.jpg" class="w-100 objectCoverImg " loading="lazy" height="200px" alt="">
-                    </div>
-                    <div class="box_drive p-3">
-                        <h5 class="text-heddd2">Utilizes the Latest Technologies</h5>
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/10.png" width="70px" loading="lazy" alt="@dued">
+                        </div>
+                        <div class="contentNeww">
+                        <h5 class="my-2">Utilizes the Latest Technologies</h5>
                         <p>
-
-                            Our software leverages the latest technologies to ensure high performance, security, and
-                            innovation, keeping you ahead in the competitive market.
+                        Our software leverages the latest technologies to ensure high performance and innovation, keeping you ahead in the competitive market.
                         </p>
+                        </div>
                     </div>
-                   </div>
+                </div>
+                <div class="col-12 col-xl-3 col-md-4 my-3 wow fadeInUp" data-wow-delay="900ms">
+                    <div class="hoverUppnew p-3">
+                        <div class="hverSectionImg d-flex justify-content-center align-items-center">
+                            <img src="./img/card/11.png" width="70px" loading="lazy" alt="@dued">
+                        </div>
+                       <div class="contentNeww">
+                       <h5 class="my-2">Dependable and Robust Platform</h5>
+                        <p>
+                        Our platform offers reliability and strength, ensuring consistent performance and stability for all your needs.
+                        </p>
+                       </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -590,18 +581,18 @@
                         software</a>, it must include
                     the following features:</p>
             </div>
-            <div class="owl-carousel testimonial-carousel " >
+            <div class="owl-carousel testimonial-carousel ">
                 <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="500ms">
-                   <div class="d-flex align-items-center">
-                   <div class="testDib d-flex align-items-center justify-content-center">
-                        <img src="./img/tracking.png" class="testImgg" alt="">
-                    </div>
-                    <div class="d-flex justify-content-center">
-                        <div class="ms-4 ">
-                            <h6 class="text-secondary">Commission Tracking</h6>
+                    <div class="d-flex align-items-center">
+                        <div class="testDib d-flex align-items-center justify-content-center">
+                            <img src="./img/tracking.png" loading="lazy" class="testImgg" alt="@dued">
+                        </div>
+                        <div class="d-flex justify-content-center">
+                            <div class="ms-4 ">
+                                <h6 class="text-secondary">Commission Tracking</h6>
+                            </div>
                         </div>
                     </div>
-                   </div>
                     <div class=" mt-4 pt-3">
                         <p class="mb-0 text-center ">Accurately monitor and calculate commissions for each
                             member using real-time data, detailed reports, automated calculations, and customizable
@@ -611,7 +602,7 @@
                 <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="700ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
-                            <img src="./img/genelogy.png" class="testImgg" alt="">
+                            <img src="./img/genelogy.png" loading="lazy" class="testImgg" alt="@dued">
                         </div>
                         <div class="ms-4">
                             <h6 class="text-secondary">Genealogy Tracking</h6>
@@ -629,7 +620,7 @@
                 <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="900ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
-                            <img src="./img/report.png" class="testImgg" alt="">
+                            <img src="./img/report.png" loading="lazy" class="testImgg" alt="@dued">
                         </div>
                         <div class="ms-4">
                             <h6 class="text-secondary">Reporting</h6>
@@ -638,13 +629,15 @@
                     </div>
                     <div class=" mt-4 pt-3">
                         <p class="mb-0 text-center ">
-                        Generate detailed performance and business insights reports to analyze metrics, track growth, and identify trends. These reports facilitate strategic decision-making and optimize business operations.</p>
+                            Generate detailed performance and business insights reports to analyze metrics, track
+                            growth, and identify trends. These reports facilitate strategic decision-making and optimize
+                            business operations.</p>
                     </div>
                 </div>
                 <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="1200ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
-                            <img src="./img/ecommerce.png" class="testImgg" alt="">
+                            <img src="./img/ecommerce.png" loading="lazy" class="testImgg" alt="@dued">
                         </div>
                         <div class="ms-4">
                             <h6 class="text-secondary">E-commerce Integration</h6>
@@ -653,13 +646,15 @@
                     </div>
                     <div class=" mt-4 pt-3">
                         <p class="mb-0 text-center ">
-                        Seamless integration with e-commerce platforms optimizes sales processes, enhances transaction efficiency, and streamlines order management, leading to a more fluid and effective online retail experience.</p>
+                            Seamless integration with e-commerce platforms optimizes sales processes, enhances
+                            transaction efficiency, and streamlines order management, leading to a more fluid and
+                            effective online retail experience.</p>
                     </div>
                 </div>
                 <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="1300ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
-                            <img src="./img/member.png" class="testImgg" alt="">
+                            <img src="./img/member.png" loading="lazy" class="testImgg" alt="@dued">
                         </div>
                         <div class="ms-4">
                             <h6 class="text-secondary">Member Management</h6>
@@ -667,13 +662,15 @@
                         </div>
                     </div>
                     <div class="  mt-4 pt-3">
-                        <p class="mb-0 text-center ">Efficiently manage member data and activities by utilizing integrated tools for tracking performance, streamlining communications, and automating tasks, ensuring seamless operations and enhanced productivity.</p>
+                        <p class="mb-0 text-center ">Efficiently manage member data and activities by utilizing
+                            integrated tools for tracking performance, streamlining communications, and automating
+                            tasks, ensuring seamless operations and enhanced productivity.</p>
                     </div>
                 </div>
                 <div class="testiCard border p-4 wow fadeInUp" data-wow-delay="1500ms">
                     <div class=" d-flex align-items-center">
                         <div class="testDib d-flex align-items-center justify-content-center">
-                            <img src="./img/marketing.png" class="testImgg" alt="">
+                            <img src="./img/marketing.png" loading="lazy" class="testImgg" alt="@dued">
                         </div>
                         <div class="ms-4">
                             <h6 class="text-secondary">Marketing Tools</h6>
@@ -797,13 +794,17 @@
                             <div class="col-lg-6 col-12">
                                 <span class="fw-bolder text-dark">Legal Requirements and Regulations</span>
                                 <div class="text-dark">
-                                    <p class="my-2 wow fadeInUp" data-wow-delay="200ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-boldelex"></i>
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="200ms"> <i
+                                            class=" fa fa-arrow-right me-2 text-danger fw-boldelex"></i>
                                         Consumer Protection Laws</p>
-                                    <p class="my-2 wow fadeInUp" data-wow-delay="400ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Data
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="400ms"> <i
+                                            class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> Data
                                         Privacy and Security Laws</p>
-                                    <p class="my-2 wow fadeInUp" data-wow-delay="600ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="600ms"> <i
+                                            class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
                                         Financial Reporting Requirements</p>
-                                    <p class="my-2 wow fadeInUp" data-wow-delay="800ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="800ms"> <i
+                                            class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i>
                                         Network Marketing Registration</p>
                                 </div>
                             </div>
@@ -817,9 +818,11 @@
                                         <p class="mb-0">A
                                             dedicated team of developers and support staff</p>
                                     </div>
-                                    <p class="my-2 wow fadeInUp" data-wow-delay="200ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="200ms"> <i
+                                            class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> A
                                         robust server infrastructure</p>
-                                    <p class="my-2 wow fadeInUp" data-wow-delay="400ms"> <i class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> An
+                                    <p class="my-2 wow fadeInUp" data-wow-delay="400ms"> <i
+                                            class=" fa fa-arrow-right me-2 text-danger fw-bolder"></i> An
                                         adequate budget to cover initial costs</p>
 
                                 </div>
@@ -835,7 +838,7 @@
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div class="set_bg_coor wow fadeInRight" data-wow-delay="200ms">
-                            <img src="./img/think.png" class="img_radius" alt="">
+                            <img src="./img/think.png" loading="lazy" class="img_radius" alt="@dued">
                         </div>
                     </div>
                 </div>
@@ -861,84 +864,89 @@
                     <div class="services-item bg-light">
                         <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
-                              <div class="d-flex justify-content-center align-items-center">
-                              <div class=" rotateBox p-2 ">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class=" rotateBox p-2 ">
+                                    </div>
+                                    <div class="img-rotate d-flex justify-content-center align-items-center">
+                                        <img src="./img/business_growth.png" loading="lazy" width="70px" alt="@dued">
+                                    </div>
                                 </div>
-                                <div class="img-rotate d-flex justify-content-center align-items-center">
-                                    <img src="./img/business_growth.png" width="70px" alt="@dued">
+                                <div class="py-3">
+                                    <h5>The scale and nature of your enterprise</h5>
                                 </div>
-                              </div>
-                              <div class="py-3">
-                                <h5>The scale and nature of your enterprise</h5>
-                              </div>
-                                <p class="">The scale and nature of your enterprise determine the tailored solutions we provide, ensuring optimal performance and growth for your business.</p>
+                                <p class="">The scale and nature of your enterprise determine the tailored solutions we
+                                    provide, ensuring optimal performance and growth for your business.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="400ms">
                     <div class="services-item bg-light">
-                    <div class="p-4 text-center services-content">
+                        <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
-                              <div class="d-flex justify-content-center align-items-center">
-                              <div class=" rotateBox p-2 ">
-                                </div>
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class=" rotateBox p-2 ">
+                                    </div>
 
-                                <div class="img-rotate">
-                                    <img src="./img/fan.png" width="70px" alt="@dued">
+                                    <div class="img-rotate">
+                                        <img src="./img/fan.png" loading="lazy" width="70px" alt="@dued">
+                                    </div>
                                 </div>
-                              </div>
-                              <div class="py-3">
-                                <h5>Financial <br> constraints</h5>
-                              </div>
+                                <div class="py-3">
+                                    <h5>Financial <br> constraints</h5>
+                                </div>
                                 <p class="">
-                                Financial constraints can limit a business's ability to invest in growth, innovation, and resources, impacting overall performance and competitiveness.</p>
+                                    Financial constraints can limit a business's ability to invest in growth,
+                                    innovation, and resources, impacting overall performance and competitiveness.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="600ms">
                     <div class="services-item bg-light">
-                    <div class="p-4 text-center services-content">
+                        <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
-                              <div class="d-flex justify-content-center align-items-center">
-                              <div class=" rotateBox p-2 ">
-                                </div>
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class=" rotateBox p-2 ">
+                                    </div>
 
-                                <div class="img-rotate">
-                                    <img src="./img/function.png" width="70px" alt="@dued">
+                                    <div class="img-rotate">
+                                        <img src="./img/function.png" loading="lazy" width="70px" alt="@dued">
+                                    </div>
                                 </div>
-                              </div>
-                              <div class="py-3">
-                                <h5>Specific functionalities <br> needed</h5>
-                              </div>
+                                <div class="py-3">
+                                    <h5>Specific functionalities <br> needed</h5>
+                                </div>
                                 <p class="">
-                                Our software includes essential features like user management, secure transactions, and real-time analytics, ensuring smooth operations and optimal performance for your business.</p>
+                                    Our software includes essential features like user management, secure transactions,
+                                    and real-time analytics, ensuring smooth operations and optimal performance for your
+                                    business.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="700ms">
                     <div class="services-item bg-light">
-                    <div class="p-4 text-center services-content">
+                        <div class="p-4 text-center services-content">
                             <div class="services-content-icon">
-                              <div class="d-flex justify-content-center align-items-center">
-                              <div class=" rotateBox p-2 ">
-                                </div>
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class=" rotateBox p-2 ">
+                                    </div>
 
-                                <div class="img-rotate">
-                                    <img src="./img/quality.png" width="80px" alt="@dued">
+                                    <div class="img-rotate">
+                                        <img src="./img/quality.png" width="80px" alt="@dued">
+                                    </div>
                                 </div>
-                              </div>
-                              <div class="py-3">
-                                <h5>Quality of customer assistance</h5>
-                              </div>
-                                <p class="">We provide top-notch customer assistance, ensuring quick responses, effective solutions, and personalized support to meet all your needs.</p>
+                                <div class="py-3">
+                                    <h5>Quality of customer assistance</h5>
+                                </div>
+                                <p class="">We provide top-notch customer assistance, ensuring quick responses,
+                                    effective solutions, and personalized support to meet all your needs.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-              
+
             </div>
         </div>
     </div>
@@ -955,7 +963,7 @@
                 <div class="row">
                     <div class="col-12 col-lg-7 my-2 d-flex align-items-center">
                         <div class="head_gig">
-                      
+
                             <h3 class="text-primary">Is MLM gig software customizable?</h3>
                             <p class="text-justify">Certainly, <a href="./index.php" class="fw-bolder">MLM software</a>
                                 can be tailored to suit the needs of your

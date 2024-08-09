@@ -21,7 +21,7 @@
      <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid position-relative px-0">
-    <img src="./img/web_hero2.png" alt="" style="width:100%">
+    <img src="./img/helping_hero.png" alt="" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Helping Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">

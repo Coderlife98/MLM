@@ -22,7 +22,7 @@
 
     <!-- Page Header Start -->
     <div class="container-fluid px-0 position-relative" style="width:100%;">
-        <img src="./img/web_hero2.png" loading="lazy" alt="@dued" style="width:100%">
+        <img src="./img/web_hero.png" loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center " id="textArrange">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Website development</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -44,7 +44,7 @@
             <div class="row g-5">
                 <div class="col-lg-5 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay=".5s">
                    <div>
-                    <img src="./img/website_1.png" class="caller_img" alt="">
+                    <img src="./img/website_1.png" loading="lazy" class="caller_img" alt="@dued" >
                    </div>
                 </div>
                 <div class="col-lg-7 col-md-6 col-sm-12 wow fadeInRight d-flex flex-column justify-content-center" data-wow-delay=".5s">

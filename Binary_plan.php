@@ -22,7 +22,7 @@
     <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid position-relative px-0">
-        <img src="./img/web_hero2.png"  loading="lazy" alt="@dued" style="width:100%">
+        <img src="./img/binary_hero.png"  loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Binary Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">

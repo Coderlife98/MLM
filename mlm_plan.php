@@ -22,7 +22,7 @@
      <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid position-relative px-0">
-    <img src="./img/about_us.png" alt="" style="width:100%">
+    <img src="./img/mlm_plan.png" loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown"> MLM Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-12 col-lg-5 my-3 d-flex justify-content-center">
                         <div>
-                            <img src="./img/success.png" class="success_img" alt="">
+                            <img src="./img/success.png" loading="lazy" class="success_img" alt="@dued">
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                 <div class="row border_doo">
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div>
-                            <img src="./img/binary.png" height="220px" alt="">
+                            <img src="./img/binary.png" height="220px" loading="lazy" alt="@dued">
                         </div>
                     </div>
                     <div class="col-12 col-lg-7 my-2">
@@ -109,7 +109,7 @@
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div>
-                            <img src="./img/matrix.png" height="220px" alt="">
+                            <img src="./img/matrix.png" loading="lazy" height="220px" alt="@dued">
                         </div>
                     </div>
 
@@ -119,7 +119,7 @@
                 <div class="row border_doo3">
                     <div class="col-12 order-2 order-md-0 col-lg-5 my-2">
                         <div>
-                            <img src="./img/uni.png" height="220px" alt="">
+                            <img src="./img/uni.png" loading="lazy" height="220px" alt="@dued">
                         </div>
                     </div>
                     <div class="col-12 col-lg-7 my-2 d-flex justify-content-center">
@@ -255,7 +255,7 @@
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div>
-                            <img src="./img/generation.jpg" height="220px" alt="">
+                            <img src="./img/generation.jpg" loading="lazy" height="220px" alt="@dued">
                         </div>
                     </div>
                 </div>
@@ -348,7 +348,7 @@
                 <div class="row">
                     <div class="col-12 order-2 order-lg-0 col-md-5 my-3 d-flex justify-content-center">
                         <div>
-                            <img src="./img/software.png" height="300px" alt="">
+                            <img src="./img/software.png" loading="lazy" height="300px" alt="@dued">
                         </div>
                     </div>
                     <div class="col-12 col-md-7 my-3 d-flex align-items-center">

@@ -22,7 +22,7 @@
      <!-- slide contact end -->
     <!-- Page Header Start -->
     <div class="container-fluid px-0 position-relative">
-    <img src="./img/web_hero2.png" alt="" style="width:100%">
+    <img src="./img/unilevel_hero.png" loading="lazy" alt="@dued" style="width:100%">
         <!-- <div class="container text-center py-5">
             <h1 class="display-2 text-white mb-4 animated slideInDown">Unilevel Plan</h1>
             <nav aria-label="breadcrumb animated slideInDown">
@@ -43,7 +43,7 @@
                 <div class="row">
                     <div class="col-12 col-lg-5 order-0 order-md-2 order-lg-0 my-3 wow fadeInLeft" data-wow-delay="0.5">
                         <div>
-                            <img src="./img/unilevel.jpg" class="unilevel-img" alt="">
+                            <img src="./img/unilevel.jpg" loading="lazy" class="unilevel-img" alt="@dued">
                         </div>
                     </div>
                     <div class="col-12 col-lg-7 my-3 wow zoomIn d-flex align-items-center" data-wow-delay="0.8">
@@ -81,7 +81,7 @@
                 </div>
             <div class="col-12 col-md-5 my-2 d-flex justify-content-center">
             <div>
-                <img src="./img/growth.png" class="groth56" alt="">
+                <img src="./img/growth.png" loading="lazy" class="groth56" alt="@dued">
               </div>
             </div>
             </div>
@@ -94,7 +94,7 @@
                 <div class="row">
                 <div class="col-12 col-lg-5 my-2 order-2 order-lg-0 d-flex justify-content-center ">
                         <div>
-                            <img src="./img/advantage.png" height="350px" alt="">
+                            <img src="./img/advantage.png" loading="lazy" height="350px" alt="@dued">
                         </div>
                     </div>
                     <div class="col-12 col-lg-7 my-2 wow zoomIn" data-wow-delay="0.8">
@@ -150,7 +150,7 @@
                     </div>
                     <div class="col-12 col-lg-5 my-2 d-flex justify-content-center">
                         <div>
-                            <img src="./img/features.png" class="featImg" alt="@dued">
+                            <img src="./img/features.png" loading="lazy" class="featImg" alt="@dued">
                         </div>
                     </div>
                 </div>

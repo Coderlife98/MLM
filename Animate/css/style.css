@@ -782,8 +782,8 @@
         /* border: 1px dotted black; */
     }
 
-    .dued-up:hover i{
-        color: white!important;
+    .dued-up:hover i {
+        color: white !important;
     }
 
 
@@ -871,6 +871,8 @@
     .about_plan:hover {
         background-color: rgba(128, 128, 128, 0.082);
         box-shadow: none;
+        transform: translateX(-10px);
+        border: 0.2px solid rgba(0, 0, 0, 0.144)
     }
 
     .dis_co_btn {
@@ -894,8 +896,8 @@
         color: #007f01;
     }
 
-    .text-secondary22{
-        color:#69e36b;
+    .text-secondary22 {
+        color: #69e36b;
     }
 
     .text-heddd {
@@ -915,6 +917,11 @@
         height: 240px;
         border: 0.5px solid #00000052;
         transition: 0.9s;
+    }
+
+
+    #subTextBanner {
+        position: absolute;
     }
 
     .box:hover {
@@ -962,8 +969,68 @@
         box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     }
 
+    .hoverUppnew {
+        border: 1px solid black;
+        border-radius: 0px 15px 5px 0px;
+        position: relative;
+        /* width: 300px;
+        height: 200px; */
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .hoverUppnew::before {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 0;
+        height: 0;
+        border-radius: 0px 15px 5px 0px;
+        background-color: #18a7e8;
+        transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
+        opacity: 0;
+        z-index: 1;
+    }
+
+    .hoverUppnew:hover::before {
+        width: 100%;
+        height: 100%;
+        opacity: 1;
+        z-index: 1;
+        transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
+    }
 
 
+    .hverSectionImg {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border: 1px solid black;
+        position: relative;
+        z-index: 1;
+    }
+
+    .contentNeww {
+        position: relative;
+        z-index: 1;
+    }
+
+
+
+
+    .hoverUppnew:hover .hverSectionImg {
+        background-color: #ffffff;
+        border: 1px dashed green;
+    }
+
+    .hoverUppnew:hover .contentNeww>h5 {
+        color: rgb(40 36 227);
+    }
+
+    .hoverUppnew:hover .contentNeww>p {
+        color: #ffffff;
+    }
 
 
     .suuyy {
@@ -1229,10 +1296,6 @@
         background-color: #06084185;
     }
 
-    .set_add_fea {
-        /* background: linear-gradient(137deg, rgba(23, 37, 84, 1) 0%, rgba(23, 37, 84, 1) 48%, rgba(0, 0, 0, 1) 100%);
-        color: white; */
-    }
 
     .set_glass {
         /* background: linear-gradient(45deg, #e879f92e, transparent); */
@@ -1693,6 +1756,7 @@
     .text-sny {
         color: #9ab1f1;
     }
+
     .text-sny:hover {
         color: #07b3ff !important;
     }
@@ -1999,6 +2063,17 @@
             border: 0.5px solid rgba(0, 0, 0, 0.473) !important;
         }
 
+        #textBannerSet {
+            position: absolute;
+            top: 25px;
+           padding-left: 29px!important;
+            padding: 0px;
+        }
+        .display-2 {
+            font-size: 15px;
+            margin-bottom: 5px!important;
+        }
+
     }
 
     @media (min-width:578px) and (max-width:768px) {
@@ -2094,6 +2169,12 @@
 
         }
 
+        #textBannerSet {
+            position: absolute;
+            top: 5px;
+            left: 10%;
+        }
+
         .testiCard {
             height: 350px;
             /* background-image: url("../../img/testiBox.png"); */
@@ -2101,6 +2182,10 @@
             border-radius: 10px;
             border: 0.5px solid rgba(0, 0, 0, 0.308) !important;
             margin: 0px 4px;
+        }
+        .display-2 {
+            font-size: 30px;
+            margin-bottom: 10px!important;
         }
     }
 
@@ -2199,6 +2284,12 @@
 
         }
 
+        #textBannerSet {
+            position: absolute;
+            top: 32px;
+            left: 10%;
+        }
+
         .testiCard {
             height: 350px;
             /* background-image: url("../../img/testiBox.png"); */
@@ -2206,6 +2297,11 @@
             border-radius: 10px;
             border: 0.5px solid rgba(0, 0, 0, 0.473) !important;
             margin: 0px 4px;
+        }
+
+        .display-2 {
+            font-size: 30px;
+            margin-bottom: 10px!important;
         }
     }
 
@@ -2244,6 +2340,7 @@
 
         .display-2 {
             font-size: 35px;
+            margin-bottom: 10px!important;
         }
 
         .bg-primary__gradient {
@@ -2282,6 +2379,12 @@
             border-radius: 10px;
             border: 0.5px solid rgba(0, 0, 0, 0.466) !important;
             margin: 0px 4px;
+        }
+
+        #textBannerSet {
+            position: absolute;
+            top: 42px;
+            left: 10%;
         }
 
         .exp-img {
@@ -2458,6 +2561,13 @@
             border-top-left-radius: 10px;
             border-bottom-left-radius: 10px;
         }
+
+        #textBannerSet {
+            position: absolute;
+            top: 56px;
+            left: 10%;
+        }
+
     }
 
     @media (min-width:1400px) {
@@ -2501,6 +2611,12 @@
             border-bottom: 1px dashed black;
             border-top-right-radius: 10px;
             border-bottom-right-radius: 10px;
+        }
+
+        #textBannerSet {
+            position: absolute;
+            top: 80px;
+            left: 10%;
         }
 
         .pdfde {
